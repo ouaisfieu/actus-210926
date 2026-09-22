@@ -1,0 +1,54 @@
+{
+ "id": "sondage-wallonie",
+ "title": {
+  "fr": "Intentions de vote en Wallonie, printemps 2026 et élections de 2024",
+  "nl": "Stemintenties in Wallonië, voorjaar 2026 en verkiezingen van 2024"
+ },
+ "unit": {
+  "fr": " %",
+  "nl": " %"
+ },
+ "categories": [
+  "PS",
+  "MR",
+  "Les Engagés",
+  "PTB",
+  "Ecolo"
+ ],
+ "series": [
+  {
+   "name": {
+    "fr": "Printemps 2026",
+    "nl": "Voorjaar 2026"
+   },
+   "values": [
+    24.9,
+    20.0,
+    19.3,
+    18.6,
+    6.8
+   ]
+  },
+  {
+   "name": {
+    "fr": "Élections 2024",
+    "nl": "Verkiezingen 2024"
+   },
+   "values": [
+    22.0,
+    28.2,
+    null,
+    11.6,
+    null
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "rtbf-enquete-2026",
+   "title": "L'Enquête nationale 2026 : le MR dégringole, le PS et le PTB en profitent pour devenir leaders en Wallonie et à Bruxelles",
+   "url": "https://www.rtbf.be/article/l-enquete-nationale-2026-le-mr-degringole-le-ps-et-le-ptb-en-profitent-pour-devenir-leaders-en-wallonie-et-a-bruxelles-11729854"
+  }
+ ],
+ "licence": "CC0-1.0"
+}

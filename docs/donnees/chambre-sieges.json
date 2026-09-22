@@ -1,0 +1,55 @@
+{
+ "id": "chambre-sieges",
+ "title": {
+  "fr": "Sièges à la Chambre des représentants après le 9 juin 2024",
+  "nl": "Zetels in de Kamer van volksvertegenwoordigers na 9 juni 2024"
+ },
+ "unit": {
+  "fr": "",
+  "nl": ""
+ },
+ "categories": [
+  "N-VA",
+  "Vlaams Belang",
+  "MR",
+  "PS",
+  "PTB-PVDA",
+  "Les Engagés",
+  "Vooruit",
+  "CD&V",
+  "Open Vld",
+  "Groen",
+  "Ecolo",
+  "DéFI"
+ ],
+ "series": [
+  {
+   "name": {
+    "fr": "Sièges",
+    "nl": "Zetels"
+   },
+   "values": [
+    24,
+    20,
+    20,
+    16,
+    15,
+    14,
+    13,
+    11,
+    7,
+    6,
+    3,
+    1
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "elections-2024",
+   "title": "Élections du 9 juin 2024 — tableaux des résultats",
+   "url": "https://elections.fgov.be/elections-du-9-juin-2024-tableaux-des-resultats"
+  }
+ ],
+ "licence": "CC0-1.0"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "sondage-flandre",
+ "title": {
+  "fr": "Intentions de vote en Flandre, printemps 2026",
+  "nl": "Stemintenties in Vlaanderen, voorjaar 2026"
+ },
+ "unit": {
+  "fr": " %",
+  "nl": " %"
+ },
+ "categories": [
+  "N-VA",
+  "Vlaams Belang",
+  "Vooruit",
+  "CD&V",
+  "PVDA"
+ ],
+ "series": [
+  {
+   "name": {
+    "fr": "Printemps 2026",
+    "nl": "Voorjaar 2026"
+   },
+   "values": [
+    27.7,
+    20.8,
+    12.9,
+    12.2,
+    8.2
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "rtbf-enquete-2026",
+   "title": "L'Enquête nationale 2026 : le MR dégringole, le PS et le PTB en profitent pour devenir leaders en Wallonie et à Bruxelles",
+   "url": "https://www.rtbf.be/article/l-enquete-nationale-2026-le-mr-degringole-le-ps-et-le-ptb-en-profitent-pour-devenir-leaders-en-wallonie-et-a-bruxelles-11729854"
+  },
+  {
+   "id": "dh-barometre-1303",
+   "title": "Grand Baromètre : le PS premier parti en Wallonie, le PTB continue à monter à Bruxelles, le MR dégringole",
+   "url": "https://www.dhnet.be/actu/belgique/2026/03/13/grand-barometre-le-ps-premier-parti-en-wallonie-le-ptb-continue-a-monter-a-bruxelles-le-mr-degringole-XGUTFWKN4VG23PFJEF6DLLUXDE/"
+  }
+ ],
+ "licence": "CC0-1.0"
+}

@@ -1,0 +1,71 @@
+{
+ "id": "cpas-report",
+ "title": {
+  "fr": "Quelle part des exclus du chômage se tourne vers le CPAS ?",
+  "nl": "Welk deel van de uitgesloten werklozen klopt aan bij het OCMW?"
+ },
+ "unit": {
+  "fr": " %",
+  "nl": " %"
+ },
+ "categories": [
+  {
+   "fr": "Hypothèse du gouvernement",
+   "nl": "Hypothese van de regering"
+  },
+  {
+   "fr": "KU Leuven, borne basse",
+   "nl": "KU Leuven, ondergrens"
+  },
+  {
+   "fr": "KU Leuven, borne haute",
+   "nl": "KU Leuven, bovengrens"
+  },
+  {
+   "fr": "Observé, moyenne belge (1er sem. 2026)",
+   "nl": "Waargenomen, Belgisch gemiddelde (1e helft 2026)"
+  },
+  {
+   "fr": "Observé, début 2026",
+   "nl": "Waargenomen, begin 2026"
+  },
+  {
+   "fr": "Observé, Wallonie (1er sem. 2026)",
+   "nl": "Waargenomen, Wallonië (1e helft 2026)"
+  }
+ ],
+ "series": [
+  {
+   "name": {
+    "fr": "Part se tournant vers le CPAS",
+    "nl": "Aandeel dat naar het OCMW gaat"
+   },
+   "values": [
+    33.0,
+    27.0,
+    42.0,
+    44.0,
+    46.5,
+    48.7
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "dh-kuleuven-1404",
+   "title": "Réforme du chômage : l'afflux vers les CPAS serait moins massif que prévu, selon une étude de la KU Leuven",
+   "url": "https://www.dhnet.be/dernieres-depeches/2026/04/14/reforme-du-chomage-lafflux-vers-les-cpas-serait-moins-massif-que-prevu-selon-une-etude-de-la-ku-leuven-EQ4MBU5NCZCVHJETS2J3CORA4I/"
+  },
+  {
+   "id": "lavenir-cpas50-1009",
+   "title": "Les CPAS ont 50 ans : du Minimex de 1976 aux exclusions massives de 2026",
+   "url": "https://www.lavenir.net/actu/belgique/politique/2026/09/10/les-cpas-ont-50-ans-du-minimex-de-1976-aux-exclusions-de-2026-SETJU7XDQZEMDIADUQYY56WQEM/"
+  },
+  {
+   "id": "moustique-cpas-1203",
+   "title": "Chômage : seul un tiers des exclus devait s'adresser au CPAS, selon les calculs de l'Arizona",
+   "url": "https://www.moustique.be/notre-epoque/nos-explications/2026/03/12/exclusions-du-chomage-les-cpas-voient-ils-affluer-les-demandes-de-revenu-dintegration-B63TSFM4HJG4LBPMIWFKOC7C7A/"
+  }
+ ],
+ "licence": "CC0-1.0"
+}

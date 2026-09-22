@@ -1,0 +1,53 @@
+{
+ "id": "dette-pib",
+ "title": {
+  "fr": "Dette publique belge, en % du PIB",
+  "nl": "Belgische overheidsschuld, in % van het bbp"
+ },
+ "unit": {
+  "fr": " %",
+  "nl": " %"
+ },
+ "categories": [
+  "2024",
+  "2025",
+  "2026",
+  "2027",
+  "2028",
+  "2029"
+ ],
+ "series": [
+  {
+   "name": {
+    "fr": "Dette publique",
+    "nl": "Overheidsschuld"
+   },
+   "values": [
+    105.7,
+    107.9,
+    111.3,
+    112.9,
+    114.8,
+    116.6
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "bnb-projections",
+   "title": "Projections macroéconomiques pour la Belgique",
+   "url": "https://www.nbb.be/fr/publications-et-recherche/publications/publications-economiques-et-financieres/projections"
+  },
+  {
+   "id": "lavenir-charges-0107",
+   "title": "Budget fédéral : les charges d'intérêt de la dette ont dépassé les 10 milliards d'euros",
+   "url": "https://www.lavenir.net/actu/belgique/politique/2026/07/01/budget-federal-les-charges-dinteret-de-la-dette-ont-depasse-les-10-milliards-deuros-NAEUKMMZIRFNFPOUM2ONR6TUXE/"
+  },
+  {
+   "id": "tresor-belgique",
+   "title": "Situation économique et financière de la Belgique",
+   "url": "https://www.tresor.economie.gouv.fr/Pays/BE/situation-economique-et-financiere-de-la-belgique"
+  }
+ ],
+ "licence": "CC0-1.0"
+}

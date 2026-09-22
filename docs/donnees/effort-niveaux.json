@@ -1,0 +1,66 @@
+{
+ "id": "effort-niveaux",
+ "title": {
+  "fr": "Montant d'économies annoncé, par niveau de pouvoir, en millions d'euros",
+  "nl": "Aangekondigd besparingsbedrag, per bestuursniveau, in miljoen euro"
+ },
+ "unit": {
+  "fr": " M €",
+  "nl": " mln €"
+ },
+ "categories": [
+  {
+   "fr": "Pouvoir fédéral (d'ici 2029)",
+   "nl": "Federale overheid (tegen 2029)"
+  },
+  {
+   "fr": "Wallonie (2027)",
+   "nl": "Wallonië (2027)"
+  },
+  {
+   "fr": "Flandre (2027)",
+   "nl": "Vlaanderen (2027)"
+  },
+  {
+   "fr": "Fédération Wallonie-Bruxelles (4 ans)",
+   "nl": "Franse Gemeenschap (4 jaar)"
+  }
+ ],
+ "series": [
+  {
+   "name": {
+    "fr": "Économies annoncées",
+    "nl": "Aangekondigde besparingen"
+   },
+   "values": [
+    10000,
+    900,
+    865,
+    500
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "ll-10md-1007",
+   "title": "L'Arizona s'engage à réaliser 10 milliards d'euros d'effort budgétaire pour 2029",
+   "url": "https://www.lalibre.be/belgique/politique-belge/2026/07/10/larizona-sengage-a-realiser-10-milliards-deuros-deffort-budgetaire-pour-2029-G6Y4IT4PDVHCDKARKEUC4233W4/"
+  },
+  {
+   "id": "rtbf-wallonie-1709",
+   "title": "Budget wallon : la chasse aux centaines de millions est relancée",
+   "url": "https://www.rtbf.be/article/budget-wallon-la-chasse-aux-centaines-de-millions-est-relancee-11786807"
+  },
+  {
+   "id": "businessam-flandre-1102",
+   "title": "Le gouvernement flamand doit trouver 865 millions d'euros pour équilibrer le budget d'ici 2027",
+   "url": "https://fr.businessam.be/gouvernement-flamand-doit-trouver-865-millions-deuros-pour-equilibrer-le-budget-dici-2027/"
+  },
+  {
+   "id": "rtbf-fwb-economies",
+   "title": "Enseignement, culture, enfance, sports, recherche : les principales mesures d'économie de la Fédération Wallonie-Bruxelles",
+   "url": "https://www.rtbf.be/article/budget-de-la-federation-wallonie-bruxelles-ou-les-economies-seront-elles-faites-11614016"
+  }
+ ],
+ "licence": "CC0-1.0"
+}

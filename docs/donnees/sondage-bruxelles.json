@@ -1,0 +1,54 @@
+{
+ "id": "sondage-bruxelles",
+ "title": {
+  "fr": "Intentions de vote à Bruxelles, printemps 2026",
+  "nl": "Stemintenties in Brussel, voorjaar 2026"
+ },
+ "unit": {
+  "fr": " %",
+  "nl": " %"
+ },
+ "categories": [
+  "PTB",
+  "PS",
+  "MR",
+  "Les Engagés",
+  "Ecolo"
+ ],
+ "series": [
+  {
+   "name": {
+    "fr": "Printemps 2026",
+    "nl": "Voorjaar 2026"
+   },
+   "values": [
+    24.4,
+    15.9,
+    14.2,
+    11.4,
+    6.5
+   ]
+  },
+  {
+   "name": {
+    "fr": "Élections 2024",
+    "nl": "Verkiezingen 2024"
+   },
+   "values": [
+    null,
+    null,
+    21.5,
+    null,
+    null
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "rtbf-enquete-2026",
+   "title": "L'Enquête nationale 2026 : le MR dégringole, le PS et le PTB en profitent pour devenir leaders en Wallonie et à Bruxelles",
+   "url": "https://www.rtbf.be/article/l-enquete-nationale-2026-le-mr-degringole-le-ps-et-le-ptb-en-profitent-pour-devenir-leaders-en-wallonie-et-a-bruxelles-11729854"
+  }
+ ],
+ "licence": "CC0-1.0"
+}

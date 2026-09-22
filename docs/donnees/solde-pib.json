@@ -1,0 +1,51 @@
+{
+ "id": "solde-pib",
+ "title": {
+  "fr": "Solde de financement des administrations publiques, en % du PIB",
+  "nl": "Vorderingensaldo van de overheid, in % van het bbp"
+ },
+ "unit": {
+  "fr": " %",
+  "nl": " %"
+ },
+ "categories": [
+  "2024",
+  "2025",
+  "2026",
+  "2027",
+  "2028"
+ ],
+ "series": [
+  {
+   "name": {
+    "fr": "Solde de financement",
+    "nl": "Vorderingensaldo"
+   },
+   "values": [
+    -4.4,
+    -5.2,
+    -5.3,
+    -5.5,
+    -5.7
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "bnb-projections",
+   "title": "Projections macroéconomiques pour la Belgique",
+   "url": "https://www.nbb.be/fr/publications-et-recherche/publications/publications-economiques-et-financieres/projections"
+  },
+  {
+   "id": "lavenir-charges-0107",
+   "title": "Budget fédéral : les charges d'intérêt de la dette ont dépassé les 10 milliards d'euros",
+   "url": "https://www.lavenir.net/actu/belgique/politique/2026/07/01/budget-federal-les-charges-dinteret-de-la-dette-ont-depasse-les-10-milliards-deuros-NAEUKMMZIRFNFPOUM2ONR6TUXE/"
+  },
+  {
+   "id": "levif-bnb-5pc",
+   "title": "« Un déficit budgétaire à plus de 5 % du PIB, ce n'est pas tenable », alerte la BNB",
+   "url": "https://www.levif.be/economie/un-deficit-budgetaire-a-plus-de-5-du-pib-ce-nest-pas-tenable-alerte-la-bnb/"
+  }
+ ],
+ "licence": "CC0-1.0"
+}

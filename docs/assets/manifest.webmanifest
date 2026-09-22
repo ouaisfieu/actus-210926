@@ -1,0 +1,14 @@
+{
+  "name": "21.09.26 — la Belgique le jour où s'ouvre le conclave",
+  "short_name": "21.09.26",
+  "description": "Instantané daté et sourcé de la Belgique politique au 21 septembre 2026.",
+  "lang": "fr-BE",
+  "dir": "ltr",
+  "start_url": "../",
+  "scope": "../",
+  "display": "browser",
+  "background_color": "#f4f4f1",
+  "theme_color": "#15171b",
+  "categories": ["news", "politics", "education"],
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

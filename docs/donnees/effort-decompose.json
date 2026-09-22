@@ -1,0 +1,46 @@
+{
+ "id": "effort-decompose",
+ "title": {
+  "fr": "Les dix milliards, décomposés comme le MR les décompte",
+  "nl": "De tien miljard, opgesplitst zoals MR ze telt"
+ },
+ "unit": {
+  "fr": " Md €",
+  "nl": " mld €"
+ },
+ "categories": [
+  {
+   "fr": "Mesures déjà actées",
+   "nl": "Reeds genomen maatregelen"
+  },
+  {
+   "fr": "Gains de croissance attendus",
+   "nl": "Verwachte groeiwinst"
+  },
+  {
+   "fr": "Réformes nouvelles à trouver",
+   "nl": "Nog te vinden nieuwe hervormingen"
+  }
+ ],
+ "series": [
+  {
+   "name": {
+    "fr": "Montant",
+    "nl": "Bedrag"
+   },
+   "values": [
+    4.0,
+    1.5,
+    4.5
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "ll-clarinval-0509",
+   "title": "Budget fédéral : « Pour le MR, une attaque sur la TVA est inacceptable », avertit David Clarinval",
+   "url": "https://www.lalibre.be/belgique/2026/09/05/budget-federal-pour-le-mr-une-attaque-sur-la-tva-est-inacceptable-avertit-david-clarinval-HTZIYHEHINA33OOYG52WNXNBSA/"
+  }
+ ],
+ "licence": "CC0-1.0"
+}

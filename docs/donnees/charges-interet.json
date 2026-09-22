@@ -1,0 +1,42 @@
+{
+ "id": "charges-interet",
+ "title": {
+  "fr": "Charge annuelle d'intérêts de la dette fédérale, en milliards d'euros",
+  "nl": "Jaarlijkse rentelast van de federale schuld, in miljard euro"
+ },
+ "unit": {
+  "fr": " Md €",
+  "nl": " mld €"
+ },
+ "categories": [
+  "2025",
+  "2026",
+  "2030"
+ ],
+ "series": [
+  {
+   "name": {
+    "fr": "Charge d'intérêts",
+    "nl": "Rentelast"
+   },
+   "values": [
+    10.78,
+    12.2,
+    20.9
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "lavenir-charges-0107",
+   "title": "Budget fédéral : les charges d'intérêt de la dette ont dépassé les 10 milliards d'euros",
+   "url": "https://www.lavenir.net/actu/belgique/politique/2026/07/01/budget-federal-les-charges-dinteret-de-la-dette-ont-depasse-les-10-milliards-deuros-NAEUKMMZIRFNFPOUM2ONR6TUXE/"
+  },
+  {
+   "id": "ll-dette-3001",
+   "title": "La dette belge coûtera près de 21 milliards par an d'ici 2030",
+   "url": "https://www.lalibre.be/economie/conjoncture/2026/01/30/la-dette-belge-coutera-pres-de-21-milliards-par-an-dici-2030-4KVCAMFYKJHATH5R6YVXEU2Y24/"
+  }
+ ],
+ "licence": "CC0-1.0"
+}

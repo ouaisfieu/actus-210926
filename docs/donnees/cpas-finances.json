@@ -1,0 +1,48 @@
+{
+ "id": "cpas-finances",
+ "title": {
+  "fr": "Ce que les CPAS wallons dépensent et ce que les communes leur versent, en millions d'euros",
+  "nl": "Wat de Waalse OCMW's uitgeven en wat de gemeenten hun storten, in miljoen euro"
+ },
+ "unit": {
+  "fr": " M €",
+  "nl": " mln €"
+ },
+ "categories": [
+  "2011",
+  "2019",
+  "2026"
+ ],
+ "series": [
+  {
+   "name": {
+    "fr": "Dépenses de transferts des CPAS",
+    "nl": "Overdrachtsuitgaven van de OCMW's"
+   },
+   "values": [
+    null,
+    1055,
+    2000
+   ]
+  },
+  {
+   "name": {
+    "fr": "Dotation versée par les communes",
+    "nl": "Dotatie van de gemeenten"
+   },
+   "values": [
+    398.67,
+    null,
+    814
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "lavenir-cpas50-1009",
+   "title": "Les CPAS ont 50 ans : du Minimex de 1976 aux exclusions massives de 2026",
+   "url": "https://www.lavenir.net/actu/belgique/politique/2026/09/10/les-cpas-ont-50-ans-du-minimex-de-1976-aux-exclusions-de-2026-SETJU7XDQZEMDIADUQYY56WQEM/"
+  }
+ ],
+ "licence": "CC0-1.0"
+}

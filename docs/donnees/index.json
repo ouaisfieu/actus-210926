@@ -1,0 +1,138 @@
+{
+ "licence": "CC0-1.0",
+ "base": "https://ouaisfieu.github.io/actus-210926",
+ "datasets": [
+  {
+   "id": "dette-pib",
+   "title": {
+    "fr": "Dette publique belge, en % du PIB",
+    "nl": "Belgische overheidsschuld, in % van het bbp"
+   },
+   "csv": "donnees/dette-pib.csv",
+   "json": "donnees/dette-pib.json",
+   "rows": 6,
+   "series": 1
+  },
+  {
+   "id": "solde-pib",
+   "title": {
+    "fr": "Solde de financement des administrations publiques, en % du PIB",
+    "nl": "Vorderingensaldo van de overheid, in % van het bbp"
+   },
+   "csv": "donnees/solde-pib.csv",
+   "json": "donnees/solde-pib.json",
+   "rows": 5,
+   "series": 1
+  },
+  {
+   "id": "charges-interet",
+   "title": {
+    "fr": "Charge annuelle d'intérêts de la dette fédérale, en milliards d'euros",
+    "nl": "Jaarlijkse rentelast van de federale schuld, in miljard euro"
+   },
+   "csv": "donnees/charges-interet.csv",
+   "json": "donnees/charges-interet.json",
+   "rows": 3,
+   "series": 1
+  },
+  {
+   "id": "effort-decompose",
+   "title": {
+    "fr": "Les dix milliards, décomposés comme le MR les décompte",
+    "nl": "De tien miljard, opgesplitst zoals MR ze telt"
+   },
+   "csv": "donnees/effort-decompose.csv",
+   "json": "donnees/effort-decompose.json",
+   "rows": 3,
+   "series": 1
+  },
+  {
+   "id": "cpas-report",
+   "title": {
+    "fr": "Quelle part des exclus du chômage se tourne vers le CPAS ?",
+    "nl": "Welk deel van de uitgesloten werklozen klopt aan bij het OCMW?"
+   },
+   "csv": "donnees/cpas-report.csv",
+   "json": "donnees/cpas-report.json",
+   "rows": 6,
+   "series": 1
+  },
+  {
+   "id": "cpas-finances",
+   "title": {
+    "fr": "Ce que les CPAS wallons dépensent et ce que les communes leur versent, en millions d'euros",
+    "nl": "Wat de Waalse OCMW's uitgeven en wat de gemeenten hun storten, in miljoen euro"
+   },
+   "csv": "donnees/cpas-finances.csv",
+   "json": "donnees/cpas-finances.json",
+   "rows": 3,
+   "series": 2
+  },
+  {
+   "id": "sante-economies",
+   "title": {
+    "fr": "Économies programmées dans les soins de santé, en millions d'euros",
+    "nl": "Geplande besparingen in de gezondheidszorg, in miljoen euro"
+   },
+   "csv": "donnees/sante-economies.csv",
+   "json": "donnees/sante-economies.json",
+   "rows": 3,
+   "series": 2
+  },
+  {
+   "id": "effort-niveaux",
+   "title": {
+    "fr": "Montant d'économies annoncé, par niveau de pouvoir, en millions d'euros",
+    "nl": "Aangekondigd besparingsbedrag, per bestuursniveau, in miljoen euro"
+   },
+   "csv": "donnees/effort-niveaux.csv",
+   "json": "donnees/effort-niveaux.json",
+   "rows": 4,
+   "series": 1
+  },
+  {
+   "id": "sondage-wallonie",
+   "title": {
+    "fr": "Intentions de vote en Wallonie, printemps 2026 et élections de 2024",
+    "nl": "Stemintenties in Wallonië, voorjaar 2026 en verkiezingen van 2024"
+   },
+   "csv": "donnees/sondage-wallonie.csv",
+   "json": "donnees/sondage-wallonie.json",
+   "rows": 5,
+   "series": 2
+  },
+  {
+   "id": "sondage-bruxelles",
+   "title": {
+    "fr": "Intentions de vote à Bruxelles, printemps 2026",
+    "nl": "Stemintenties in Brussel, voorjaar 2026"
+   },
+   "csv": "donnees/sondage-bruxelles.csv",
+   "json": "donnees/sondage-bruxelles.json",
+   "rows": 5,
+   "series": 2
+  },
+  {
+   "id": "sondage-flandre",
+   "title": {
+    "fr": "Intentions de vote en Flandre, printemps 2026",
+    "nl": "Stemintenties in Vlaanderen, voorjaar 2026"
+   },
+   "csv": "donnees/sondage-flandre.csv",
+   "json": "donnees/sondage-flandre.json",
+   "rows": 5,
+   "series": 1
+  },
+  {
+   "id": "chambre-sieges",
+   "title": {
+    "fr": "Sièges à la Chambre des représentants après le 9 juin 2024",
+    "nl": "Zetels in de Kamer van volksvertegenwoordigers na 9 juni 2024"
+   },
+   "csv": "donnees/chambre-sieges.csv",
+   "json": "donnees/chambre-sieges.json",
+   "rows": 12,
+   "series": 1
+  }
+ ]
+}
