@@ -1,0 +1,716 @@
+[
+  {
+    "id": "de-wever",
+    "type": "person",
+    "name": { "fr": "Bart De Wever", "nl": "Bart De Wever" },
+    "affiliation_id": "nva",
+    "jobTitle": { "fr": "Premier ministre", "nl": "Eerste minister" },
+    "role": { "fr": "Premier ministre depuis le 3 février 2025", "nl": "Eerste minister sinds 3 februari 2025" },
+    "party": { "fr": "N-VA", "nl": "N-VA" },
+    "short": {
+      "fr": "Premier ministre et président de la N-VA. Le premier chef de gouvernement belge dont le parti inscrit la disparition de l'État fédéral à son programme.",
+      "nl": "Eerste minister en N-VA-voorzitter. De eerste Belgische regeringsleider wiens partij het verdwijnen van de federale staat in haar programma heeft staan."
+    },
+    "bio": {
+      "fr": "Il dirige depuis le 3 février 2025 une coalition de cinq partis formée après 239 jours de négociations et disposant de 82 sièges sur 150 à la Chambre[[s:wiki-elections-2024]] — le vote de confiance, lui, a réuni 81 voix contre 66 et 3 abstentions[[s:wiki-gouv-dewever]]. Sa position est structurellement inconfortable : il doit faire réussir un État dont son parti veut l'évaporation.\n\nDepuis la fin août 2026, il a changé de registre. Dans un podcast, puis devant la Chambre le 16 septembre, il a qualifié les institutions belges de « trop lourdes, trop chères, inefficaces » et plaidé pour un transfert de compétences vers les entités fédérées[[s:ll-reforme-etat-2009]]. C'est le 21 septembre qu'il a soumis au kern la note de départ du conclave — rejetée le jour même par ses deux partenaires francophones[[s:ll-note-2109]].",
+      "nl": "Sinds 3 februari 2025 leidt hij een coalitie van vijf partijen, gevormd na 239 dagen onderhandelen en goed voor 82 van de 150 Kamerzetels[[s:wiki-elections-2024]] — de vertrouwensstemming zelf haalde 81 stemmen tegen 66 en 3 onthoudingen[[s:wiki-gouv-dewever]]. Zijn positie is structureel ongemakkelijk: hij moet een staat doen slagen die zijn partij wil zien verdampen.\n\nSinds eind augustus 2026 is zijn toon veranderd. In een podcast, en vervolgens in de Kamer op 16 september, noemde hij de Belgische instellingen « te zwaar, te duur, inefficiënt » en pleitte hij voor een overdracht van bevoegdheden naar de deelstaten[[s:ll-reforme-etat-2009]]. Op 21 september legde hij het kernkabinet de startnota van het conclaaf voor — diezelfde dag verworpen door zijn twee Franstalige partners[[s:ll-note-2109]]."
+    },
+    "quotes": [
+      {
+        "date": "2026-09-16",
+        "source": "ll-reforme-etat-2009",
+        "text": {
+          "fr": "Les institutions sont trop lourdes, trop chères, inefficaces.",
+          "nl": "De instellingen zijn te zwaar, te duur, inefficiënt."
+        }
+      }
+    ],
+    "sameAs": ["https://en.wikipedia.org/wiki/Bart_De_Wever"],
+    "links": { "Gouvernement De Wever (Wikipédia)": "https://fr.wikipedia.org/wiki/Gouvernement_De_Wever" }
+  },
+  {
+    "id": "bouchez",
+    "type": "person",
+    "name": { "fr": "Georges-Louis Bouchez", "nl": "Georges-Louis Bouchez" },
+    "affiliation_id": "mr",
+    "jobTitle": { "fr": "Président du MR", "nl": "Voorzitter van MR" },
+    "role": { "fr": "Président du Mouvement Réformateur", "nl": "Voorzitter van het Mouvement Réformateur" },
+    "party": { "fr": "MR", "nl": "MR" },
+    "line": {
+      "fr": "Aucune hausse de la fiscalité sur le travail ni sur la consommation",
+      "nl": "Geen verhoging van de lasten op arbeid of consumptie"
+    },
+    "short": {
+      "fr": "Président du MR. Son veto sur la TVA prive le conclave de son levier de recettes le plus rapide, et l'oblige à chercher ailleurs.",
+      "nl": "MR-voorzitter. Zijn veto op de btw ontneemt het conclaaf zijn snelste ontvangstenhefboom en dwingt het elders te zoeken."
+    },
+    "bio": {
+      "fr": "Il n'est pas ministre, mais il pèse davantage que la plupart des membres du gouvernement. Sa ligne — pas de hausse de la TVA, pas de nouvelle taxe sur le capital — est la contrainte la plus rigide du conclave, parce qu'elle ferme simultanément les deux portes de recettes les plus rémunératrices.\n\nCette rigidité a un coût politique documenté. L'Enquête nationale de printemps 2026 donne le MR à 20 % en Wallonie contre 28,2 % aux élections de 2024, et à 14,2 % à Bruxelles contre 21,5 %[[s:rtbf-enquete-2026]]. Plusieurs observateurs lisent le durcissement du parti comme une conséquence de cette chute plutôt que comme sa cause[[s:ll-lieu-1709]].",
+      "nl": "Hij is geen minister, maar weegt zwaarder dan de meeste regeringsleden. Zijn lijn — geen btw-verhoging, geen nieuwe belasting op kapitaal — is de strakste beperking van het conclaaf, omdat ze tegelijk de twee meest opbrengende ontvangstendeuren sluit.\n\nDie strakheid heeft een gedocumenteerde politieke prijs. De Nationale Enquête van het voorjaar 2026 zet MR op 20 % in Wallonië tegenover 28,2 % bij de verkiezingen van 2024, en op 14,2 % in Brussel tegenover 21,5 %[[s:rtbf-enquete-2026]]. Verscheidene waarnemers lezen de verharding van de partij als een gevolg van die val, niet als de oorzaak ervan[[s:ll-lieu-1709]]."
+    },
+    "links": { "MR": "https://www.mr.be/" }
+  },
+  {
+    "id": "clarinval",
+    "type": "person",
+    "name": { "fr": "David Clarinval", "nl": "David Clarinval" },
+    "affiliation_id": "mr",
+    "jobTitle": { "fr": "Vice-Premier ministre", "nl": "Vice-eersteminister" },
+    "role": {
+      "fr": "Vice-Premier ministre, ministre de l'Emploi, de l'Économie et de l'Agriculture",
+      "nl": "Vice-eersteminister, minister van Werk, Economie en Landbouw"
+    },
+    "party": { "fr": "MR", "nl": "MR" },
+    "short": {
+      "fr": "Ministre de l'Emploi, donc responsable de la réforme du chômage — et voix du MR dans la mécanique budgétaire.",
+      "nl": "Minister van Werk, en dus verantwoordelijk voor de werkloosheidshervorming — en de stem van MR in het begrotingsmechanisme."
+    },
+    "bio": {
+      "fr": "Il porte la réforme la plus contestée de la législature et celle qui a été partiellement censurée. Après l'arrêt du 10 septembre, il a retenu la validation du principe plutôt que l'annulation du régime transitoire : « les éléments sont validés et confortés par la Cour »[[s:rtbf-cc-1009]].\n\nSur le budget, il défend une arithmétique précise : sur les 10 milliards, 4 relèvent de mesures déjà actées, 1,5 de gains de croissance, et 4,5 seulement de réformes nouvelles — la clé du désaccord sur la part des recettes[[s:ll-clarinval-0509]].",
+      "nl": "Hij draagt de meest betwiste hervorming van de legislatuur, en degene die gedeeltelijk vernietigd werd. Na het arrest van 10 september hield hij het bij de bevestiging van het principe, niet bij de vernietiging van de overgangsregeling: « de elementen zijn door het Hof bevestigd en versterkt »[[s:rtbf-cc-1009]].\n\nOver de begroting verdedigt hij een precieze rekensom: van de 10 miljard komen er 4 uit reeds genomen maatregelen, 1,5 uit groeiwinst, en slechts 4,5 uit nieuwe hervormingen — de sleutel tot de onenigheid over het aandeel ontvangsten[[s:ll-clarinval-0509]]."
+    },
+    "quotes": [
+      {
+        "date": "2026-09-05",
+        "source": "ll-clarinval-0509",
+        "text": {
+          "fr": "Une attaque sur la TVA est donc inacceptable.",
+          "nl": "Een aanval op de btw is dus onaanvaardbaar."
+        }
+      }
+    ]
+  },
+  {
+    "id": "prevot",
+    "type": "person",
+    "name": { "fr": "Maxime Prévot", "nl": "Maxime Prévot" },
+    "affiliation_id": "engages",
+    "jobTitle": { "fr": "Vice-Premier ministre", "nl": "Vice-eersteminister" },
+    "role": {
+      "fr": "Vice-Premier ministre, ministre des Affaires étrangères et de la Coopération au développement ; président des Engagés",
+      "nl": "Vice-eersteminister, minister van Buitenlandse Zaken en Ontwikkelingssamenwerking; voorzitter van Les Engagés"
+    },
+    "party": { "fr": "Les Engagés", "nl": "Les Engagés" },
+    "short": {
+      "fr": "Chef de file des Engagés. C'est lui qui a jugé la note du 21 septembre « indigeste » — le mot qui a fait le tour de la journée.",
+      "nl": "Boegbeeld van Les Engagés. Hij noemde de nota van 21 september « onverteerbaar » — het woord dat de dag beheerste."
+    },
+    "bio": {
+      "fr": "Il occupe une position singulière : partenaire loyal sur l'assainissement, mais critique sur la méthode et frontalement opposé au virage institutionnel. Face aux déclarations du premier ministre sur la complexité des institutions, il propose l'inverse — des refédéralisations en mobilité, climat et énergie[[s:ll-reforme-etat-2009]].\n\nLe 21 septembre, il a reproché à la note deux choses : l'absence de volet croissance, et des « accents communautaires » introduits sans concertation[[s:ll-note-2109]].",
+      "nl": "Hij bekleedt een bijzondere positie: loyale partner in de sanering, maar kritisch over de methode en frontaal gekant tegen de institutionele bocht. Tegenover de uitspraken van de premier over de complexiteit van de instellingen stelt hij het omgekeerde voor — herfederalisering van mobiliteit, klimaat en energie[[s:ll-reforme-etat-2009]].\n\nOp 21 september verweet hij de nota twee zaken: het ontbreken van een groeiluik, en « communautaire accenten » die zonder overleg waren ingevoerd[[s:ll-note-2109]]."
+    },
+    "quotes": [
+      {
+        "date": "2026-09-21",
+        "source": "ll-note-2109",
+        "text": {
+          "fr": "Déséquilibré, c'est un mot qui me paraît encore un peu faible. Dans son état actuel, cette note me paraît même indigeste.",
+          "nl": "Onevenwichtig lijkt me nog een zwak woord. In haar huidige staat lijkt deze nota me zelfs onverteerbaar."
+        }
+      },
+      {
+        "date": "2026-09-20",
+        "source": "ll-reforme-etat-2009",
+        "text": {
+          "fr": "Le conclave budgétaire que nous entamons est probablement l'un des derniers tours.",
+          "nl": "Het begrotingsconclaaf dat we aanvatten is wellicht een van de laatste rondes."
+        }
+      }
+    ],
+    "sameAs": ["https://en.wikipedia.org/wiki/Maxime_Pr%C3%A9vot"]
+  },
+  {
+    "id": "rousseau",
+    "type": "person",
+    "name": { "fr": "Conner Rousseau", "nl": "Conner Rousseau" },
+    "affiliation_id": "vooruit",
+    "jobTitle": { "fr": "Président de Vooruit", "nl": "Voorzitter van Vooruit" },
+    "role": { "fr": "Président de Vooruit", "nl": "Voorzitter van Vooruit" },
+    "party": { "fr": "Vooruit", "nl": "Vooruit" },
+    "line": {
+      "fr": "Pas de coupes sociales sans contribution du capital",
+      "nl": "Geen sociale besparingen zonder bijdrage van het kapitaal"
+    },
+    "short": {
+      "fr": "Président du seul parti de gauche de la coalition. Treize sièges sur quatre-vingt-deux, et un besoin vital de résultats visibles.",
+      "nl": "Voorzitter van de enige linkse partij in de coalitie. Dertien zetels op tweeëntachtig, en een vitale behoefte aan zichtbare resultaten."
+    },
+    "bio": {
+      "fr": "Vooruit est structurellement minoritaire dans l'Arizona : treize sièges sur les quatre-vingt-deux de la majorité, face à quatre partis de droite et de centre-droit. La taxe sur les plus-values est le trophée qui justifie sa présence au gouvernement auprès de son électorat et des syndicats socialistes.\n\nSon problème arithmétique est que ce trophée rapporte peu au regard des dix milliards cherchés, ce qui l'oblige à en demander d'autres à chaque tour de négociation. C'est la mécanique de vetos croisés qui bloque le conclave : la droite francophone ferme les recettes, la gauche flamande ferme les dépenses sociales.",
+      "nl": "Vooruit is structureel in de minderheid binnen Arizona: dertien van de tweeëntachtig meerderheidszetels, tegenover vier rechtse en centrumrechtse partijen. De meerwaardebelasting is de trofee die haar regeringsdeelname verantwoordt bij haar kiezers en de socialistische vakbond.\n\nHaar rekenkundige probleem is dat die trofee weinig opbrengt tegenover de gezochte tien miljard, waardoor ze bij elke onderhandelingsronde nieuwe moet vragen. Dat is het mechanisme van gekruiste veto's dat het conclaaf blokkeert: Franstalig rechts sluit de ontvangsten, Vlaams links sluit de sociale uitgaven."
+    },
+    "sameAs": ["https://en.wikipedia.org/wiki/Conner_Rousseau"]
+  },
+  {
+    "id": "mahdi",
+    "type": "person",
+    "name": { "fr": "Sammy Mahdi", "nl": "Sammy Mahdi" },
+    "affiliation_id": "cdenv",
+    "jobTitle": { "fr": "Président du CD&V", "nl": "Voorzitter van CD&V" },
+    "role": { "fr": "Président du CD&V", "nl": "Voorzitter van CD&V" },
+    "party": { "fr": "CD&V", "nl": "CD&V" },
+    "short": {
+      "fr": "Président du CD&V. C'est lui qui a refermé, en septembre, le dossier des voitures de société — ouvert par son propre ministre du Budget.",
+      "nl": "CD&V-voorzitter. Hij sloot in september het dossier van de bedrijfswagens weer — geopend door zijn eigen begrotingsminister."
+    },
+    "bio": {
+      "fr": "L'épisode de septembre 2026 est révélateur du fonctionnement de la coalition. Vincent Van Peteghem, ministre du Budget et membre du CD&V, met sur la table une réforme du régime des voitures de société ; la présidence du même parti la rejette immédiatement[[s:rtbf-voitures-1709]].\n\nCe régime bénéficie à environ 1,2 million de véhicules, dont près de deux tiers en Flandre, et à environ 15 % des salariés — une base électorale que le parti ne veut pas heurter, même au prix du plus gros gisement fiscal théorique disponible[[s:rtbf-voitures-1709]].",
+      "nl": "De episode van september 2026 legt de werking van de coalitie bloot. Vincent Van Peteghem, begrotingsminister en CD&V'er, legt een hervorming van het stelsel van de bedrijfswagens op tafel; de voorzitter van diezelfde partij verwerpt ze meteen[[s:rtbf-voitures-1709]].\n\nDat stelsel betreft ongeveer 1,2 miljoen voertuigen, waarvan bijna twee derde in Vlaanderen, en zowat 15 % van de werknemers — een kiezersbasis die de partij niet wil raken, zelfs niet ten koste van de grootste theoretisch beschikbare fiscale reserve[[s:rtbf-voitures-1709]]."
+    }
+  },
+  {
+    "id": "van-peteghem",
+    "type": "person",
+    "name": { "fr": "Vincent Van Peteghem", "nl": "Vincent Van Peteghem" },
+    "affiliation_id": "cdenv",
+    "jobTitle": { "fr": "Vice-Premier ministre et ministre du Budget", "nl": "Vice-eersteminister en minister van Begroting" },
+    "role": { "fr": "Vice-Premier ministre, ministre du Budget", "nl": "Vice-eersteminister, minister van Begroting" },
+    "party": { "fr": "CD&V", "nl": "CD&V" },
+    "short": {
+      "fr": "Ministre du Budget. Il tient les chiffres du conclave — et a vu son propre parti désavouer sa piste fiscale la plus lourde.",
+      "nl": "Minister van Begroting. Hij houdt de cijfers van het conclaaf bij — en zag zijn eigen partij zijn zwaarste fiscale piste afwijzen."
+    },
+    "bio": {
+      "fr": "Le ministre du Budget est l'arbitre technique du conclave : c'est son administration qui chiffre les mesures et confronte les propositions à la trajectoire européenne. En septembre 2026, il a proposé de rouvrir le régime des voitures de société, estimé entre 2 et 5 milliards d'euros selon la manière de le compter, et a été publiquement contredit par son président de parti[[s:rtbf-voitures-1709]].",
+      "nl": "De begrotingsminister is de technische scheidsrechter van het conclaaf: zijn administratie begroot de maatregelen en toetst de voorstellen aan het Europese traject. In september 2026 stelde hij voor het stelsel van de bedrijfswagens te heropenen, geraamd op 2 tot 5 miljard euro naargelang de telwijze, en werd hij publiek tegengesproken door zijn partijvoorzitter[[s:rtbf-voitures-1709]]."
+    },
+    "sameAs": ["https://en.wikipedia.org/wiki/Vincent_Van_Peteghem"]
+  },
+  {
+    "id": "jambon",
+    "type": "person",
+    "name": { "fr": "Jan Jambon", "nl": "Jan Jambon" },
+    "affiliation_id": "nva",
+    "jobTitle": { "fr": "Vice-Premier ministre et ministre des Finances", "nl": "Vice-eersteminister en minister van Financiën" },
+    "role": {
+      "fr": "Vice-Premier ministre, ministre des Finances et des Pensions",
+      "nl": "Vice-eersteminister, minister van Financiën en Pensioenen"
+    },
+    "party": { "fr": "N-VA", "nl": "N-VA" },
+    "short": {
+      "fr": "Finances et Pensions. Deux portefeuilles où le calendrier a déjà dû reculer : la taxe sur les plus-values et le malus pension.",
+      "nl": "Financiën en Pensioenen. Twee bevoegdheden waar de kalender al moest wijken: de meerwaardebelasting en de pensioenmalus."
+    },
+    "bio": {
+      "fr": "Il présente début juillet 2026 le rapport annuel de l'Agence de la dette : 10,78 milliards d'euros de charges d'intérêt en 2025, soit 1,68 % du PIB, pour 53,3 milliards de besoins de financement[[s:lavenir-charges-0107]].\n\nSes deux réformes phares ont connu des reports. La taxe sur les plus-values est entrée en vigueur au 1er janvier 2026 avant d'être votée, créant un régime transitoire improvisé ; le malus pension, annoncé pour 2026, a été repoussé au 1er janvier 2027 pour des raisons opérationnelles[[s:rtbf-malus-2511]].",
+      "nl": "Begin juli 2026 stelt hij het jaarverslag van het Agentschap van de Schuld voor: 10,78 miljard euro rentelasten in 2025, ofwel 1,68 % van het bbp, bij 53,3 miljard financieringsbehoeften[[s:lavenir-charges-0107]].\n\nZijn twee kernhervormingen liepen vertraging op. De meerwaardebelasting trad op 1 januari 2026 in werking voordat ze gestemd was, wat een geïmproviseerde overgangsregeling opleverde; de pensioenmalus, aangekondigd voor 2026, werd om operationele redenen uitgesteld tot 1 januari 2027[[s:rtbf-malus-2511]]."
+    },
+    "sameAs": ["https://en.wikipedia.org/wiki/Jan_Jambon"]
+  },
+  {
+    "id": "vandenbroucke",
+    "type": "person",
+    "name": { "fr": "Frank Vandenbroucke", "nl": "Frank Vandenbroucke" },
+    "affiliation_id": "vooruit",
+    "jobTitle": { "fr": "Vice-Premier ministre et ministre de la Santé", "nl": "Vice-eersteminister en minister van Volksgezondheid" },
+    "role": {
+      "fr": "Vice-Premier ministre, ministre des Affaires sociales et de la Santé publique",
+      "nl": "Vice-eersteminister, minister van Sociale Zaken en Volksgezondheid"
+    },
+    "party": { "fr": "Vooruit", "nl": "Vooruit" },
+    "short": {
+      "fr": "Santé et Affaires sociales. Il doit tenir une norme de croissance et livrer 638 millions d'économies d'ici 2029.",
+      "nl": "Volksgezondheid en Sociale Zaken. Hij moet een groeinorm respecteren en tegen 2029 voor 638 miljoen besparen."
+    },
+    "bio": {
+      "fr": "Son plan de juillet 2026 chiffre 638 millions d'euros d'économies supplémentaires entre 2027 et 2029, dont l'essentiel porte sur le médicament : 117,3 millions en 2027, 90,1 en 2028, 163,6 en 2029[[s:ll-sante-1507]]. Le budget des soins de santé 2027 reste malgré tout en hausse, à 46,513 milliards d'euros, avec une norme de croissance de 2 %[[s:ll-sante-1507]].\n\nIl porte aussi la politique de retour au travail des malades de longue durée, qui pénalise financièrement les employeurs ne documentant pas le suivi de leurs salariés en incapacité[[s:sdworx-incapacite]].",
+      "nl": "Zijn plan van juli 2026 becijfert 638 miljoen euro extra besparingen tussen 2027 en 2029, grotendeels op geneesmiddelen: 117,3 miljoen in 2027, 90,1 in 2028, 163,6 in 2029[[s:ll-sante-1507]]. De gezondheidsbegroting 2027 stijgt niettemin, tot 46,513 miljard euro, met een groeinorm van 2 %[[s:ll-sante-1507]].\n\nHij draagt ook het re-integratiebeleid voor langdurig zieken, dat werkgevers financieel sanctioneert wanneer zij de opvolging van arbeidsongeschikte werknemers niet documenteren[[s:sdworx-incapacite]]."
+    }
+  },
+  {
+    "id": "magnette",
+    "type": "person",
+    "name": { "fr": "Paul Magnette", "nl": "Paul Magnette" },
+    "affiliation_id": "ps",
+    "jobTitle": { "fr": "Président du PS", "nl": "Voorzitter van de PS" },
+    "role": { "fr": "Président du Parti Socialiste", "nl": "Voorzitter van de Parti Socialiste" },
+    "party": { "fr": "PS", "nl": "PS" },
+    "short": {
+      "fr": "Président du PS, dans l'opposition fédérale pour la première fois depuis 1988 sur une durée aussi longue.",
+      "nl": "PS-voorzitter, voor het eerst in lange tijd in de federale oppositie."
+    },
+    "bio": {
+      "fr": "Il oppose au conclave un contre-chiffrage : seize milliards d'économies possibles, dont deux dans les dépenses militaires — que David Clarinval a qualifié de « populiste et racoleur »[[s:ll-clarinval-0509]].\n\nSur le virage institutionnel du premier ministre, il propose une lecture d'intention : « soit il parvient à maîtriser le budget, soit il dit : j'ai fait ce que j'ai pu, mais cela ne marche pas »[[s:ll-reforme-etat-2009]]. C'est l'hypothèse d'un échec utile, que plusieurs dirigeants de la majorité admettent en privé.",
+      "nl": "Tegenover het conclaaf plaatst hij een eigen becijfering: zestien miljard aan mogelijke besparingen, waarvan twee op defensie — door David Clarinval afgedaan als « populistisch en goedkoop »[[s:ll-clarinval-0509]].\n\nOver de institutionele bocht van de premier geeft hij een intentielezing: « ofwel slaagt hij erin de begroting te beheersen, ofwel zegt hij: ik heb gedaan wat ik kon, maar het werkt niet »[[s:ll-reforme-etat-2009]]. Dat is de hypothese van een nuttige mislukking, die verscheidene meerderheidsleiders in besloten kring erkennen."
+    }
+  },
+  {
+    "id": "mertens",
+    "type": "person",
+    "name": { "fr": "Raoul Hedebouw", "nl": "Raoul Hedebouw" },
+    "affiliation_id": "ptb",
+    "jobTitle": { "fr": "Président du PTB-PVDA", "nl": "Voorzitter van PVDA-PTB" },
+    "role": { "fr": "Président du PTB-PVDA", "nl": "Voorzitter van PVDA-PTB" },
+    "party": { "fr": "PTB-PVDA", "nl": "PVDA-PTB" },
+    "short": {
+      "fr": "À la tête du parti qui capte le plus de mécontentement : premier à Bruxelles et en forte hausse en Wallonie dans les enquêtes de 2026.",
+      "nl": "Aan het hoofd van de partij die de meeste onvrede opvangt: eerste in Brussel en sterk stijgend in Wallonië in de peilingen van 2026."
+    },
+    "bio": {
+      "fr": "Le PTB est le principal bénéficiaire électoral de l'austérité : 24,4 % à Bruxelles et 18,6 % en Wallonie dans l'Enquête nationale 2026, contre 11,6 % en Wallonie aux élections de 2024[[s:rtbf-enquete-2026]].\n\nSa critique de la taxe sur les plus-values est la plus documentée de l'opposition : le dispositif épargnerait structurellement les grandes fortunes par les holdings et les seuils d'exonération[[s:ptb-mirage]]. La majorité conteste cette lecture en invoquant le barème progressif sur les participations substantielles.",
+      "nl": "PVDA-PTB is de voornaamste electorale begunstigde van de besparingen: 24,4 % in Brussel en 18,6 % in Wallonië in de Nationale Enquête 2026, tegenover 11,6 % in Wallonië bij de verkiezingen van 2024[[s:rtbf-enquete-2026]].\n\nHaar kritiek op de meerwaardebelasting is de best gedocumenteerde van de oppositie: de regeling zou grote vermogens structureel sparen via holdings en vrijstellingsdrempels[[s:ptb-mirage]]. De meerderheid betwist die lezing en verwijst naar het progressieve tarief op aanmerkelijke belangen."
+    }
+  },
+  {
+    "id": "dolimont",
+    "type": "person",
+    "name": { "fr": "Adrien Dolimont", "nl": "Adrien Dolimont" },
+    "affiliation_id": "mr",
+    "jobTitle": { "fr": "Ministre-président de la Wallonie", "nl": "Minister-president van Wallonië" },
+    "role": { "fr": "Ministre-président de la Région wallonne", "nl": "Minister-president van het Waals Gewest" },
+    "party": { "fr": "MR", "nl": "MR" },
+    "short": {
+      "fr": "Ministre-président wallon. Il cherche 900 millions pour 2027 et refuse de porter une part de la facture fédérale.",
+      "nl": "Waals minister-president. Hij zoekt 900 miljoen voor 2027 en weigert een deel van de federale factuur te dragen."
+    },
+    "bio": {
+      "fr": "Il dirige depuis juillet 2024 une coalition MR-Les Engagés[[s:wiki-dolimont-gov]]. Son conclave régional s'ouvre en même temps que le fédéral, avec un objectif d'environ 900 millions d'euros d'économies pour 2027, sur un budget annuel d'environ 21 milliards[[s:rtbf-wallonie-1709]].\n\nLa Région porte près de 33 milliards de dette, appelés à approcher 38 milliards en trois ans, avec un déficit d'environ 2 milliards — soit à peu près un dixième des dépenses annuelles[[s:rtbf-wallonie-1709]]. Il a publiquement refusé que la Wallonie assume une part de l'effort fédéral[[s:lpost-dolimont]].",
+      "nl": "Sinds juli 2024 leidt hij een coalitie van MR en Les Engagés[[s:wiki-dolimont-gov]]. Zijn regionale conclaaf opent gelijktijdig met het federale, met een doel van ongeveer 900 miljoen euro besparingen voor 2027, op een jaarbudget van zo'n 21 miljard[[s:rtbf-wallonie-1709]].\n\nHet Gewest torst bijna 33 miljard schuld, die binnen drie jaar richting 38 miljard gaat, met een tekort van ongeveer 2 miljard — ruwweg een tiende van de jaarlijkse uitgaven[[s:rtbf-wallonie-1709]]. Hij weigerde publiek dat Wallonië een deel van de federale inspanning op zich neemt[[s:lpost-dolimont]]."
+    },
+    "quotes": [
+      {
+        "date": "2026-09-21",
+        "source": "rtbf-wallonie-1709",
+        "text": {
+          "fr": "Faramineux. Gigantesque.",
+          "nl": "Duizelingwekkend. Gigantisch."
+        }
+      }
+    ],
+    "links": { "Gouvernement Dolimont (Wikipédia)": "https://fr.wikipedia.org/wiki/Gouvernement_Dolimont" }
+  },
+  {
+    "id": "dillies",
+    "type": "person",
+    "name": { "fr": "Boris Dilliès", "nl": "Boris Dilliès" },
+    "affiliation_id": "mr",
+    "jobTitle": { "fr": "Ministre-président de la Région bruxelloise", "nl": "Minister-president van het Brussels Gewest" },
+    "role": {
+      "fr": "Ministre-président de la Région de Bruxelles-Capitale depuis le 14 février 2026",
+      "nl": "Minister-president van het Brussels Hoofdstedelijk Gewest sinds 14 februari 2026"
+    },
+    "party": { "fr": "MR", "nl": "MR" },
+    "short": {
+      "fr": "Ministre-président bruxellois d'un gouvernement à sept partis, formé après plus de six cents jours de crise.",
+      "nl": "Brussels minister-president van een zevenpartijenregering, gevormd na meer dan zeshonderd dagen crisis."
+    },
+    "bio": {
+      "fr": "Son gouvernement a prêté serment le 14 février 2026, réunissant MR, PS, Les Engagés, Groen, Vooruit et Anders, avec le soutien du CD&V sans portefeuille[[s:rtbf-bxl-casting]][[s:vrt-bxl-serment]].\n\nIl hérite d'un budget initial 2026 arrêté à 957 millions d'euros de déficit, déjà révisé à 1,254 milliard par le comité de monitoring en juin — un dérapage d'environ 300 millions dû principalement aux subventions de fonctionnement et aux frais généraux[[s:ll-bxl-derapage-2306]].",
+      "nl": "Zijn regering legde de eed af op 14 februari 2026 en verenigt MR, PS, Les Engagés, Groen, Vooruit en Anders, met steun van CD&V zonder portefeuille[[s:rtbf-bxl-casting]][[s:vrt-bxl-serment]].\n\nHij erft een initiële begroting 2026 met een tekort van 957 miljoen euro, in juni door het monitoringcomité al bijgesteld tot 1,254 miljard — een ontsporing van ongeveer 300 miljoen, hoofdzakelijk door werkingssubsidies en algemene kosten[[s:ll-bxl-derapage-2306]]."
+    },
+    "sameAs": ["https://en.wikipedia.org/wiki/Boris_Dilli%C3%A8s"],
+    "links": { "Gouvernement Dilliès (Wikipédia)": "https://fr.wikipedia.org/wiki/Gouvernement_Dilli%C3%A8s" }
+  },
+  {
+    "id": "diependaele",
+    "type": "person",
+    "name": { "fr": "Matthias Diependaele", "nl": "Matthias Diependaele" },
+    "affiliation_id": "nva",
+    "jobTitle": { "fr": "Ministre-président flamand", "nl": "Vlaams minister-president" },
+    "role": { "fr": "Ministre-président du gouvernement flamand", "nl": "Minister-president van de Vlaamse Regering" },
+    "party": { "fr": "N-VA", "nl": "N-VA" },
+    "short": {
+      "fr": "Ministre-président flamand depuis septembre 2024, à la tête d'une tripartite N-VA — Vooruit — CD&V.",
+      "nl": "Vlaams minister-president sinds september 2024, aan het hoofd van een tripartite N-VA — Vooruit — CD&V."
+    },
+    "bio": {
+      "fr": "La Flandre vise l'équilibre budgétaire en 2027, objectif plus ambitieux que celui de toute autre entité du pays. En février 2026, il lui restait 865 millions d'euros à trouver pour y parvenir[[s:businessam-flandre-1102]], après une première estimation de 700 millions à l'automne 2025[[s:vrt-flandre-2710]].\n\nCette rigueur affichée au nord alimente directement l'argumentaire institutionnel fédéral : elle sert de démonstration que les entités fédérées gèrent mieux que le pouvoir central.",
+      "nl": "Vlaanderen mikt op begrotingsevenwicht in 2027, ambitieuzer dan eender welke andere entiteit van het land. In februari 2026 restte daarvoor nog 865 miljoen euro[[s:businessam-flandre-1102]], na een eerste raming van 700 miljoen in het najaar van 2025[[s:vrt-flandre-2710]].\n\nDie in het noorden getoonde striktheid voedt rechtstreeks het federale institutionele betoog: ze dient als bewijs dat de deelstaten beter beheren dan het centrale niveau."
+    },
+    "links": { "Gouvernement Diependaele (Wikipédia)": "https://fr.wikipedia.org/wiki/Gouvernement_Diependaele" }
+  },
+  {
+    "id": "ska",
+    "type": "person",
+    "name": { "fr": "Marie-Hélène Ska", "nl": "Marie-Hélène Ska" },
+    "affiliation_id": "csc",
+    "jobTitle": { "fr": "Secrétaire générale de la CSC", "nl": "Algemeen secretaris van het ACV" },
+    "role": { "fr": "Secrétaire générale de la CSC", "nl": "Algemeen secretaris van het ACV" },
+    "short": {
+      "fr": "Secrétaire générale du plus grand syndicat du pays. Elle porte le contre-budget de 21,2 milliards.",
+      "nl": "Algemeen secretaris van de grootste vakbond van het land. Zij draagt de tegenbegroting van 21,2 miljard."
+    },
+    "bio": {
+      "fr": "Le front commun qu'elle co-anime a publié en avril 2026 un chiffrage alternatif de 21,2 milliards d'euros, dont environ 13 milliards viendraient de la globalisation progressive des revenus du patrimoine dans l'impôt des personnes physiques[[s:lavenir-contrebudget-2304]].\n\nSon positionnement est plus prudent que celui de la FGTB sur la grève générale, ce qui compte : la CSC est proche du CD&V et des Engagés, dont la marge de manœuvre dans le conclave dépend de la paix sociale.",
+      "nl": "Het gemeenschappelijk vakbondsfront dat zij mee leidt, publiceerde in april 2026 een alternatieve becijfering van 21,2 miljard euro, waarvan ongeveer 13 miljard uit de geleidelijke globalisering van vermogensinkomsten in de personenbelasting[[s:lavenir-contrebudget-2304]].\n\nHaar positie over de algemene staking is behoedzamer dan die van het ABVV, en dat telt: het ACV staat dicht bij CD&V en Les Engagés, wier bewegingsruimte in het conclaaf van de sociale vrede afhangt."
+    },
+    "quotes": [
+      {
+        "date": "2026-04-23",
+        "source": "lavenir-contrebudget-2304",
+        "text": {
+          "fr": "On veut montrer qu'il y a des alternatives à l'austérité.",
+          "nl": "We willen tonen dat er alternatieven zijn voor de besparingen."
+        }
+      }
+    ]
+  },
+  {
+    "id": "carbonero",
+    "type": "person",
+    "name": { "fr": "Selena Carbonero Fernandez", "nl": "Selena Carbonero Fernandez" },
+    "affiliation_id": "fgtb",
+    "jobTitle": { "fr": "Secrétaire générale de la FGTB", "nl": "Algemeen secretaris van het ABVV" },
+    "role": { "fr": "Secrétaire générale de la FGTB", "nl": "Algemeen secretaris van het ABVV" },
+    "short": {
+      "fr": "Secrétaire générale de la FGTB. C'est elle qui a posé publiquement la question de la grève générale.",
+      "nl": "Algemeen secretaris van het ABVV. Zij stelde publiek de vraag van de algemene staking."
+    },
+    "bio": {
+      "fr": "Le 28 août 2026, à la veille de la rentrée sociale, elle annonce que la question de la grève générale sera posée, sans la décider[[s:ll-syndicats-2808]]. Le comité fédéral de la FGTB se réunit le 8 septembre ; la manifestation nationale du 9 octobre en sort, présentée comme « un premier avertissement clair »[[s:vrt-manif-0809]].\n\nLa fenêtre évoquée pour une action plus dure est la semaine du 23 novembre, après le vote du budget[[s:parismatch-manif-0809]].",
+      "nl": "Op 28 augustus 2026, aan de vooravond van het sociale najaar, kondigt zij aan dat de vraag van de algemene staking gesteld zal worden, zonder ze te beslissen[[s:ll-syndicats-2808]]. Het federaal comité van het ABVV vergadert op 8 september; daaruit komt de nationale betoging van 9 oktober, voorgesteld als « een eerste duidelijke waarschuwing »[[s:vrt-manif-0809]].\n\nHet genoemde venster voor hardere actie is de week van 23 november, na de begrotingsstemming[[s:parismatch-manif-0809]]."
+    },
+    "quotes": [
+      {
+        "date": "2026-08-28",
+        "source": "ll-syndicats-2808",
+        "text": {
+          "fr": "Pour être clair, oui, la question de la grève générale sera posée.",
+          "nl": "Om duidelijk te zijn: ja, de vraag van de algemene staking zal gesteld worden."
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "nva",
+    "type": "party",
+    "name": { "fr": "N-VA", "nl": "N-VA" },
+    "founded": { "fr": "2001", "nl": "2001" },
+    "seats": { "fr": "24 sur 150 (premier parti de la Chambre)", "nl": "24 van 150 (grootste Kamerfractie)" },
+    "line": {
+      "fr": "Assainissement d'abord, réforme de l'État ensuite",
+      "nl": "Eerst saneren, dan staatshervorming"
+    },
+    "short": {
+      "fr": "Nationalistes flamands. Premier parti du pays, ils dirigent un État fédéral dont ils souhaitent statutairement l'évaporation.",
+      "nl": "Vlaams-nationalisten. Grootste partij van het land, zij leiden een federale staat waarvan zij statutair de verdamping nastreven."
+    },
+    "bio": {
+      "fr": "La N-VA occupe la position la plus paradoxale de la coalition : elle a besoin de prouver qu'elle sait gouverner la Belgique pour légitimer son statut de parti de pouvoir, tout en tirant un bénéfice politique de la démonstration que la Belgique est ingouvernable.\n\nDans les enquêtes de 2026, elle reste en tête en Flandre avec 27,7 %, devant le Vlaams Belang à 20,8 %[[s:rtbf-enquete-2026]] — mais d'autres sondages du même printemps donnent le Vlaams Belang devant, ce qui invite à la prudence sur l'ordre exact.",
+      "nl": "N-VA bekleedt de meest paradoxale positie in de coalitie: zij moet bewijzen dat ze België kan besturen om haar status als machtspartij te legitimeren, terwijl ze politiek voordeel haalt uit het bewijs dat België onbestuurbaar is.\n\nIn de peilingen van 2026 blijft zij in Vlaanderen op kop met 27,7 %, vóór Vlaams Belang met 20,8 %[[s:rtbf-enquete-2026]] — maar andere peilingen uit hetzelfde voorjaar zetten Vlaams Belang voorop, wat tot voorzichtigheid maant over de precieze volgorde."
+    },
+    "links": { "N-VA": "https://www.n-va.be/" }
+  },
+  {
+    "id": "mr",
+    "type": "party",
+    "name": { "fr": "MR", "nl": "MR" },
+    "seats": { "fr": "20 sur 150", "nl": "20 van 150" },
+    "line": {
+      "fr": "Pas de hausse de la TVA, pas de nouvelle fiscalité sur le capital",
+      "nl": "Geen btw-verhoging, geen nieuwe kapitaalbelasting"
+    },
+    "short": {
+      "fr": "Libéraux francophones. Leur double veto — TVA et capital — est la contrainte la plus serrée du conclave.",
+      "nl": "Franstalige liberalen. Hun dubbele veto — btw en kapitaal — is de strakste beperking van het conclaaf."
+    },
+    "bio": {
+      "fr": "Le MR a fait du pouvoir d'achat et de la compétitivité le cœur de son récit, et revendique d'avoir protégé l'un et l'autre dans l'accord budgétaire de novembre 2025[[s:mr-accord]].\n\nCe positionnement le place dans une contradiction arithmétique : l'accord de gouvernement prévoit qu'environ un neuvième de l'effort vienne des recettes, mais le parti limite ce ratio au seul bloc des 4,5 milliards de réformes nouvelles, excluant les mesures déjà actées[[s:ll-clarinval-0509]]. C'est ce décompte que ses partenaires contestent.",
+      "nl": "MR maakte koopkracht en concurrentievermogen tot de kern van haar verhaal, en claimt beide te hebben beschermd in het begrotingsakkoord van november 2025[[s:mr-accord]].\n\nDie positionering leidt tot een rekenkundige tegenstrijdigheid: het regeerakkoord voorziet dat ongeveer een negende van de inspanning uit ontvangsten komt, maar de partij beperkt die verhouding tot het blok van 4,5 miljard nieuwe hervormingen en sluit reeds genomen maatregelen uit[[s:ll-clarinval-0509]]. Precies die telling betwisten haar partners."
+    },
+    "links": { "MR": "https://www.mr.be/" }
+  },
+  {
+    "id": "engages",
+    "type": "party",
+    "name": { "fr": "Les Engagés", "nl": "Les Engagés" },
+    "seats": { "fr": "14 sur 150", "nl": "14 van 150" },
+    "line": {
+      "fr": "Un effort équilibré, et des refédéralisations plutôt qu'un transfert de compétences",
+      "nl": "Een evenwichtige inspanning, en herfederalisering in plaats van bevoegdheidsoverdracht"
+    },
+    "short": {
+      "fr": "Centristes francophones. Médiateurs sur le budget, frontalement opposés au virage institutionnel.",
+      "nl": "Franstalige centrumpartij. Bemiddelaars over de begroting, frontaal gekant tegen de institutionele bocht."
+    },
+    "bio": {
+      "fr": "Le parti joue le rôle d'amortisseur entre le MR et Vooruit, mais c'est lui qui a formulé le jugement le plus dur sur la note du 21 septembre[[s:ll-note-2109]].\n\nSur l'institutionnel, il occupe la position inverse de la N-VA : plutôt que de transférer des compétences vers les Régions, il propose d'en refédéraliser — mobilité, climat, énergie[[s:ll-reforme-etat-2009]].",
+      "nl": "De partij fungeert als schokdemper tussen MR en Vooruit, maar formuleerde het hardste oordeel over de nota van 21 september[[s:ll-note-2109]].\n\nInstitutioneel neemt zij de tegenovergestelde positie van N-VA in: in plaats van bevoegdheden naar de gewesten over te hevelen, stelt zij voor er te herfederaliseren — mobiliteit, klimaat, energie[[s:ll-reforme-etat-2009]]."
+    },
+    "links": { "Les Engagés": "https://lesengages.be/" }
+  },
+  {
+    "id": "vooruit",
+    "type": "party",
+    "name": { "fr": "Vooruit", "nl": "Vooruit" },
+    "seats": { "fr": "13 sur 150", "nl": "13 van 150" },
+    "line": {
+      "fr": "Les épaules les plus larges doivent contribuer",
+      "nl": "De sterkste schouders moeten bijdragen"
+    },
+    "short": {
+      "fr": "Sociaux-démocrates flamands, seul parti de gauche de la coalition et sa minorité structurelle.",
+      "nl": "Vlaamse sociaaldemocraten, de enige linkse partij in de coalitie en haar structurele minderheid."
+    },
+    "bio": {
+      "fr": "Treize sièges sur les quatre-vingt-deux de la majorité : Vooruit ne peut gagner un arbitrage social qu'en menaçant de partir, et ne peut menacer de partir trop souvent. La taxe sur les plus-values, obtenue en échange des mesures d'activation sur le marché du travail, est la contrepartie qui tient l'ensemble.\n\nEn Flandre, le parti est crédité de 12,9 % dans l'Enquête nationale 2026, derrière la N-VA et le Vlaams Belang[[s:rtbf-enquete-2026]].",
+      "nl": "Dertien van de tweeëntachtig meerderheidszetels: Vooruit kan een sociale arbitrage alleen winnen door te dreigen op te stappen, en kan daar niet te vaak mee dreigen. De meerwaardebelasting, verkregen in ruil voor de activeringsmaatregelen op de arbeidsmarkt, is de tegenprestatie die het geheel bijeenhoudt.\n\nIn Vlaanderen staat de partij op 12,9 % in de Nationale Enquête 2026, achter N-VA en Vlaams Belang[[s:rtbf-enquete-2026]]."
+    },
+    "links": { "Vooruit": "https://www.vooruit.org/" }
+  },
+  {
+    "id": "cdenv",
+    "type": "party",
+    "name": { "fr": "CD&V", "nl": "CD&V" },
+    "seats": { "fr": "11 sur 150", "nl": "11 van 150" },
+    "line": {
+      "fr": "Pas de remise en cause des voitures de société",
+      "nl": "Geen aantasting van het stelsel van de bedrijfswagens"
+    },
+    "short": {
+      "fr": "Chrétiens-démocrates flamands. Le plus petit partenaire, et le gardien d'un des plus gros gisements fiscaux non exploités.",
+      "nl": "Vlaamse christendemocraten. De kleinste partner, en de bewaker van een van de grootste onaangeroerde fiscale reserves."
+    },
+    "bio": {
+      "fr": "Le parti détient le portefeuille du Budget avec Vincent Van Peteghem, ce qui le place au centre technique du conclave, tout en sanctuarisant politiquement le régime des voitures de société[[s:rtbf-voitures-1709]].\n\nSa proximité avec la CSC en fait aussi l'un des deux partis dont la marge de manœuvre dépend le plus directement de l'ampleur de la mobilisation sociale de l'automne.",
+      "nl": "De partij heeft met Vincent Van Peteghem de begrotingsbevoegdheid, wat haar in het technische centrum van het conclaaf plaatst, terwijl ze het stelsel van de bedrijfswagens politiek onaantastbaar maakt[[s:rtbf-voitures-1709]].\n\nHaar nauwe band met het ACV maakt haar ook tot een van de twee partijen wier bewegingsruimte het sterkst afhangt van de omvang van de sociale mobilisatie dit najaar."
+    },
+    "links": { "CD&V": "https://www.cdenv.be/" }
+  },
+  {
+    "id": "ps",
+    "type": "party",
+    "name": { "fr": "PS", "nl": "PS" },
+    "seats": { "fr": "16 sur 150 (opposition)", "nl": "16 van 150 (oppositie)" },
+    "short": {
+      "fr": "Socialistes francophones, écartés du fédéral par un veto croisé du MR et de la N-VA.",
+      "nl": "Franstalige socialisten, buiten de federale regering gehouden door een gekruist veto van MR en N-VA."
+    },
+    "bio": {
+      "fr": "Redevenu premier parti en Wallonie avec 24,9 % dans l'Enquête nationale 2026, contre environ 22 % en 2024[[s:rtbf-enquete-2026]], le PS oppose au conclave un contre-chiffrage de seize milliards d'économies alternatives, dont deux dans la défense[[s:ll-clarinval-0509]].",
+      "nl": "Opnieuw grootste partij in Wallonië met 24,9 % in de Nationale Enquête 2026, tegenover ongeveer 22 % in 2024[[s:rtbf-enquete-2026]], plaatst de PS tegenover het conclaaf een eigen becijfering van zestien miljard alternatieve besparingen, waarvan twee op defensie[[s:ll-clarinval-0509]]."
+    },
+    "links": { "PS": "https://www.ps.be/" }
+  },
+  {
+    "id": "ptb",
+    "type": "party",
+    "name": { "fr": "PTB-PVDA", "nl": "PVDA-PTB" },
+    "seats": { "fr": "15 sur 150 (opposition)", "nl": "15 van 150 (oppositie)" },
+    "short": {
+      "fr": "Gauche radicale, seul parti présent des deux côtés de la frontière linguistique. Premier parti à Bruxelles dans l'enquête de 2026.",
+      "nl": "Radicaal links, de enige partij aan beide zijden van de taalgrens. Grootste partij in Brussel in de enquête van 2026."
+    },
+    "bio": {
+      "fr": "Le PTB capte l'essentiel du report de voix provoqué par l'austérité : 24,4 % à Bruxelles, 18,6 % en Wallonie, 8,2 % en Flandre sous le nom PVDA[[s:rtbf-enquete-2026]].\n\nIl a aussi ouvert un front juridique, avec un recours collectif contre la réforme des pensions dont la Cour constitutionnelle n'a pas encore tranché le fond.",
+      "nl": "PVDA-PTB vangt het grootste deel van de kiezersverschuiving door de besparingen op: 24,4 % in Brussel, 18,6 % in Wallonië, 8,2 % in Vlaanderen[[s:rtbf-enquete-2026]].\n\nZe opende ook een juridisch front, met een collectief beroep tegen de pensioenhervorming waarover het Grondwettelijk Hof zich ten gronde nog niet heeft uitgesproken."
+    },
+    "links": { "PTB": "https://www.ptb.be/" }
+  },
+  {
+    "id": "vlaams-belang",
+    "type": "party",
+    "name": { "fr": "Vlaams Belang", "nl": "Vlaams Belang" },
+    "seats": { "fr": "20 sur 150 (opposition)", "nl": "20 van 150 (oppositie)" },
+    "short": {
+      "fr": "Extrême droite flamande. Son niveau dans les enquêtes conditionne la marge de manœuvre de la N-VA.",
+      "nl": "Vlaams extreemrechts. Haar peilingniveau bepaalt de bewegingsruimte van N-VA."
+    },
+    "bio": {
+      "fr": "Le parti est crédité de 20,8 % en Flandre dans l'Enquête nationale 2026, derrière la N-VA[[s:rtbf-enquete-2026]], mais d'autres sondages du même printemps le placent devant[[s:dh-barometre-1303]]. Cet écart entre instituts est précisément ce qui rend le paramètre décisif politiquement : la N-VA ne peut pas se permettre un conclave qui la ferait passer pour un parti de gestion sans résultat communautaire.",
+      "nl": "De partij staat op 20,8 % in Vlaanderen in de Nationale Enquête 2026, achter N-VA[[s:rtbf-enquete-2026]], maar andere peilingen uit hetzelfde voorjaar zetten haar voorop[[s:dh-barometre-1303]]. Precies dat verschil tussen instituten maakt de parameter politiek beslissend: N-VA kan zich geen conclaaf veroorloven dat haar doet doorgaan voor een bestuurspartij zonder communautair resultaat."
+    }
+  },
+
+  {
+    "id": "cour-constitutionnelle",
+    "type": "institution",
+    "name": { "fr": "Cour constitutionnelle", "nl": "Grondwettelijk Hof" },
+    "short": {
+      "fr": "La juridiction qui a partiellement annulé le régime transitoire de la réforme du chômage, le 10 septembre 2026.",
+      "nl": "Het rechtscollege dat op 10 september 2026 de overgangsregeling van de werkloosheidshervorming gedeeltelijk vernietigde."
+    },
+    "bio": {
+      "fr": "Par l'arrêt n° 96/2026, rendu sur les recours joints 8540, 8547, 8577 et 8590, la Cour a annulé les points 4 à 6 de l'article 212, alinéa 2, de la loi-programme du 18 juillet 2025, et rejeté le recours pour le surplus[[s:cc-96-2026]].\n\nElle avait auparavant, le 15 janvier 2026, rejeté la demande de suspension introduite le 29 octobre 2025, faute de préjudice grave et difficilement réparable démontré[[s:uvcw-suspension]]. Les deux décisions sont souvent confondues dans les commentaires : la première ne portait pas sur le fond.",
+      "nl": "Met arrest nr. 96/2026, op de gevoegde beroepen 8540, 8547, 8577 en 8590, vernietigde het Hof de punten 4 tot 6 van artikel 212, tweede lid, van de programmawet van 18 juli 2025, en verwierp het beroep voor het overige[[s:cc-96-2026]].\n\nEerder, op 15 januari 2026, had het de vordering tot schorsing van 29 oktober 2025 verworpen bij gebrek aan aangetoond moeilijk te herstellen ernstig nadeel[[s:uvcw-suspension]]. Beide beslissingen worden in commentaren vaak verward: de eerste ging niet over de grond van de zaak."
+    },
+    "links": { "Cour constitutionnelle": "https://fr.const-court.be/" }
+  },
+  {
+    "id": "onem",
+    "type": "institution",
+    "name": { "fr": "ONEM", "nl": "RVA" },
+    "short": {
+      "fr": "L'office qui exécute la limitation des allocations à vingt-quatre mois — et qui doit maintenant régulariser les effets de l'arrêt.",
+      "nl": "De dienst die de beperking van de uitkeringen tot vierentwintig maanden uitvoert — en nu de gevolgen van het arrest moet rechtzetten."
+    },
+    "bio": {
+      "fr": "L'Office national de l'emploi a organisé l'exclusion par vagues successives depuis janvier 2026 et publié, dès le lendemain de l'arrêt du 10 septembre, une note sur ses conséquences pratiques[[s:onem-arret-1109]].\n\nAu premier semestre 2026, 99 144 personnes ont perdu leur droit aux allocations, dont 49,2 % en Wallonie[[s:lavenir-cpas50-1009]].",
+      "nl": "De Rijksdienst voor Arbeidsvoorziening organiseerde de uitsluiting in opeenvolgende golven sinds januari 2026 en publiceerde daags na het arrest van 10 september een nota over de praktische gevolgen ervan[[s:onem-arret-1109]].\n\nIn het eerste halfjaar van 2026 verloren 99 144 mensen hun recht op uitkering, 49,2 % daarvan in Wallonië[[s:lavenir-cpas50-1009]]."
+    },
+    "links": { "ONEM": "https://www.onem.be/" }
+  },
+  {
+    "id": "bnb",
+    "type": "institution",
+    "name": { "fr": "Banque nationale de Belgique", "nl": "Nationale Bank van België" },
+    "short": {
+      "fr": "Produit les projections macroéconomiques qui servent de cadre chiffré au conclave.",
+      "nl": "Levert de macro-economische projecties die het cijfermatige kader van het conclaaf vormen."
+    },
+    "bio": {
+      "fr": "Ses projections de juin 2026 ont corrigé à la baisse la croissance attendue pour l'année et maintenu un déficit public supérieur à 5 % du PIB sur l'horizon de projection[[s:bnb-projections]][[s:levif-bnb-5pc]]. Elle estime le rebond du troisième trimestre 2026 à 0,3 %[[s:bnb-t3]].",
+      "nl": "Haar projecties van juni 2026 stelden de verwachte groei voor het jaar neerwaarts bij en hielden het overheidstekort boven 5 % van het bbp over de hele projectiehorizon[[s:bnb-projections]][[s:levif-bnb-5pc]]. Ze raamt de opleving in het derde kwartaal van 2026 op 0,3 %[[s:bnb-t3]]."
+    },
+    "links": { "BNB": "https://www.nbb.be/" }
+  },
+  {
+    "id": "comite-monitoring",
+    "type": "institution",
+    "name": { "fr": "Comité de monitoring", "nl": "Monitoringcomité" },
+    "short": {
+      "fr": "L'organe qui chiffre l'écart budgétaire. Il demandait 7,7 milliards ; le gouvernement s'est engagé sur dix.",
+      "nl": "Het orgaan dat de begrotingskloof becijfert. Het vroeg 7,7 miljard; de regering verbond zich tot tien."
+    },
+    "bio": {
+      "fr": "Son rapport de juillet 2026 fixe le minimum à 7,7 milliards d'euros d'économies supplémentaires d'ici 2029 pour respecter les engagements européens, et 9,8 milliards d'ici 2031. Le 10 juillet, le gouvernement a choisi la cible de dix milliards dès 2029, c'est-à-dire d'atteindre deux ans plus tôt la norme de 2031[[s:ll-10md-1007]][[s:rtbf-10md-1007]].",
+      "nl": "Zijn rapport van juli 2026 legt het minimum op 7,7 miljard euro extra besparingen tegen 2029 om de Europese verbintenissen na te komen, en 9,8 miljard tegen 2031. Op 10 juli koos de regering voor een doel van tien miljard al in 2029, dus om de norm van 2031 twee jaar vroeger te halen[[s:ll-10md-1007]][[s:rtbf-10md-1007]]."
+    }
+  },
+  {
+    "id": "csf",
+    "type": "institution",
+    "name": { "fr": "Conseil supérieur des Finances", "nl": "Hoge Raad van Financiën" },
+    "short": {
+      "fr": "Propose la clé de répartition de l'effort entre le fédéral et les entités fédérées — une recommandation sans force contraignante.",
+      "nl": "Stelt de verdeelsleutel van de inspanning voor tussen federaal en deelstaten — een aanbeveling zonder bindende kracht."
+    },
+    "bio": {
+      "fr": "Sa section « Besoins de financement » construit la répartition de la norme de dépenses nettes entre l'Entité I (pouvoir fédéral et sécurité sociale) et l'Entité II (Régions, Communautés, pouvoirs locaux), en croisant la disponibilité des leviers, le degré d'autonomie fiscale et la part dans les dépenses primaires[[s:unamur-csf]].\n\nLa limite est politique et non technique : rien n'oblige les entités fédérées à suivre la clé, comme l'illustre le refus wallon de septembre 2026[[s:lpost-dolimont]].",
+      "nl": "Zijn afdeling « Financieringsbehoeften » bouwt de verdeling van de netto-uitgavennorm op tussen Entiteit I (federale overheid en sociale zekerheid) en Entiteit II (gewesten, gemeenschappen, lokale besturen), op basis van beschikbare hefbomen, fiscale autonomie en aandeel in de primaire uitgaven[[s:unamur-csf]].\n\nDe beperking is politiek, niet technisch: niets verplicht de deelstaten de sleutel te volgen, zoals de Waalse weigering van september 2026 aantoont[[s:lpost-dolimont]]."
+    }
+  },
+  {
+    "id": "agence-dette",
+    "type": "institution",
+    "name": { "fr": "Agence fédérale de la Dette", "nl": "Federaal Agentschap van de Schuld" },
+    "short": {
+      "fr": "Emprunte pour l'État fédéral. Ses chiffres fixent le coût réel du temps qui passe.",
+      "nl": "Leent voor de federale staat. Haar cijfers bepalen de echte kostprijs van tijdverlies."
+    },
+    "bio": {
+      "fr": "Son rapport annuel, présenté début juillet 2026, établit les charges d'intérêt de 2025 à 10,78 milliards d'euros, soit 1,68 % du PIB, pour 53,3 milliards de besoins de financement[[s:lavenir-charges-0107]]. La trajectoire projetée porte ces charges à 12,2 milliards en 2026 puis près de 20,9 milliards en 2030[[s:ll-dette-3001]].",
+      "nl": "Haar jaarverslag, voorgesteld begin juli 2026, legt de rentelasten van 2025 vast op 10,78 miljard euro, ofwel 1,68 % van het bbp, bij 53,3 miljard financieringsbehoeften[[s:lavenir-charges-0107]]. Het geraamde traject brengt die lasten op 12,2 miljard in 2026 en bijna 20,9 miljard in 2030[[s:ll-dette-3001]]."
+    },
+    "links": { "Agence fédérale de la Dette": "https://www.debtagency.be/fr" }
+  },
+  {
+    "id": "inami",
+    "type": "institution",
+    "name": { "fr": "INAMI", "nl": "RIZIV" },
+    "short": {
+      "fr": "Gère le budget de l'assurance soins de santé : 46,513 milliards d'euros prévus pour 2027.",
+      "nl": "Beheert de begroting van de ziekteverzekering: 46,513 miljard euro voorzien voor 2027."
+    },
+    "bio": {
+      "fr": "Le budget 2027 progresse de 1,987 milliard par rapport à 2026, sous une norme de croissance de 2 % (844 millions) et une indexation des prestataires de 2,9 % (1,142 milliard)[[s:ll-sante-1507]]. C'est dans cet écart entre indexation et norme que se logent les 638 millions d'économies programmées.",
+      "nl": "De begroting 2027 stijgt met 1,987 miljard tegenover 2026, onder een groeinorm van 2 % (844 miljoen) en een indexering van de zorgverstrekkers van 2,9 % (1,142 miljard)[[s:ll-sante-1507]]. In die kloof tussen indexering en norm zitten de geplande 638 miljoen besparingen."
+    }
+  },
+  {
+    "id": "commission-europeenne",
+    "type": "institution",
+    "name": { "fr": "Commission européenne", "nl": "Europese Commissie" },
+    "short": {
+      "fr": "A ouvert la procédure pour déficit excessif contre la Belgique en juillet 2024. C'est elle qui fixe l'échéance.",
+      "nl": "Opende in juli 2024 de buitensporigtekortprocedure tegen België. Zij bepaalt de deadline."
+    },
+    "bio": {
+      "fr": "La procédure pour déficit excessif impose à la Belgique de transmettre un plan budgétaire et structurel à moyen terme crédible. C'est de cette contrainte que découle la date butoir de la mi-octobre 2026, à laquelle toute la séquence politique de l'automne est suspendue[[s:lavenir-conclave-0109]].",
+      "nl": "De buitensporigtekortprocedure verplicht België een geloofwaardig budgettair-structureel plan op middellange termijn in te dienen. Uit die verplichting volgt de deadline van medio oktober 2026, waaraan de hele politieke reeks van dit najaar is opgehangen[[s:lavenir-conclave-0109]]."
+    }
+  },
+  {
+    "id": "cour-des-comptes",
+    "type": "institution",
+    "name": { "fr": "Cour des comptes", "nl": "Rekenhof" },
+    "short": {
+      "fr": "Audite les budgets fédéraux et régionaux, et relève régulièrement les écarts entre annonces et exécution.",
+      "nl": "Controleert de federale en regionale begrotingen en stelt geregeld verschillen vast tussen aankondiging en uitvoering."
+    },
+    "bio": {
+      "fr": "Ses cahiers annuels documentent l'écart entre les mesures annoncées et leur rendement réel — l'un des angles morts les mieux établis de la séquence budgétaire belge[[s:ccrek-budget]].",
+      "nl": "Haar jaarlijkse boeken documenteren het verschil tussen aangekondigde maatregelen en hun werkelijke opbrengst — een van de best gedocumenteerde blinde vlekken van de Belgische begrotingscyclus[[s:ccrek-budget]]."
+    }
+  },
+
+  {
+    "id": "fgtb",
+    "type": "union",
+    "name": { "fr": "FGTB", "nl": "ABVV" },
+    "members": { "fr": "environ 1,5 million", "nl": "ongeveer 1,5 miljoen" },
+    "short": {
+      "fr": "Syndicat socialiste. C'est lui qui a ouvert la fenêtre d'une grève générale pour la semaine du 23 novembre.",
+      "nl": "Socialistische vakbond. Hij opende het venster voor een algemene staking in de week van 23 november."
+    },
+    "bio": {
+      "fr": "La FGTB a construit le calendrier de l'automne avec la CSC : manifestation nationale le 9 octobre, présentée comme « un premier avertissement clair »[[s:vrt-manif-0809]], puis une fenêtre d'action plus dure la semaine du 23 novembre[[s:parismatch-manif-0809]].\n\nElle co-signe le contre-budget de 21,2 milliards d'euros publié en avril 2026[[s:lavenir-contrebudget-2304]].",
+      "nl": "Het ABVV bouwde de najaarskalender samen met het ACV: nationale betoging op 9 oktober, voorgesteld als « een eerste duidelijke waarschuwing »[[s:vrt-manif-0809]], gevolgd door een venster voor hardere actie in de week van 23 november[[s:parismatch-manif-0809]].\n\nHet ondertekent mee de tegenbegroting van 21,2 miljard euro van april 2026[[s:lavenir-contrebudget-2304]]."
+    },
+    "sameAs": ["https://en.wikipedia.org/wiki/General_Labour_Federation_of_Belgium"],
+    "links": { "FGTB": "https://fgtb.be/" }
+  },
+  {
+    "id": "csc",
+    "type": "union",
+    "name": { "fr": "CSC", "nl": "ACV" },
+    "members": { "fr": "environ 1,6 million", "nl": "ongeveer 1,6 miljoen" },
+    "short": {
+      "fr": "Syndicat chrétien, le plus important du pays. Sa prudence sur la grève générale est un paramètre politique.",
+      "nl": "Christelijke vakbond, de grootste van het land. Zijn terughoudendheid over de algemene staking is een politieke parameter."
+    },
+    "bio": {
+      "fr": "La CSC agit en front commun avec la FGTB tout en gardant une marge propre sur les modalités d'action. Sa proximité historique avec le CD&V et Les Engagés donne à cette réserve une portée directe sur la négociation[[s:ll-syndicats-2808]].\n\nElle a lu l'arrêt du 10 septembre comme un sursis accordé à environ cent mille personnes — cadrage repris par la Ligue des droits humains[[s:csc-sursis-1009]][[s:ldh-cc-1009]].",
+      "nl": "Het ACV treedt op in gemeenschappelijk front met het ABVV maar houdt een eigen marge over de actiemiddelen. Zijn historische nabijheid tot CD&V en Les Engagés geeft die terughoudendheid een directe weerslag op de onderhandeling[[s:ll-syndicats-2808]].\n\nHet las het arrest van 10 september als uitstel voor ongeveer honderdduizend mensen — een kadering die de Liga voor Mensenrechten overnam[[s:csc-sursis-1009]][[s:ldh-cc-1009]]."
+    },
+    "links": { "CSC": "https://www.lacsc.be/" }
+  },
+  {
+    "id": "synova",
+    "type": "union",
+    "name": { "fr": "SYNOVA", "nl": "SYNOVA" },
+    "short": {
+      "fr": "Troisième syndicat du pays. Il s'appelait CGSLB jusqu'au 30 mai 2026.",
+      "nl": "Derde vakbond van het land. Hij heette ACLVB tot 30 mei 2026."
+    },
+    "bio": {
+      "fr": "Après cent trente ans, le syndicat libéral a abandonné le mot « libéral » pour devenir SYNOVA, présenté comme un « syndicat libre »[[s:ll-synova-3005]][[s:rtbf-synova-3005]].\n\nLe changement a une conséquence pratique pour qui lit les documents de 2026 : les textes antérieurs à juin parlent de la CGSLB, les suivants de SYNOVA, et les deux désignent la même organisation.",
+      "nl": "Na honderddertig jaar liet de liberale vakbond het woord « liberaal » vallen en werd SYNOVA, gepresenteerd als een « vrije vakbond »[[s:ll-synova-3005]][[s:rtbf-synova-3005]].\n\nDe naamswijziging heeft een praktisch gevolg voor wie documenten uit 2026 leest: teksten van vóór juni spreken van ACLVB, latere van SYNOVA, en beide slaan op dezelfde organisatie."
+    },
+    "sameAs": ["https://en.wikipedia.org/wiki/Synova_(union)"],
+    "links": { "SYNOVA": "https://www.cgslb.be/" }
+  },
+
+  {
+    "id": "uvcw",
+    "type": "body",
+    "name": {
+      "fr": "Union des Villes et Communes de Wallonie",
+      "nl": "Unie van Waalse Steden en Gemeenten"
+    },
+    "short": {
+      "fr": "Porte-voix des communes et des CPAS wallons, et principale source chiffrée sur le report de charge.",
+      "nl": "Spreekbuis van de Waalse gemeenten en OCMW's, en belangrijkste cijfermatige bron over de lastenverschuiving."
+    },
+    "bio": {
+      "fr": "L'UVCW suit pas à pas les compensations fédérales promises aux CPAS et documente l'écart entre l'enveloppe annoncée et ce qui arrive réellement dans les comptes communaux[[s:uvcw-compensations]][[s:uvcw-cp-cpas]].\n\nC'est aussi elle qui a expliqué, dès janvier 2026, pourquoi le rejet de la demande de suspension ne préjugeait pas de l'arrêt au fond attendu à l'automne — une lecture que l'arrêt du 10 septembre a confirmée[[s:uvcw-suspension]].",
+      "nl": "De UVCW volgt stap voor stap de federale compensaties die aan de OCMW's beloofd zijn en documenteert het verschil tussen de aangekondigde enveloppe en wat werkelijk in de gemeentelijke rekeningen terechtkomt[[s:uvcw-compensations]][[s:uvcw-cp-cpas]].\n\nZij legde ook al in januari 2026 uit waarom de verwerping van de schorsingsvordering niets zei over het najaarsarrest ten gronde — een lezing die het arrest van 10 september bevestigde[[s:uvcw-suspension]]."
+    },
+    "links": { "UVCW": "https://www.uvcw.be/" }
+  },
+  {
+    "id": "bureau-plan",
+    "type": "body",
+    "name": { "fr": "Bureau fédéral du Plan", "nl": "Federaal Planbureau" },
+    "short": {
+      "fr": "Produit les projections de long terme, notamment les effets distributifs de la réforme des pensions.",
+      "nl": "Levert de langetermijnprojecties, onder meer de verdelingseffecten van de pensioenhervorming."
+    },
+    "bio": {
+      "fr": "Ses microsimulations chiffrent l'effet de la réforme des pensions sur les nouveaux retraités et sur les indicateurs d'inégalité[[s:plan-pensions-distrib]], tandis que ses travaux sur le coût du vieillissement mesurent le freinage obtenu à long terme[[s:plan-pensions-cout]]. C'est l'une des rares sources qui chiffrent à la fois l'économie budgétaire et sa répartition.",
+      "nl": "Zijn microsimulaties becijferen het effect van de pensioenhervorming op nieuwe gepensioneerden en op de ongelijkheidsindicatoren[[s:plan-pensions-distrib]], terwijl zijn werk over de vergrijzingskosten de op lange termijn behaalde afremming meet[[s:plan-pensions-cout]]. Het is een van de weinige bronnen die zowel de budgettaire besparing als de verdeling ervan becijferen."
+    },
+    "links": { "Bureau fédéral du Plan": "https://www.plan.be/" }
+  }
+]

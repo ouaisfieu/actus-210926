@@ -1,0 +1,587 @@
+{
+  "base": "https://ouaisfieu.github.io/actus-210926",
+  "base_path": "/actus-210926",
+  "published": "2026-09-21",
+  "updated": "2026-09-21",
+  "name": {
+    "fr": "21.09.26",
+    "nl": "21.09.26"
+  },
+  "title": {
+    "fr": "21.09.26 — la Belgique le jour où s'ouvre le conclave",
+    "nl": "21.09.26 — België op de dag dat het conclaaf begint"
+  },
+  "description": {
+    "fr": "Un instantané daté et sourcé de la Belgique politique au 21 septembre 2026 : le conclave budgétaire fédéral, les dix milliards, les acteurs, les chiffres et ce qu'on ne sait pas encore.",
+    "nl": "Een gedateerde en gedocumenteerde momentopname van politiek België op 21 september 2026: het federale begrotingsconclaaf, de tien miljard, de actoren, de cijfers en wat we nog niet weten."
+  },
+  "tagline": {
+    "fr": "L'état du pays à la date du 21 septembre 2026",
+    "nl": "De stand van het land op 21 september 2026"
+  },
+  "strap": {
+    "fr": "Belgique · budget et institutions · arrêté au 21 septembre 2026",
+    "nl": "België · begroting en instellingen · bijgewerkt tot 21 september 2026"
+  },
+  "byline": {
+    "fr": "Claude (Anthropic)",
+    "nl": "Claude (Anthropic)"
+  },
+  "supervision": {
+    "fr": "Édition et supervision humaines",
+    "nl": "Menselijke eindredactie en supervisie"
+  },
+  "author_desc": {
+    "fr": "Modèle de langage d'Anthropic, auteur des textes, de la vérification et de la mise en forme de ce site, sous supervision éditoriale humaine.",
+    "nl": "Taalmodel van Anthropic, auteur van de teksten, de verificatie en de vormgeving van deze site, onder menselijke redactionele supervisie."
+  },
+  "legal": {
+    "fr": "21.09.26 · site indépendant · sans publicité, sans traceur, sans requête vers un tiers · textes CC BY 4.0, code et données CC0",
+    "nl": "21.09.26 · onafhankelijke site · geen reclame, geen trackers, geen verzoeken aan derden · teksten CC BY 4.0, code en data CC0"
+  },
+  "nav": {
+    "home": {
+      "fr": "Accueil",
+      "nl": "Start"
+    },
+    "dossiers": {
+      "fr": "Dossiers",
+      "nl": "Dossiers"
+    },
+    "entities": {
+      "fr": "Acteurs",
+      "nl": "Actoren"
+    },
+    "timeline": {
+      "fr": "Chronologie",
+      "nl": "Chronologie"
+    },
+    "indicators": {
+      "fr": "Indicateurs",
+      "nl": "Indicatoren"
+    },
+    "glossary": {
+      "fr": "Glossaire",
+      "nl": "Woordenlijst"
+    },
+    "sources": {
+      "fr": "Sources",
+      "nl": "Bronnen"
+    },
+    "method": {
+      "fr": "Méthode",
+      "nl": "Methode"
+    },
+    "about": {
+      "fr": "À propos",
+      "nl": "Over"
+    },
+    "data": {
+      "fr": "Données ouvertes",
+      "nl": "Open data"
+    },
+    "search": {
+      "fr": "Recherche",
+      "nl": "Zoeken"
+    }
+  },
+  "ui": {
+    "skip": {
+      "fr": "Aller au contenu",
+      "nl": "Naar de inhoud"
+    },
+    "nav_label": {
+      "fr": "Navigation principale",
+      "nl": "Hoofdnavigatie"
+    },
+    "dark": {
+      "fr": "Mode sombre",
+      "nl": "Donkere modus"
+    },
+    "light": {
+      "fr": "Mode clair",
+      "nl": "Lichte modus"
+    },
+    "search": {
+      "fr": "Rechercher",
+      "nl": "Zoeken"
+    },
+    "search_ph": {
+      "fr": "conclave, CPAS, notation…",
+      "nl": "conclaaf, OCMW, rating…"
+    },
+    "search_go": {
+      "fr": "Chercher",
+      "nl": "Zoek"
+    },
+    "search_nojs": {
+      "fr": "La recherche a besoin de JavaScript. Sans lui, le site reste entièrement lisible : les dossiers, la chronologie et le glossaire sont des pages statiques.",
+      "nl": "Zoeken vereist JavaScript. Zonder JavaScript blijft de site volledig leesbaar: de dossiers, de chronologie en de woordenlijst zijn statische pagina's."
+    },
+    "notes": {
+      "fr": "Notes et sources",
+      "nl": "Noten en bronnen"
+    },
+    "back_to_text": {
+      "fr": "Retour au texte",
+      "nl": "Terug naar de tekst"
+    },
+    "toc": {
+      "fr": "Dans ce dossier",
+      "nl": "In dit dossier"
+    },
+    "mentioned": {
+      "fr": "Acteurs cités",
+      "nl": "Genoemde actoren"
+    },
+    "siblings": {
+      "fr": "Dossier précédent et suivant",
+      "nl": "Vorig en volgend dossier"
+    },
+    "reading": {
+      "fr": "{n} min de lecture",
+      "nl": "{n} min leestijd"
+    },
+    "chart_data": {
+      "fr": "Voir les données chiffrées",
+      "nl": "Bekijk de cijfers"
+    },
+    "filters": {
+      "fr": "Filtrer par thème",
+      "nl": "Filteren op thema"
+    },
+    "all": {
+      "fr": "Tout",
+      "nl": "Alles"
+    },
+    "markers": {
+      "fr": "repères affichés",
+      "nl": "gebeurtenissen getoond"
+    },
+    "terms": {
+      "fr": "termes",
+      "nl": "termen"
+    },
+    "filter_terms": {
+      "fr": "Filtrer les termes",
+      "nl": "Termen filteren"
+    },
+    "filter_ph": {
+      "fr": "conclave, OLO, PSMT…",
+      "nl": "conclaaf, OLO, PSMT…"
+    },
+    "sources_short": {
+      "fr": "sources",
+      "nl": "bronnen"
+    },
+    "consulted": {
+      "fr": "consulté le",
+      "nl": "geraadpleegd op"
+    },
+    "citations": {
+      "fr": "renvois dans le site",
+      "nl": "verwijzingen op de site"
+    },
+    "quotes": {
+      "fr": "Ce qui a été dit",
+      "nl": "Wat er gezegd is"
+    },
+    "appears_in": {
+      "fr": "Apparaît dans ces dossiers",
+      "nl": "Komt voor in deze dossiers"
+    },
+    "timeline_of": {
+      "fr": "Dans la chronologie",
+      "nl": "In de chronologie"
+    },
+    "external": {
+      "fr": "Références externes",
+      "nl": "Externe verwijzingen"
+    },
+    "feed": {
+      "fr": "Flux Atom",
+      "nl": "Atom-feed"
+    },
+    "licence": {
+      "fr": "Licence et signature",
+      "nl": "Licentie en ondertekening"
+    },
+    "foot_site": {
+      "fr": "Le site",
+      "nl": "De site"
+    },
+    "foot_check": {
+      "fr": "Vérification",
+      "nl": "Verificatie"
+    },
+    "foot_author": {
+      "fr": "Auteur",
+      "nl": "Auteur"
+    },
+    "ent_role": {
+      "fr": "Fonction",
+      "nl": "Functie"
+    },
+    "ent_party": {
+      "fr": "Parti",
+      "nl": "Partij"
+    },
+    "ent_founded": {
+      "fr": "Créé en",
+      "nl": "Opgericht in"
+    },
+    "ent_seats": {
+      "fr": "Sièges à la Chambre",
+      "nl": "Zetels in de Kamer"
+    },
+    "ent_line": {
+      "fr": "Ligne publique dans le conclave",
+      "nl": "Publieke lijn in het conclaaf"
+    },
+    "ent_members": {
+      "fr": "Membres revendiqués",
+      "nl": "Opgegeven ledental"
+    },
+    "corr_caption": {
+      "fr": "Écarts entre les notes de départ et ce que la vérification a établi",
+      "nl": "Verschillen tussen de uitgangsnota's en wat de verificatie heeft vastgesteld"
+    },
+    "corr_point": {
+      "fr": "Point",
+      "nl": "Punt"
+    },
+    "corr_before": {
+      "fr": "Documents de départ",
+      "nl": "Uitgangsdocumenten"
+    },
+    "corr_after": {
+      "fr": "Après vérification",
+      "nl": "Na verificatie"
+    },
+    "datasets": {
+      "fr": "Jeux de données publiés",
+      "nl": "Gepubliceerde datasets"
+    },
+    "dataset": {
+      "fr": "Jeu de données",
+      "nl": "Dataset"
+    },
+    "rows": {
+      "fr": "Lignes",
+      "nl": "Rijen"
+    },
+    "series": {
+      "fr": "Séries",
+      "nl": "Reeksen"
+    },
+    "download": {
+      "fr": "Télécharger",
+      "nl": "Downloaden"
+    },
+    "results": {
+      "fr": "résultats",
+      "nl": "resultaten"
+    },
+    "no_results": {
+      "fr": "Aucun résultat.",
+      "nl": "Geen resultaten."
+    }
+  },
+  "callouts": {
+    "fait": {
+      "fr": "Le fait établi",
+      "nl": "Het vastgestelde feit"
+    },
+    "chiffre": {
+      "fr": "Le chiffre",
+      "nl": "Het cijfer"
+    },
+    "analyse": {
+      "fr": "La lecture assumée",
+      "nl": "De expliciete lezing"
+    },
+    "incertitude": {
+      "fr": "Ce qui reste incertain",
+      "nl": "Wat onzeker blijft"
+    },
+    "contradiction": {
+      "fr": "Sources en désaccord",
+      "nl": "Bronnen spreken elkaar tegen"
+    }
+  },
+  "entity_kinds": {
+    "person": {
+      "fr": "Personne",
+      "nl": "Persoon"
+    },
+    "party": {
+      "fr": "Parti politique",
+      "nl": "Politieke partij"
+    },
+    "institution": {
+      "fr": "Institution publique",
+      "nl": "Overheidsinstelling"
+    },
+    "union": {
+      "fr": "Organisation syndicale",
+      "nl": "Vakbond"
+    },
+    "body": {
+      "fr": "Organisme",
+      "nl": "Organisatie"
+    }
+  },
+  "entity_kinds_plural": {
+    "person": {
+      "fr": "Les personnes",
+      "nl": "Personen"
+    },
+    "party": {
+      "fr": "Les partis",
+      "nl": "Partijen"
+    },
+    "institution": {
+      "fr": "Les institutions",
+      "nl": "Instellingen"
+    },
+    "union": {
+      "fr": "Les syndicats",
+      "nl": "Vakbonden"
+    },
+    "body": {
+      "fr": "Les autres organismes",
+      "nl": "Andere organisaties"
+    }
+  },
+  "source_kinds": {
+    "primaire": {
+      "fr": "source primaire",
+      "nl": "primaire bron"
+    },
+    "institution": {
+      "fr": "institution",
+      "nl": "instelling"
+    },
+    "presse": {
+      "fr": "presse",
+      "nl": "pers"
+    },
+    "acteur": {
+      "fr": "partie prenante",
+      "nl": "belanghebbende"
+    },
+    "recherche": {
+      "fr": "recherche",
+      "nl": "onderzoek"
+    }
+  },
+  "source_kinds_plural": {
+    "primaire": {
+      "fr": "Sources primaires",
+      "nl": "Primaire bronnen"
+    },
+    "institution": {
+      "fr": "Institutions publiques",
+      "nl": "Overheidsinstellingen"
+    },
+    "presse": {
+      "fr": "Presse",
+      "nl": "Pers"
+    },
+    "acteur": {
+      "fr": "Parties prenantes",
+      "nl": "Belanghebbenden"
+    },
+    "recherche": {
+      "fr": "Recherche et analyse",
+      "nl": "Onderzoek en analyse"
+    }
+  },
+  "tags": {
+    "budget": {
+      "fr": "Budget",
+      "nl": "Begroting"
+    },
+    "fiscalite": {
+      "fr": "Fiscalité",
+      "nl": "Fiscaliteit"
+    },
+    "social": {
+      "fr": "Social",
+      "nl": "Sociaal"
+    },
+    "justice": {
+      "fr": "Justice",
+      "nl": "Justitie"
+    },
+    "regions": {
+      "fr": "Entités fédérées",
+      "nl": "Deelstaten"
+    },
+    "institutions": {
+      "fr": "Institutions",
+      "nl": "Instellingen"
+    },
+    "marches": {
+      "fr": "Marchés",
+      "nl": "Markten"
+    },
+    "opinion": {
+      "fr": "Opinion",
+      "nl": "Opinie"
+    }
+  },
+  "pages": {
+    "dossiers": {
+      "title": {
+        "fr": "Les dossiers",
+        "nl": "De dossiers"
+      },
+      "lede": {
+        "fr": "Quatorze dossiers de fond. Chacun suit la même structure : le fait établi et daté, le mécanisme, qui paie, et ce qui reste incertain. Chaque chiffre porte un appel de note.",
+        "nl": "Veertien achtergronddossiers. Elk volgt dezelfde structuur: het vastgestelde en gedateerde feit, het mechanisme, wie betaalt, en wat onzeker blijft. Elk cijfer draagt een notenverwijzing."
+      }
+    },
+    "entities": {
+      "title": {
+        "fr": "Les acteurs",
+        "nl": "De actoren"
+      },
+      "lede": {
+        "fr": "Qui décide, qui bloque, qui encaisse. Une fiche par personne, parti, institution ou syndicat, avec ses positions datées et les dossiers où il apparaît.",
+        "nl": "Wie beslist, wie blokkeert, wie de rekening krijgt. Eén fiche per persoon, partij, instelling of vakbond, met gedateerde standpunten en de dossiers waarin ze voorkomen."
+      }
+    },
+    "timeline": {
+      "title": {
+        "fr": "Chronologie",
+        "nl": "Chronologie"
+      },
+      "lede": {
+        "fr": "De la formation du gouvernement en février 2025 aux échéances annoncées de novembre 2026. Filtrable par thème ; chaque repère renvoie à sa source.",
+        "nl": "Van de regeringsvorming in februari 2025 tot de aangekondigde deadlines van november 2026. Filterbaar op thema; elke gebeurtenis verwijst naar haar bron."
+      }
+    },
+    "indicators": {
+      "title": {
+        "fr": "Indicateurs",
+        "nl": "Indicatoren"
+      },
+      "lede": {
+        "fr": "Tous les graphiques du site, au même endroit, avec sous chacun le tableau des données et le lien de téléchargement.",
+        "nl": "Alle grafieken van de site op één plek, telkens met de datatabel eronder en de downloadlink."
+      }
+    },
+    "glossary": {
+      "title": {
+        "fr": "Glossaire",
+        "nl": "Woordenlijst"
+      },
+      "lede": {
+        "fr": "Le vocabulaire du conclave, des institutions belges et de la procédure européenne, défini sans jargon.",
+        "nl": "Het vocabulaire van het conclaaf, de Belgische instellingen en de Europese procedure, zonder jargon uitgelegd."
+      }
+    },
+    "sources": {
+      "title": {
+        "fr": "Bibliographie",
+        "nl": "Bibliografie"
+      },
+      "lede": {
+        "fr": "Toutes les sources du site, classées par nature, avec la date de publication et la date de consultation. Les sources primaires viennent en premier.",
+        "nl": "Alle bronnen van de site, geordend naar aard, met publicatiedatum en raadplegingsdatum. Primaire bronnen staan vooraan."
+      }
+    },
+    "search": {
+      "title": {
+        "fr": "Recherche",
+        "nl": "Zoeken"
+      },
+      "lede": {
+        "fr": "Recherche plein texte dans tout le site. L'index est un fichier statique ; rien n'est envoyé nulle part.",
+        "nl": "Zoeken in de volledige tekst van de site. De index is een statisch bestand; er wordt niets verstuurd."
+      }
+    }
+  },
+  "home": {
+    "kicker": {
+      "fr": "État des lieux — lundi 21 septembre 2026",
+      "nl": "Stand van zaken — maandag 21 september 2026"
+    },
+    "h1": {
+      "fr": "Dix milliards, vingt-deux jours, cinq partis qui ne veulent pas les mêmes dix milliards",
+      "nl": "Tien miljard, tweeëntwintig dagen, vijf partijen die niet dezelfde tien miljard willen"
+    },
+    "lede": {
+      "fr": "Le conclave budgétaire fédéral s'est ouvert aujourd'hui. La note de départ du premier ministre a été jugée « déséquilibrée » par le MR et « indigeste » par Les Engagés dans la journée même. Il reste vingt-deux jours avant la déclaration de politique générale. Voici ce qui se joue, chiffre par chiffre, avec ses sources et ses zones d'ombre.",
+      "nl": "Het federale begrotingsconclaaf is vandaag begonnen. De startnota van de premier werd nog dezelfde dag « onevenwichtig » genoemd door MR en « onverteerbaar » door Les Engagés. Er resten tweeëntwintig dagen tot de beleidsverklaring. Dit is wat er op het spel staat, cijfer voor cijfer, met bronnen en blinde vlekken."
+    },
+    "kpi": [
+      {
+        "value": {
+          "fr": "10 Md €",
+          "nl": "10 mld €"
+        },
+        "label": {
+          "fr": "d'effort acté le 10 juillet pour 2029, alors que le Comité de monitoring en réclamait 7,7[[s:ll-10md-1007]]",
+          "nl": "inspanning vastgelegd op 10 juli voor 2029, terwijl het Monitoringcomité er 7,7 vroeg[[s:ll-10md-1007]]"
+        }
+      },
+      {
+        "value": {
+          "fr": "13 oct.",
+          "nl": "13 okt."
+        },
+        "label": {
+          "fr": "déclaration de politique générale et dépôt du budget à la Chambre[[s:ll-lieu-1709]]",
+          "nl": "beleidsverklaring en indiening van de begroting in de Kamer[[s:ll-lieu-1709]]"
+        }
+      },
+      {
+        "value": {
+          "fr": "≈ 99 000",
+          "nl": "≈ 99 000"
+        },
+        "label": {
+          "fr": "personnes en sursis après l'annulation partielle de l'article 212 par l'arrêt 96/2026[[s:cc-96-2026]]",
+          "nl": "mensen met uitstel na de gedeeltelijke vernietiging van artikel 212 door arrest 96/2026[[s:cc-96-2026]]"
+        }
+      },
+      {
+        "value": {
+          "fr": "1/9",
+          "nl": "1/9"
+        },
+        "label": {
+          "fr": "la part de l'effort que l'accord de gouvernement réserve aux recettes — le cœur du litige[[s:ll-clarinval-0509]]",
+          "nl": "het deel van de inspanning dat het regeerakkoord aan ontvangsten voorbehoudt — de kern van het geschil[[s:ll-clarinval-0509]]"
+        }
+      }
+    ],
+    "intro": {
+      "fr": "Ce site est un instantané. Il décrit la Belgique politique telle qu'elle est le 21 septembre 2026, jour d'ouverture du conclave budgétaire fédéral, et il le dit franchement : plusieurs de ses pages seront périmées le 13 octobre. C'est le prix à payer pour être précis plutôt que prudent.\n\nLa thèse qui traverse les quatorze dossiers est simple, et elle n'est pas neuve : l'assainissement fédéral ne fait pas disparaître la dépense, il la déplace. Vers les CPAS, vers les communes, vers les entités fédérées, vers les ménages, vers plus tard. Ce qui est neuf, en septembre 2026, c'est que les destinataires du transfert commencent à refuser de le recevoir — la Wallonie cherche 900 millions, Bruxelles dérape de 300, la Flandre en cherche 865, et le premier ministre parle déjà de changer les structures plutôt que les chiffres.",
+      "nl": "Deze site is een momentopname. Hij beschrijft politiek België zoals het is op 21 september 2026, de openingsdag van het federale begrotingsconclaaf, en zegt dat ook onomwonden: verschillende pagina's zullen op 13 oktober achterhaald zijn. Dat is de prijs van precisie boven voorzichtigheid.\n\nDe stelling die door de veertien dossiers loopt, is eenvoudig en niet nieuw: de federale sanering doet de uitgave niet verdwijnen, ze verplaatst haar. Naar de OCMW's, naar de gemeenten, naar de deelstaten, naar de gezinnen, naar later. Wat wél nieuw is in september 2026: de ontvangers van die verschuiving beginnen te weigeren. Wallonië zoekt 900 miljoen, Brussel ontspoort met 300, Vlaanderen zoekt er 865, en de premier heeft het al over het veranderen van de structuren in plaats van de cijfers."
+    },
+    "figure": "dette-pib",
+    "dossiers_title": {
+      "fr": "Par où commencer",
+      "nl": "Waar te beginnen"
+    },
+    "all_dossiers": {
+      "fr": "Les quatorze dossiers",
+      "nl": "Alle veertien dossiers"
+    },
+    "recent_title": {
+      "fr": "Ce qui vient de se passer",
+      "nl": "Wat er net gebeurd is"
+    },
+    "all_timeline": {
+      "fr": "Toute la chronologie",
+      "nl": "De volledige chronologie"
+    },
+    "next_title": {
+      "fr": "Les prochaines échéances",
+      "nl": "De volgende vervaldagen"
+    }
+  }
+}

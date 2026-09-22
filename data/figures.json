@@ -1,0 +1,326 @@
+[
+  {
+    "id": "dette-pib",
+    "kind": "bar",
+    "title": {
+      "fr": "Dette publique belge, en % du PIB",
+      "nl": "Belgische overheidsschuld, in % van het bbp"
+    },
+    "desc": {
+      "fr": "Histogramme de la dette publique belge en pourcentage du PIB : 105,7 en 2024, 107,9 en 2025, 111,3 en 2026, 112,9 en 2027, 114,8 en 2028 et 116,6 en 2029. Une ligne de référence marque le seuil européen de 60 %, très en dessous de toutes les valeurs.",
+      "nl": "Staafdiagram van de Belgische overheidsschuld in procent van het bbp: 105,7 in 2024, 107,9 in 2025, 111,3 in 2026, 112,9 in 2027, 114,8 in 2028 en 116,6 in 2029. Een referentielijn markeert de Europese drempel van 60 %, ver onder alle waarden."
+    },
+    "unit": { "fr": " %", "nl": " %" },
+    "decimals": 1,
+    "category_label": { "fr": "Année", "nl": "Jaar" },
+    "categories": ["2024", "2025", "2026", "2027", "2028", "2029"],
+    "series": [
+      {
+        "name": { "fr": "Dette publique", "nl": "Overheidsschuld" },
+        "values": [105.7, 107.9, 111.3, 112.9, 114.8, 116.6]
+      }
+    ],
+    "reference": { "value": 60, "label": { "fr": "seuil européen : 60 %", "nl": "Europese drempel: 60 %" } },
+    "note": {
+      "fr": "2024 et 2025 réalisés ; 2026 à 2029 projetés à politique inchangée. C'est cette trajectoire, et non le déficit d'une seule année, qui fonde la procédure européenne.",
+      "nl": "2024 en 2025 gerealiseerd; 2026 tot 2029 geraamd bij ongewijzigd beleid. Het is dit traject, en niet het tekort van één jaar, dat aan de Europese procedure ten grondslag ligt."
+    },
+    "sources": ["bnb-projections", "lavenir-charges-0107", "tresor-belgique"]
+  },
+  {
+    "id": "solde-pib",
+    "kind": "bar",
+    "title": {
+      "fr": "Solde de financement des administrations publiques, en % du PIB",
+      "nl": "Vorderingensaldo van de overheid, in % van het bbp"
+    },
+    "desc": {
+      "fr": "Histogramme du solde public belge, négatif sur toute la période : −4,4 en 2024, −5,2 en 2025, −5,3 en 2026, −5,5 en 2027 et −5,7 en 2028. Une ligne de référence marque le seuil de −3 %, jamais atteint.",
+      "nl": "Staafdiagram van het Belgische overheidssaldo, negatief over de hele periode: −4,4 in 2024, −5,2 in 2025, −5,3 in 2026, −5,5 in 2027 en −5,7 in 2028. Een referentielijn markeert de drempel van −3 %, die nooit gehaald wordt."
+    },
+    "unit": { "fr": " %", "nl": " %" },
+    "decimals": 1,
+    "category_label": { "fr": "Année", "nl": "Jaar" },
+    "categories": ["2024", "2025", "2026", "2027", "2028"],
+    "series": [
+      {
+        "name": { "fr": "Solde de financement", "nl": "Vorderingensaldo" },
+        "values": [-4.4, -5.2, -5.3, -5.5, -5.7]
+      }
+    ],
+    "reference": { "value": -3, "label": { "fr": "seuil européen : −3 %", "nl": "Europese drempel: −3 %" } },
+    "note": {
+      "fr": "Le déficit ne se réduit pas : il se creuse lentement malgré les mesures déjà prises. C'est l'écart entre cette courbe et le seuil de −3 % que le conclave doit combler.",
+      "nl": "Het tekort daalt niet: het loopt traag op, ondanks de reeds genomen maatregelen. Het is de kloof tussen deze curve en de drempel van −3 % die het conclaaf moet dichten."
+    },
+    "sources": ["bnb-projections", "lavenir-charges-0107", "levif-bnb-5pc"]
+  },
+  {
+    "id": "charges-interet",
+    "kind": "bar",
+    "title": {
+      "fr": "Charge annuelle d'intérêts de la dette fédérale, en milliards d'euros",
+      "nl": "Jaarlijkse rentelast van de federale schuld, in miljard euro"
+    },
+    "desc": {
+      "fr": "Histogramme en trois barres : 10,78 milliards d'euros de charges d'intérêt en 2025, 12,2 milliards en 2026 et environ 20,9 milliards en 2030. Les années 2027 à 2029 ne sont pas publiées.",
+      "nl": "Staafdiagram met drie staven: 10,78 miljard euro rentelasten in 2025, 12,2 miljard in 2026 en ongeveer 20,9 miljard in 2030. De jaren 2027 tot 2029 zijn niet gepubliceerd."
+    },
+    "unit": { "fr": " Md €", "nl": " mld €" },
+    "decimals": 2,
+    "label_bars": true,
+    "category_label": { "fr": "Année", "nl": "Jaar" },
+    "categories": ["2025", "2026", "2030"],
+    "series": [
+      {
+        "name": { "fr": "Charge d'intérêts", "nl": "Rentelast" },
+        "values": [10.78, 12.2, 20.9]
+      }
+    ],
+    "note": {
+      "fr": "Les trois barres ne sont pas équidistantes dans le temps : les projections publiées sautent de 2026 à 2030. La hausse dépasse 70 % en quatre ans ; il y a trois ans, la charge était inférieure à 8 milliards.",
+      "nl": "De drie staven liggen niet op gelijke afstand in de tijd: de gepubliceerde ramingen springen van 2026 naar 2030. De stijging bedraagt meer dan 70 % op vier jaar; drie jaar geleden lag de last onder 8 miljard."
+    },
+    "sources": ["lavenir-charges-0107", "ll-dette-3001"]
+  },
+  {
+    "id": "effort-decompose",
+    "kind": "hbar",
+    "title": {
+      "fr": "Les dix milliards, décomposés comme le MR les décompte",
+      "nl": "De tien miljard, opgesplitst zoals MR ze telt"
+    },
+    "desc": {
+      "fr": "Barres horizontales : 4 milliards d'euros de mesures déjà actées, 1,5 milliard attendu de la croissance économique et 4,5 milliards de réformes nouvelles.",
+      "nl": "Horizontale staven: 4 miljard euro aan reeds genomen maatregelen, 1,5 miljard verwacht uit economische groei en 4,5 miljard aan nieuwe hervormingen."
+    },
+    "unit": { "fr": " Md €", "nl": " mld €" },
+    "decimals": 1,
+    "category_label": { "fr": "Composante", "nl": "Onderdeel" },
+    "categories": [
+      { "fr": "Mesures déjà actées", "nl": "Reeds genomen maatregelen" },
+      { "fr": "Gains de croissance attendus", "nl": "Verwachte groeiwinst" },
+      { "fr": "Réformes nouvelles à trouver", "nl": "Nog te vinden nieuwe hervormingen" }
+    ],
+    "series": [
+      { "name": { "fr": "Montant", "nl": "Bedrag" }, "values": [4.0, 1.5, 4.5] }
+    ],
+    "note": {
+      "fr": "Le litige porte sur le dénominateur : l'accord de gouvernement réserve environ un neuvième de l'effort aux recettes, mais le MR applique ce ratio aux seuls 4,5 milliards de réformes nouvelles, et non aux dix milliards.",
+      "nl": "Het geschil gaat over de noemer: het regeerakkoord houdt ongeveer een negende van de inspanning voor ontvangsten, maar MR past die verhouding alleen toe op de 4,5 miljard nieuwe hervormingen, niet op de tien miljard."
+    },
+    "sources": ["ll-clarinval-0509"]
+  },
+  {
+    "id": "cpas-report",
+    "kind": "hbar",
+    "title": {
+      "fr": "Quelle part des exclus du chômage se tourne vers le CPAS ?",
+      "nl": "Welk deel van de uitgesloten werklozen klopt aan bij het OCMW?"
+    },
+    "desc": {
+      "fr": "Barres horizontales comparant six estimations de la part des personnes exclues du chômage qui demandent le revenu d'intégration : 33 % dans l'hypothèse du gouvernement, 27 % dans la borne basse de la KU Leuven, 42 % dans sa borne haute, 44 % en moyenne belge observée au premier semestre 2026, 46,5 % observés en début d'année et 48,7 % en Wallonie.",
+      "nl": "Horizontale staven met zes ramingen van het aandeel uitgesloten werklozen dat een leefloon aanvraagt: 33 % in de regeringshypothese, 27 % in de lage grens van de KU Leuven, 42 % in haar hoge grens, 44 % als Belgisch gemiddelde in het eerste halfjaar van 2026, 46,5 % begin dat jaar en 48,7 % in Wallonië."
+    },
+    "unit": { "fr": " %", "nl": " %" },
+    "decimals": 1,
+    "category_label": { "fr": "Estimation", "nl": "Raming" },
+    "categories": [
+      { "fr": "Hypothèse du gouvernement", "nl": "Hypothese van de regering" },
+      { "fr": "KU Leuven, borne basse", "nl": "KU Leuven, ondergrens" },
+      { "fr": "KU Leuven, borne haute", "nl": "KU Leuven, bovengrens" },
+      { "fr": "Observé, moyenne belge (1er sem. 2026)", "nl": "Waargenomen, Belgisch gemiddelde (1e helft 2026)" },
+      { "fr": "Observé, début 2026", "nl": "Waargenomen, begin 2026" },
+      { "fr": "Observé, Wallonie (1er sem. 2026)", "nl": "Waargenomen, Wallonië (1e helft 2026)" }
+    ],
+    "series": [
+      { "name": { "fr": "Part se tournant vers le CPAS", "nl": "Aandeel dat naar het OCMW gaat" },
+        "values": [33.0, 27.0, 42.0, 44.0, 46.5, 48.7] }
+    ],
+    "note": {
+      "fr": "Six chiffres pour une seule question, et l'écart va du simple au presque double. Le gouvernement a calibré ses compensations sur l'hypothèse la plus basse ; l'observation la place systématiquement au-dessus.",
+      "nl": "Zes cijfers voor één vraag, met een verschil dat bijna verdubbelt. De regering ijkte haar compensaties op de laagste hypothese; de waarnemingen liggen er stelselmatig boven."
+    },
+    "sources": ["dh-kuleuven-1404", "lavenir-cpas50-1009", "moustique-cpas-1203"]
+  },
+  {
+    "id": "cpas-finances",
+    "kind": "grouped",
+    "title": {
+      "fr": "Ce que les CPAS wallons dépensent et ce que les communes leur versent, en millions d'euros",
+      "nl": "Wat de Waalse OCMW's uitgeven en wat de gemeenten hun storten, in miljoen euro"
+    },
+    "desc": {
+      "fr": "Histogramme groupé à deux séries. Les dépenses de transferts des CPAS wallons passent de 1 055 millions d'euros en 2019 à près de 2 000 millions en 2026. La dotation communale passe de 398,67 millions en 2011 à 814 millions en 2026. Les années sans donnée publiée sont vides.",
+      "nl": "Gegroepeerd staafdiagram met twee reeksen. De overdrachtsuitgaven van de Waalse OCMW's gaan van 1 055 miljoen euro in 2019 naar bijna 2 000 miljoen in 2026. De gemeentelijke dotatie gaat van 398,67 miljoen in 2011 naar 814 miljoen in 2026. Jaren zonder gepubliceerd cijfer blijven leeg."
+    },
+    "unit": { "fr": " M €", "nl": " mln €" },
+    "decimals": 0,
+    "category_label": { "fr": "Année", "nl": "Jaar" },
+    "categories": ["2011", "2019", "2026"],
+    "series": [
+      { "name": { "fr": "Dépenses de transferts des CPAS", "nl": "Overdrachtsuitgaven van de OCMW's" },
+        "values": [null, 1055, 2000] },
+      { "name": { "fr": "Dotation versée par les communes", "nl": "Dotatie van de gemeenten" },
+        "values": [398.67, null, 814] }
+    ],
+    "note": {
+      "fr": "La dotation communale a doublé en quinze ans. Elle est financée par la fiscalité locale : additionnels au précompte immobilier et à l'impôt des personnes physiques. C'est là que le transfert de charge redevient visible pour le contribuable.",
+      "nl": "De gemeentelijke dotatie is in vijftien jaar verdubbeld. Ze wordt gefinancierd met lokale belastingen: opcentiemen op de onroerende voorheffing en op de personenbelasting. Daar wordt de lastenverschuiving opnieuw zichtbaar voor de belastingbetaler."
+    },
+    "sources": ["lavenir-cpas50-1009"]
+  },
+  {
+    "id": "sante-economies",
+    "kind": "grouped",
+    "title": {
+      "fr": "Économies programmées dans les soins de santé, en millions d'euros",
+      "nl": "Geplande besparingen in de gezondheidszorg, in miljoen euro"
+    },
+    "desc": {
+      "fr": "Histogramme groupé : en 2027, 117,3 millions d'euros d'économies sur le médicament et 54,2 millions sur les autres secteurs ; en 2028, 90,1 et 80,5 millions ; en 2029, 163,6 et 132,5 millions. Le total sur trois ans approche 638 millions.",
+      "nl": "Gegroepeerd staafdiagram: in 2027 117,3 miljoen euro besparingen op geneesmiddelen en 54,2 miljoen op andere sectoren; in 2028 90,1 en 80,5 miljoen; in 2029 163,6 en 132,5 miljoen. Het driejaarlijkse totaal benadert 638 miljoen."
+    },
+    "unit": { "fr": " M €", "nl": " mln €" },
+    "decimals": 1,
+    "category_label": { "fr": "Année", "nl": "Jaar" },
+    "categories": ["2027", "2028", "2029"],
+    "series": [
+      { "name": { "fr": "Médicament", "nl": "Geneesmiddelen" }, "values": [117.3, 90.1, 163.6] },
+      { "name": { "fr": "Autres secteurs", "nl": "Andere sectoren" }, "values": [54.2, 80.5, 132.5] }
+    ],
+    "note": {
+      "fr": "Le médicament porte environ 58 % de l'effort. Ces économies ne réduisent pas le budget : elles freinent sa croissance, puisque l'enveloppe 2027 augmente tout de même de près de deux milliards.",
+      "nl": "De geneesmiddelen dragen ongeveer 58 % van de inspanning. Deze besparingen verlagen de begroting niet: ze remmen haar groei, want de enveloppe 2027 stijgt hoe dan ook met bijna twee miljard."
+    },
+    "sources": ["ll-sante-1507"]
+  },
+  {
+    "id": "effort-niveaux",
+    "kind": "hbar",
+    "title": {
+      "fr": "Montant d'économies annoncé, par niveau de pouvoir, en millions d'euros",
+      "nl": "Aangekondigd besparingsbedrag, per bestuursniveau, in miljoen euro"
+    },
+    "desc": {
+      "fr": "Barres horizontales : 10 000 millions d'euros pour le pouvoir fédéral d'ici 2029, 900 millions pour la Wallonie en 2027, 865 millions pour la Flandre en 2027 et 500 millions pour la Fédération Wallonie-Bruxelles sur quatre ans.",
+      "nl": "Horizontale staven: 10 000 miljoen euro voor de federale overheid tegen 2029, 900 miljoen voor Wallonië in 2027, 865 miljoen voor Vlaanderen in 2027 en 500 miljoen voor de Franse Gemeenschap over vier jaar."
+    },
+    "unit": { "fr": " M €", "nl": " mln €" },
+    "decimals": 0,
+    "category_label": { "fr": "Niveau de pouvoir", "nl": "Bestuursniveau" },
+    "categories": [
+      { "fr": "Pouvoir fédéral (d'ici 2029)", "nl": "Federale overheid (tegen 2029)" },
+      { "fr": "Wallonie (2027)", "nl": "Wallonië (2027)" },
+      { "fr": "Flandre (2027)", "nl": "Vlaanderen (2027)" },
+      { "fr": "Fédération Wallonie-Bruxelles (4 ans)", "nl": "Franse Gemeenschap (4 jaar)" }
+    ],
+    "series": [
+      { "name": { "fr": "Économies annoncées", "nl": "Aangekondigde besparingen" },
+        "values": [10000, 900, 865, 500] }
+    ],
+    "note": {
+      "fr": "Les horizons ne sont pas comparables — quatre ans pour le fédéral et la Communauté française, un exercice pour les deux Régions. Le graphique montre l'ordre de grandeur, pas un classement.",
+      "nl": "De horizonten zijn niet vergelijkbaar — vier jaar voor het federale niveau en de Franse Gemeenschap, één begrotingsjaar voor beide gewesten. De grafiek toont de grootteorde, geen rangschikking."
+    },
+    "sources": ["ll-10md-1007", "rtbf-wallonie-1709", "businessam-flandre-1102", "rtbf-fwb-economies"]
+  },
+  {
+    "id": "sondage-wallonie",
+    "kind": "hbar",
+    "title": {
+      "fr": "Intentions de vote en Wallonie, printemps 2026 et élections de 2024",
+      "nl": "Stemintenties in Wallonië, voorjaar 2026 en verkiezingen van 2024"
+    },
+    "desc": {
+      "fr": "Barres horizontales à deux séries. Au printemps 2026 : PS 24,9 %, MR 20 %, Les Engagés 19,3 %, PTB 18,6 %, Ecolo 6,8 %. Aux élections de 2024 : PS 22 %, MR 28,2 %, PTB 11,6 %. Les valeurs 2024 des Engagés et d'Ecolo ne sont pas reprises dans la source.",
+      "nl": "Horizontale staven met twee reeksen. Voorjaar 2026: PS 24,9 %, MR 20 %, Les Engagés 19,3 %, PTB 18,6 %, Ecolo 6,8 %. Verkiezingen 2024: PS 22 %, MR 28,2 %, PTB 11,6 %. De cijfers van 2024 voor Les Engagés en Ecolo staan niet in de bron."
+    },
+    "unit": { "fr": " %", "nl": " %" },
+    "decimals": 1,
+    "category_label": { "fr": "Parti", "nl": "Partij" },
+    "categories": ["PS", "MR", "Les Engagés", "PTB", "Ecolo"],
+    "series": [
+      { "name": { "fr": "Printemps 2026", "nl": "Voorjaar 2026" }, "values": [24.9, 20.0, 19.3, 18.6, 6.8] },
+      { "name": { "fr": "Élections 2024", "nl": "Verkiezingen 2024" }, "values": [22.0, 28.2, null, 11.6, null] }
+    ],
+    "note": {
+      "fr": "Enquête nationale menée de début mars à début avril 2026 par l'Université d'Anvers et l'ULB pour la RTBF, la VRT et De Standaard. Les cases vides sont des valeurs que la source ne publie pas ; elles ne valent pas zéro.",
+      "nl": "Nationale enquête van begin maart tot begin april 2026 door de Universiteit Antwerpen en de ULB voor RTBF, VRT en De Standaard. Lege vakjes zijn cijfers die de bron niet publiceert; ze betekenen geen nul."
+    },
+    "sources": ["rtbf-enquete-2026"]
+  },
+  {
+    "id": "sondage-bruxelles",
+    "kind": "hbar",
+    "title": {
+      "fr": "Intentions de vote à Bruxelles, printemps 2026",
+      "nl": "Stemintenties in Brussel, voorjaar 2026"
+    },
+    "desc": {
+      "fr": "Barres horizontales : PTB 24,4 %, PS 15,9 %, MR 14,2 %, Les Engagés 11,4 %, Ecolo 6,5 %. Le MR est comparé à ses 21,5 % de 2024.",
+      "nl": "Horizontale staven: PVDA-PTB 24,4 %, PS 15,9 %, MR 14,2 %, Les Engagés 11,4 %, Ecolo 6,5 %. MR wordt vergeleken met zijn 21,5 % van 2024."
+    },
+    "unit": { "fr": " %", "nl": " %" },
+    "decimals": 1,
+    "category_label": { "fr": "Parti", "nl": "Partij" },
+    "categories": ["PTB", "PS", "MR", "Les Engagés", "Ecolo"],
+    "series": [
+      { "name": { "fr": "Printemps 2026", "nl": "Voorjaar 2026" }, "values": [24.4, 15.9, 14.2, 11.4, 6.5] },
+      { "name": { "fr": "Élections 2024", "nl": "Verkiezingen 2024" }, "values": [null, null, 21.5, null, null] }
+    ],
+    "note": {
+      "fr": "Le PTB devient premier parti de la Région où l'effet des exclusions du chômage et de la crise budgétaire régionale se cumule le plus fortement.",
+      "nl": "PVDA-PTB wordt de grootste partij in het gewest waar het effect van de werkloosheidsuitsluitingen en van de regionale begrotingscrisis het sterkst samenvalt."
+    },
+    "sources": ["rtbf-enquete-2026"]
+  },
+  {
+    "id": "sondage-flandre",
+    "kind": "hbar",
+    "title": {
+      "fr": "Intentions de vote en Flandre, printemps 2026",
+      "nl": "Stemintenties in Vlaanderen, voorjaar 2026"
+    },
+    "desc": {
+      "fr": "Barres horizontales : N-VA 27,7 %, Vlaams Belang 20,8 %, Vooruit 12,9 %, CD&V 12,2 %, PVDA 8,2 %.",
+      "nl": "Horizontale staven: N-VA 27,7 %, Vlaams Belang 20,8 %, Vooruit 12,9 %, CD&V 12,2 %, PVDA 8,2 %."
+    },
+    "unit": { "fr": " %", "nl": " %" },
+    "decimals": 1,
+    "category_label": { "fr": "Parti", "nl": "Partij" },
+    "categories": ["N-VA", "Vlaams Belang", "Vooruit", "CD&V", "PVDA"],
+    "series": [
+      { "name": { "fr": "Printemps 2026", "nl": "Voorjaar 2026" }, "values": [27.7, 20.8, 12.9, 12.2, 8.2] }
+    ],
+    "note": {
+      "fr": "Aucun mouvement dépassant la marge d'erreur par rapport à 2024, selon les auteurs. D'autres sondages du même printemps placent le Vlaams Belang devant la N-VA : l'ordre de tête n'est pas établi.",
+      "nl": "Volgens de auteurs geen enkele beweging die de foutenmarge overschrijdt tegenover 2024. Andere peilingen uit hetzelfde voorjaar zetten Vlaams Belang vóór N-VA: de volgorde aan kop staat niet vast."
+    },
+    "sources": ["rtbf-enquete-2026", "dh-barometre-1303"]
+  },
+  {
+    "id": "chambre-sieges",
+    "kind": "hbar",
+    "title": {
+      "fr": "Sièges à la Chambre des représentants après le 9 juin 2024",
+      "nl": "Zetels in de Kamer van volksvertegenwoordigers na 9 juni 2024"
+    },
+    "desc": {
+      "fr": "Barres horizontales des douze formations représentées : N-VA 24, Vlaams Belang 20, MR 20, PS 16, PTB-PVDA 15, Les Engagés 14, Vooruit 13, CD&V 11, Open Vld 7, Groen 6, Ecolo 3, DéFI 1.",
+      "nl": "Horizontale staven van de twaalf vertegenwoordigde formaties: N-VA 24, Vlaams Belang 20, MR 20, PS 16, PVDA-PTB 15, Les Engagés 14, Vooruit 13, CD&V 11, Open Vld 7, Groen 6, Ecolo 3, DéFI 1."
+    },
+    "unit": { "fr": "", "nl": "" },
+    "decimals": 0,
+    "category_label": { "fr": "Parti", "nl": "Partij" },
+    "categories": ["N-VA", "Vlaams Belang", "MR", "PS", "PTB-PVDA", "Les Engagés", "Vooruit", "CD&V", "Open Vld", "Groen", "Ecolo", "DéFI"],
+    "series": [
+      { "name": { "fr": "Sièges", "nl": "Zetels" }, "values": [24, 20, 20, 16, 15, 14, 13, 11, 7, 6, 3, 1] }
+    ],
+    "note": {
+      "fr": "Les cinq partis de la coalition Arizona — N-VA, MR, Les Engagés, Vooruit, CD&V — totalisent 82 sièges sur 150. Le graphique n'utilise pas les couleurs des partis : elles ne se distinguent pas en vision déficiente.",
+      "nl": "De vijf partijen van de Arizona-coalitie — N-VA, MR, Les Engagés, Vooruit, CD&V — tellen samen 82 van de 150 zetels. De grafiek gebruikt niet de partijkleuren: die zijn niet te onderscheiden bij kleurenblindheid."
+    },
+    "sources": ["elections-2024"]
+  }
+]

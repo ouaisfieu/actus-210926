@@ -1,0 +1,128 @@
+[
+  {
+    "point": { "fr": "Sièges de la majorité à la Chambre", "nl": "Meerderheidszetels in de Kamer" },
+    "before": { "fr": "81 sur 150", "nl": "81 op 150" },
+    "after": {
+      "fr": "**82 sur 150**. Le chiffre de 81 est celui des voix recueillies au vote de confiance du 3 février 2025 (81 pour, 66 contre, 3 abstentions), pas celui des sièges[[s:wiki-elections-2024]][[s:wiki-gouv-dewever]].",
+      "nl": "**82 op 150**. Het cijfer 81 slaat op de stemmen bij de vertrouwensstemming van 3 februari 2025 (81 voor, 66 tegen, 3 onthoudingen), niet op de zetels[[s:wiki-elections-2024]][[s:wiki-gouv-dewever]]."
+    }
+  },
+  {
+    "point": { "fr": "L'arrêt de la Cour constitutionnelle sur le chômage", "nl": "Het arrest van het Grondwettelijk Hof over de werkloosheid" },
+    "before": {
+      "fr": "Une seule décision, datée tantôt du 15 janvier 2026, tantôt du 10 septembre 2026",
+      "nl": "Eén enkele beslissing, nu eens van 15 januari 2026, dan weer van 10 september 2026"
+    },
+    "after": {
+      "fr": "**Deux décisions distinctes.** Le 15 janvier 2026, la Cour rejette la demande de suspension introduite le 29 octobre 2025[[s:uvcw-suspension]]. Le 10 septembre 2026, l'arrêt n° 96/2026 statue au fond : annulation des points 4 à 6 de l'article 212, alinéa 2, de la loi-programme du 18 juillet 2025, rejet pour le surplus[[s:cc-96-2026]].",
+      "nl": "**Twee afzonderlijke beslissingen.** Op 15 januari 2026 verwerpt het Hof de op 29 oktober 2025 ingediende vordering tot schorsing[[s:uvcw-suspension]]. Op 10 september 2026 spreekt arrest nr. 96/2026 zich uit ten gronde: vernietiging van de punten 4 tot 6 van artikel 212, tweede lid, van de programmawet van 18 juli 2025, verwerping voor het overige[[s:cc-96-2026]]."
+    }
+  },
+  {
+    "point": { "fr": "Nombre d'exclusions du chômage en 2026", "nl": "Aantal uitsluitingen uit de werkloosheid in 2026" },
+    "before": { "fr": "« Près de 43 000 » au 1er juillet 2026", "nl": "« Bijna 43 000 » op 1 juli 2026" },
+    "after": {
+      "fr": "**99 144 personnes** sur le seul premier semestre 2026, dont 49,2 % en Wallonie[[s:lavenir-cpas50-1009]].",
+      "nl": "**99 144 personen** in het eerste halfjaar van 2026 alleen al, waarvan 49,2 % in Wallonië[[s:lavenir-cpas50-1009]]."
+    }
+  },
+  {
+    "point": { "fr": "Part des exclus qui se tournent vers le CPAS", "nl": "Aandeel uitgeslotenen dat naar het OCMW gaat" },
+    "before": { "fr": "Non chiffrée", "nl": "Niet becijferd" },
+    "after": {
+      "fr": "Aucun chiffre unique n'existe. Le gouvernement avait calibré ses compensations sur un tiers[[s:moustique-cpas-1203]] ; l'observation du premier semestre donne 44 % en moyenne belge et 48,7 % en Wallonie[[s:lavenir-cpas50-1009]] ; la KU Leuven projette 27 à 42 % sur l'année[[s:dh-kuleuven-1404]]. Le site publie les six estimations plutôt qu'une seule.",
+      "nl": "Er bestaat geen enkel cijfer. De regering ijkte haar compensaties op een derde[[s:moustique-cpas-1203]]; de waarneming van het eerste halfjaar geeft 44 % als Belgisch gemiddelde en 48,7 % in Wallonië[[s:lavenir-cpas50-1009]]; de KU Leuven raamt 27 tot 42 % over het jaar[[s:dh-kuleuven-1404]]. De site publiceert de zes ramingen in plaats van één."
+    }
+  },
+  {
+    "point": { "fr": "Montant de l'effort budgétaire fédéral", "nl": "Bedrag van de federale begrotingsinspanning" },
+    "before": { "fr": "« Entre 7 et 11 milliards » selon les passages", "nl": "« Tussen 7 en 11 miljard », naargelang de passage" },
+    "after": {
+      "fr": "**7,7 milliards** d'ici 2029 selon le minimum du Comité de monitoring, **10 milliards** décidés par le gouvernement le 10 juillet 2026, soit la norme de 2031 atteinte deux ans plus tôt[[s:ll-10md-1007]][[s:rtbf-10md-1007]].",
+      "nl": "**7,7 miljard** tegen 2029 als minimum van het Monitoringcomité, **10 miljard** beslist door de regering op 10 juli 2026, namelijk de norm van 2031 twee jaar vroeger gehaald[[s:ll-10md-1007]][[s:rtbf-10md-1007]]."
+    }
+  },
+  {
+    "point": { "fr": "Ministre bruxellois du Budget", "nl": "Brussels minister van Begroting" },
+    "before": { "fr": "Karine Lalieux (PS)", "nl": "Karine Lalieux (PS)" },
+    "after": {
+      "fr": "**Dirk De Smedt (Anders)**. Karine Lalieux est secrétaire d'État, chargée notamment du logement, de la santé et des crèches[[s:rtbf-bxl-casting]].",
+      "nl": "**Dirk De Smedt (Anders)**. Karine Lalieux is staatssecretaris, onder meer bevoegd voor huisvesting, gezondheid en kinderopvang[[s:rtbf-bxl-casting]]."
+    }
+  },
+  {
+    "point": { "fr": "Déficit bruxellois 2026", "nl": "Brussels tekort 2026" },
+    "before": { "fr": "957 millions d'euros", "nl": "957 miljoen euro" },
+    "after": {
+      "fr": "957 millions au budget initial voté en mars, **révisé à 1,254 milliard** par le comité de monitoring dès juin 2026[[s:ll-bxl-derapage-2306]].",
+      "nl": "957 miljoen in de in maart gestemde initiële begroting, **bijgesteld tot 1,254 miljard** door het monitoringcomité al in juni 2026[[s:ll-bxl-derapage-2306]]."
+    }
+  },
+  {
+    "point": { "fr": "Norme de croissance des soins de santé", "nl": "Groeinorm gezondheidszorg" },
+    "before": { "fr": "1 % par an", "nl": "1 % per jaar" },
+    "after": {
+      "fr": "**2 % pour 2027**, soit 844 millions d'euros, face à une indexation des prestataires de 2,9 % (1,142 milliard). C'est l'écart entre les deux qui impose les économies[[s:ll-sante-1507]].",
+      "nl": "**2 % voor 2027**, ofwel 844 miljoen euro, tegenover een indexering van de zorgverstrekkers van 2,9 % (1,142 miljard). Het verschil tussen beide dwingt de besparingen af[[s:ll-sante-1507]]."
+    }
+  },
+  {
+    "point": { "fr": "Régime des voitures de société", "nl": "Stelsel van de bedrijfswagens" },
+    "before": {
+      "fr": "2,8 milliards de manque à gagner ; Sammy Mahdi exclut toute réforme le 8 septembre",
+      "nl": "2,8 miljard gederfde inkomsten; Sammy Mahdi sluit elke hervorming uit op 8 september"
+    },
+    "after": {
+      "fr": "Les estimations publiées vont de **2 à 5 milliards**, pour environ 1,2 million de véhicules et 15 % des salariés. L'épisode de septembre 2026 est un arbitrage interne au CD&V : le ministre du Budget rouvre le dossier, la présidence du parti le referme[[s:rtbf-voitures-1709]].",
+      "nl": "De gepubliceerde ramingen lopen van **2 tot 5 miljard**, voor ongeveer 1,2 miljoen voertuigen en 15 % van de werknemers. De episode van september 2026 is een interne CD&V-arbitrage: de begrotingsminister heropent het dossier, de partijvoorzitter sluit het weer[[s:rtbf-voitures-1709]]."
+    }
+  },
+  {
+    "point": { "fr": "Malus pension", "nl": "Pensioenmalus" },
+    "before": { "fr": "En vigueur dès 2026", "nl": "Van kracht vanaf 2026" },
+    "after": {
+      "fr": "**Reporté au 1er janvier 2027**, pour des raisons d'exécution administrative, décision confirmée le 25 novembre 2025[[s:rtbf-malus-2511]].",
+      "nl": "**Uitgesteld tot 1 januari 2027**, om administratieve uitvoeringsredenen, bevestigd op 25 november 2025[[s:rtbf-malus-2511]]."
+    }
+  },
+  {
+    "point": { "fr": "Le troisième syndicat interprofessionnel", "nl": "De derde interprofessionele vakbond" },
+    "before": { "fr": "CGSLB", "nl": "ACLVB" },
+    "after": {
+      "fr": "**SYNOVA** depuis le 30 mai 2026. Les documents antérieurs à juin 2026 utilisent l'ancien nom ; il s'agit de la même organisation[[s:ll-synova-3005]].",
+      "nl": "**SYNOVA** sinds 30 mei 2026. Documenten van vóór juni 2026 gebruiken de oude naam; het gaat om dezelfde organisatie[[s:ll-synova-3005]]."
+    }
+  },
+  {
+    "point": { "fr": "Objet de la journée d'action du 24 septembre", "nl": "Voorwerp van de actiedag van 24 september" },
+    "before": { "fr": "Journée contre l'austérité budgétaire fédérale", "nl": "Actiedag tegen de federale besparingen" },
+    "after": {
+      "fr": "L'appel des trois syndicats vise d'abord le **« 28e régime »** proposé par la Commission européenne. Le lien avec le conclave existe dans le climat, pas dans le mot d'ordre[[s:cessoc-2409]].",
+      "nl": "De oproep van de drie vakbonden richt zich in de eerste plaats tegen het **« 28e regime »** van de Europese Commissie. Het verband met het conclaaf zit in het klimaat, niet in de ordewoorden[[s:cessoc-2409]]."
+    }
+  },
+  {
+    "point": { "fr": "Dette publique 2025", "nl": "Overheidsschuld 2025" },
+    "before": { "fr": "107,4 % dans un document, 107,9 % dans un autre", "nl": "107,4 % in het ene document, 107,9 % in het andere" },
+    "after": {
+      "fr": "**107,9 %**, chiffre du rapport annuel de l'Agence fédérale de la Dette présenté le 1er juillet 2026[[s:lavenir-charges-0107]].",
+      "nl": "**107,9 %**, cijfer uit het jaarverslag van het Federaal Agentschap van de Schuld, voorgesteld op 1 juli 2026[[s:lavenir-charges-0107]]."
+    }
+  },
+  {
+    "point": { "fr": "Croissance du PIB en 2026", "nl": "Bbp-groei in 2026" },
+    "before": { "fr": "1,1 %", "nl": "1,1 %" },
+    "after": {
+      "fr": "Le chiffre de 1,1 % vient de projections antérieures. Les publications conjoncturelles de la Banque nationale situent l'année nettement plus bas : elle n'attend qu'un rebond de **0,3 % au troisième trimestre** après une quasi-stagnation[[s:bnb-t3]]. Le site s'abstient de publier un taux annuel qu'il n'a pas pu vérifier directement.",
+      "nl": "Het cijfer van 1,1 % komt uit eerdere projecties. De conjunctuurpublicaties van de Nationale Bank leggen het jaar duidelijk lager: ze verwacht slechts een opleving van **0,3 % in het derde kwartaal** na een bijna-stagnatie[[s:bnb-t3]]. De site publiceert geen jaarcijfer dat ze niet rechtstreeks heeft kunnen verifiëren."
+    }
+  },
+  {
+    "point": { "fr": "Taxe sur les plus-values : chronologie", "nl": "Meerwaardebelasting: chronologie" },
+    "before": { "fr": "Loi votée puis entrée en vigueur", "nl": "Wet eerst gestemd, dan in werking" },
+    "after": {
+      "fr": "L'inverse. La taxe s'applique depuis le **1er janvier 2026** ; la loi n'a été votée et publiée qu'en avril, d'où le régime transitoire d'opt-in et d'opt-out improvisé jusqu'à la fin de l'été[[s:spf-plusvalues]][[s:grantthornton-plusvalues]].",
+      "nl": "Omgekeerd. De belasting geldt sinds **1 januari 2026**; de wet werd pas in april gestemd en gepubliceerd, vandaar de tot eind zomer geïmproviseerde overgangsregeling met opt-in en opt-out[[s:spf-plusvalues]][[s:grantthornton-plusvalues]]."
+    }
+  }
+]

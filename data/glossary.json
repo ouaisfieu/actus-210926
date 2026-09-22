@@ -1,0 +1,268 @@
+[
+  {
+    "id": "arizona",
+    "term": { "fr": "Arizona (coalition)", "nl": "Arizona-coalitie" },
+    "short": { "fr": "La coalition fédérale de cinq partis dirigée par Bart De Wever", "nl": "De federale vijfpartijencoalitie onder Bart De Wever" },
+    "definition": {
+      "fr": "Surnom de la coalition fédérale entrée en fonction le 3 février 2025, tiré des couleurs du drapeau de l'État américain d'Arizona : jaune pour la N-VA, bleu pour le MR, rouge pour Vooruit, plus l'orange du CD&V et le turquoise des Engagés. Elle dispose de 82 sièges sur 150 à la Chambre.",
+      "nl": "Bijnaam van de federale coalitie die op 3 februari 2025 aantrad, ontleend aan de kleuren van de vlag van de Amerikaanse staat Arizona: geel voor N-VA, blauw voor MR, rood voor Vooruit, plus het oranje van CD&V en het turkoois van Les Engagés. Ze heeft 82 van de 150 Kamerzetels."
+    }
+  },
+  {
+    "id": "conclave",
+    "term": { "fr": "Conclave budgétaire", "nl": "Begrotingsconclaaf" },
+    "short": { "fr": "Négociation gouvernementale fermée sur le budget", "nl": "Gesloten regeringsonderhandeling over de begroting" },
+    "definition": {
+      "fr": "Séquence de négociation en petit comité, souvent tenue en un lieu écarté et sans communication publique, au cours de laquelle le gouvernement arrête son budget. Le terme n'a aucune existence juridique : il décrit une pratique, pas une institution.",
+      "nl": "Onderhandelingsreeks in beperkte kring, vaak op een afgelegen plek en zonder externe communicatie, waarin de regering haar begroting vastlegt. De term heeft geen juridische grondslag: hij beschrijft een praktijk, geen instelling."
+    }
+  },
+  {
+    "id": "kern",
+    "term": { "fr": "Kern", "nl": "Kern" },
+    "short": { "fr": "Le conseil des ministres restreint", "nl": "De beperkte ministerraad" },
+    "definition": {
+      "fr": "Conseil des ministres restreint, réunissant le premier ministre et les vice-Premiers ministres — un par parti de la coalition. C'est l'organe où les arbitrages politiques réels se font avant le conseil des ministres formel.",
+      "nl": "Beperkte ministerraad met de eerste minister en de vice-eersteministers — één per coalitiepartij. Hier vallen de echte politieke beslissingen, vóór de formele ministerraad."
+    }
+  },
+  {
+    "id": "pde",
+    "term": { "fr": "Procédure pour déficit excessif", "nl": "Buitensporigtekortprocedure" },
+    "abbr": "PDE",
+    "short": { "fr": "Procédure européenne ouverte contre la Belgique en juillet 2024", "nl": "Europese procedure geopend tegen België in juli 2024" },
+    "definition": {
+      "fr": "Procédure ouverte par la Commission européenne contre un État dont le déficit dépasse durablement 3 % du PIB ou dont la dette s'écarte de la trajectoire convenue. Elle n'impose pas de mesure précise, mais oblige l'État à présenter un plan crédible et l'expose, au terme du processus, à des sanctions financières.",
+      "nl": "Procedure die de Europese Commissie opent tegen een lidstaat waarvan het tekort duurzaam boven 3 % van het bbp ligt of waarvan de schuld van het afgesproken traject afwijkt. Ze legt geen concrete maatregel op, maar verplicht de staat een geloofwaardig plan voor te leggen en stelt hem aan het einde bloot aan financiële sancties."
+    }
+  },
+  {
+    "id": "psmt",
+    "term": { "fr": "Plan budgétaire et structurel à moyen terme", "nl": "Budgettair-structureel plan op middellange termijn" },
+    "abbr": "PSMT",
+    "short": { "fr": "Le document pluriannuel que la Belgique doit transmettre à Bruxelles", "nl": "Het meerjarenplan dat België aan Brussel moet bezorgen" },
+    "definition": {
+      "fr": "Document pluriannuel introduit par la réforme de 2024 des règles budgétaires européennes. Il remplace l'ancien programme de stabilité et fixe, sur quatre à sept ans, une trajectoire de dépenses primaires nettes contraignante. C'est lui qui est attendu pour la mi-octobre 2026.",
+      "nl": "Meerjarendocument ingevoerd door de hervorming van de Europese begrotingsregels in 2024. Het vervangt het vroegere stabiliteitsprogramma en legt over vier tot zeven jaar een bindend traject voor de netto primaire uitgaven vast. Het wordt medio oktober 2026 verwacht."
+    }
+  },
+  {
+    "id": "monitoring",
+    "term": { "fr": "Comité de monitoring", "nl": "Monitoringcomité" },
+    "short": { "fr": "L'organe qui chiffre l'écart budgétaire à combler", "nl": "Het orgaan dat de te dichten begrotingskloof becijfert" },
+    "definition": {
+      "fr": "Groupe technique réunissant les administrations fédérales du Budget, des Finances et de la Sécurité sociale. Il évalue périodiquement l'exécution du budget et projette le solde à politique inchangée. Son rapport de juillet 2026 fixait le minimum de l'effort à 7,7 milliards d'euros d'ici 2029.",
+      "nl": "Technische groep met de federale administraties van Begroting, Financiën en Sociale Zekerheid. Ze evalueert periodiek de uitvoering van de begroting en raamt het saldo bij ongewijzigd beleid. Haar rapport van juli 2026 legde het minimum van de inspanning op 7,7 miljard euro tegen 2029."
+    }
+  },
+  {
+    "id": "csf-terme",
+    "term": { "fr": "Conseil supérieur des Finances", "nl": "Hoge Raad van Financiën" },
+    "abbr": "CSF",
+    "short": { "fr": "Organe consultatif qui propose la répartition de l'effort", "nl": "Adviesorgaan dat de verdeling van de inspanning voorstelt" },
+    "definition": {
+      "fr": "Organe consultatif dont la section « Besoins de financement des pouvoirs publics » recommande la répartition de la norme de dépenses entre l'État fédéral, la sécurité sociale, les Régions, les Communautés et les pouvoirs locaux. Ses recommandations n'ont aucune force contraignante.",
+      "nl": "Adviesorgaan waarvan de afdeling « Financieringsbehoeften van de overheid » de verdeling van de uitgavennorm aanbeveelt tussen de federale staat, de sociale zekerheid, de gewesten, de gemeenschappen en de lokale besturen. Zijn aanbevelingen zijn niet bindend."
+    }
+  },
+  {
+    "id": "entites",
+    "term": { "fr": "Entité I et Entité II", "nl": "Entiteit I en Entiteit II" },
+    "short": { "fr": "La division comptable entre le fédéral et les entités fédérées", "nl": "De boekhoudkundige scheiding tussen federaal en deelstaten" },
+    "definition": {
+      "fr": "Découpage comptable des finances publiques belges. L'Entité I regroupe le pouvoir fédéral et la sécurité sociale ; l'Entité II les Régions, les Communautés et les pouvoirs locaux. La répartition de l'effort européen entre les deux entités est un enjeu politique permanent, parce que le fédéral ne peut pas contraindre les entités fédérées.",
+      "nl": "Boekhoudkundige opdeling van de Belgische overheidsfinanciën. Entiteit I omvat de federale overheid en de sociale zekerheid; Entiteit II de gewesten, gemeenschappen en lokale besturen. De verdeling van de Europese inspanning tussen beide is een permanente politieke inzet, omdat het federale niveau de deelstaten niet kan dwingen."
+    }
+  },
+  {
+    "id": "solde",
+    "term": { "fr": "Solde de financement", "nl": "Vorderingensaldo" },
+    "short": { "fr": "Le déficit ou l'excédent public au sens européen", "nl": "Het overheidstekort of -overschot in Europese zin" },
+    "definition": {
+      "fr": "Différence entre les recettes et les dépenses de l'ensemble des administrations publiques, calculée selon les règles européennes de comptabilité nationale. C'est cet indicateur, et non le « budget de l'État », qui est comparé au seuil de −3 % du PIB.",
+      "nl": "Verschil tussen de ontvangsten en de uitgaven van alle overheden samen, berekend volgens de Europese regels van de nationale rekeningen. Deze indicator, en niet « de staatsbegroting », wordt vergeleken met de drempel van −3 % van het bbp."
+    }
+  },
+  {
+    "id": "charge-interets",
+    "term": { "fr": "Charge d'intérêts", "nl": "Rentelast" },
+    "short": { "fr": "Ce que l'État paie chaque année pour sa dette existante", "nl": "Wat de staat jaarlijks betaalt voor zijn bestaande schuld" },
+    "definition": {
+      "fr": "Montant des intérêts versés chaque année sur la dette en cours. Il ne dépend pas seulement du taux du moment, mais du rythme auquel les anciens emprunts à taux bas arrivent à échéance et doivent être remplacés. C'est pourquoi la charge continue d'augmenter même si les taux se stabilisent.",
+      "nl": "Bedrag aan rente dat jaarlijks op de uitstaande schuld wordt betaald. Het hangt niet alleen af van de rentevoet van het moment, maar ook van het tempo waarin oude leningen tegen lage rente vervallen en vervangen moeten worden. Daarom blijft de last stijgen, zelfs als de rente stabiliseert."
+    }
+  },
+  {
+    "id": "olo",
+    "term": { "fr": "OLO", "nl": "OLO" },
+    "short": { "fr": "L'obligation linéaire, principal instrument de dette belge", "nl": "De lineaire obligatie, het voornaamste Belgische schuldinstrument" },
+    "definition": {
+      "fr": "Obligation linéaire : le titre de dette à long terme émis par l'État fédéral belge, l'équivalent de l'OAT française ou du Bund allemand. Son taux sur le marché secondaire est le principal indicateur de ce que coûte la signature belge.",
+      "nl": "Lineaire obligatie: het langlopende schuldpapier van de Belgische federale staat, het equivalent van de Franse OAT of de Duitse Bund. De rente op de secundaire markt is de belangrijkste indicator van wat de Belgische handtekening kost."
+    }
+  },
+  {
+    "id": "spread",
+    "term": { "fr": "Spread", "nl": "Spread" },
+    "short": { "fr": "L'écart de taux avec l'Allemagne", "nl": "Het renteverschil met Duitsland" },
+    "definition": {
+      "fr": "Écart entre le taux auquel un État emprunte et celui d'une référence, en général l'Allemagne. Il mesure la prime de risque exigée par les marchés. Un élargissement du spread coûte immédiatement de l'argent sur toute nouvelle émission.",
+      "nl": "Verschil tussen de rente waartegen een staat leent en die van een referentie, meestal Duitsland. Het meet de risicopremie die de markten vragen. Een verbreding van de spread kost onmiddellijk geld bij elke nieuwe uitgifte."
+    }
+  },
+  {
+    "id": "notation",
+    "term": { "fr": "Notation souveraine", "nl": "Soevereine rating" },
+    "short": { "fr": "L'évaluation du risque de crédit d'un État", "nl": "De beoordeling van het kredietrisico van een staat" },
+    "definition": {
+      "fr": "Évaluation, par une agence privée, de la capacité d'un État à honorer sa dette. Les échelles diffèrent : Aa3 puis A1 chez Moody's, AA puis AA− chez S&P. Une dégradation ne rend pas la dette impayable ; elle renchérit son refinancement et peut exclure le papier de certains portefeuilles réglementés.",
+      "nl": "Beoordeling door een privéagentschap van het vermogen van een staat om zijn schuld na te komen. De schalen verschillen: Aa3 en dan A1 bij Moody's, AA en dan AA− bij S&P. Een verlaging maakt de schuld niet onbetaalbaar; ze maakt herfinanciering duurder en kan het papier uit bepaalde gereglementeerde portefeuilles sluiten."
+    }
+  },
+  {
+    "id": "cpas",
+    "term": { "fr": "CPAS", "nl": "OCMW" },
+    "short": { "fr": "Le dernier filet de sécurité sociale, géré par les communes", "nl": "Het laatste sociale vangnet, beheerd door de gemeenten" },
+    "definition": {
+      "fr": "Centre public d'action sociale. Institution communale chargée d'assurer à chacun une vie conforme à la dignité humaine. Elle accorde notamment le revenu d'intégration sociale. Son budget dépend d'une dotation communale, donc de la fiscalité locale.",
+      "nl": "Openbaar Centrum voor Maatschappelijk Welzijn. Gemeentelijke instelling die iedereen een menswaardig bestaan moet verzekeren, onder meer via het leefloon. Haar budget hangt af van een gemeentelijke dotatie, en dus van de lokale belastingen."
+    }
+  },
+  {
+    "id": "ris",
+    "term": { "fr": "Revenu d'intégration sociale", "nl": "Leefloon" },
+    "abbr": "RIS",
+    "short": { "fr": "L'aide financière de dernier recours, versée par le CPAS", "nl": "De financiële hulp in laatste instantie, uitbetaald door het OCMW" },
+    "definition": {
+      "fr": "Aide financière de dernier recours versée par le CPAS, soumise à une enquête sur les ressources et, depuis 2026, à la prise en compte obligatoire des revenus des cohabitants. Contrairement aux allocations de chômage, ce n'est pas un droit assurantiel : il n'y a pas de cotisation préalable.",
+      "nl": "Financiële hulp in laatste instantie, uitbetaald door het OCMW, onderworpen aan een middelenonderzoek en sinds 2026 aan de verplichte aanrekening van de inkomsten van samenwonenden. Anders dan de werkloosheidsuitkering is dit geen verzekeringsrecht: er gaan geen bijdragen aan vooraf."
+    }
+  },
+  {
+    "id": "article60",
+    "term": { "fr": "Article 60, § 7", "nl": "Artikel 60, § 7" },
+    "short": { "fr": "L'emploi d'insertion organisé par le CPAS", "nl": "De inschakelingsbaan via het OCMW" },
+    "definition": {
+      "fr": "Disposition de la loi organique des CPAS permettant au centre d'engager lui-même un bénéficiaire pour la durée nécessaire à l'ouverture d'un droit aux allocations de chômage. La limitation de ces allocations à vingt-quatre mois en réduit fortement l'intérêt : le droit rouvert est désormais borné.",
+      "nl": "Bepaling uit de organieke OCMW-wet die het centrum toelaat een begunstigde zelf in dienst te nemen voor de duur die nodig is om een recht op werkloosheidsuitkering te openen. De beperking van die uitkeringen tot vierentwintig maanden ondergraaft dat nut sterk: het heropende recht is voortaan begrensd."
+    }
+  },
+  {
+    "id": "onem-terme",
+    "term": { "fr": "ONEM", "nl": "RVA" },
+    "short": { "fr": "L'office qui gère l'assurance chômage", "nl": "De dienst die de werkloosheidsverzekering beheert" },
+    "definition": {
+      "fr": "Office national de l'emploi. Il applique la réglementation du chômage, notifie les fins de droit et exécute les régularisations imposées par les décisions de justice.",
+      "nl": "Rijksdienst voor Arbeidsvoorziening. Hij past de werkloosheidsreglementering toe, betekent het einde van het recht en voert de door rechterlijke beslissingen opgelegde regularisaties uit."
+    }
+  },
+  {
+    "id": "allocation-insertion",
+    "term": { "fr": "Allocation d'insertion", "nl": "Inschakelingsuitkering" },
+    "short": { "fr": "L'allocation ouverte sur la base des études, sans travail préalable", "nl": "De uitkering op basis van studies, zonder voorafgaand werk" },
+    "definition": {
+      "fr": "Allocation accordée sur la base des études, sans passé professionnel, après un stage d'insertion. Elle est distincte des allocations de chômage assurantielles et a été à la fois réduite et davantage limitée dans le temps par la réforme.",
+      "nl": "Uitkering toegekend op basis van studies, zonder beroepsverleden, na een beroepsinschakelingstijd. Ze verschilt van de op bijdragen gebaseerde werkloosheidsuitkering en werd door de hervorming zowel verlaagd als sterker in de tijd beperkt."
+    }
+  },
+  {
+    "id": "loi-programme",
+    "term": { "fr": "Loi-programme", "nl": "Programmawet" },
+    "short": { "fr": "Le véhicule législatif des mesures budgétaires", "nl": "Het wetgevende vehikel voor begrotingsmaatregelen" },
+    "definition": {
+      "fr": "Loi fourre-tout qui traduit en droit les décisions d'un conclave budgétaire, souvent votée en urgence et portant sur des matières sans lien entre elles. C'est la loi-programme du 18 juillet 2025 dont l'article 212 a été partiellement annulé le 10 septembre 2026.",
+      "nl": "Verzamelwet die de beslissingen van een begrotingsconclaaf in recht omzet, vaak bij hoogdringendheid gestemd en over onderling los staande materies. Het is de programmawet van 18 juli 2025 waarvan artikel 212 op 10 september 2026 gedeeltelijk werd vernietigd."
+    }
+  },
+  {
+    "id": "meerwaarde",
+    "term": { "fr": "Taxe sur les plus-values", "nl": "Meerwaardebelasting" },
+    "short": { "fr": "L'impôt de 10 % sur les plus-values d'actifs financiers", "nl": "De belasting van 10 % op meerwaarden op financiële activa" },
+    "definition": {
+      "fr": "Impôt de 10 % sur les plus-values réalisées par les personnes physiques sur des actifs financiers, entré en vigueur au 1er janvier 2026 avec une franchise annuelle de 10 000 euros et un barème progressif spécifique pour les participations supérieures à 20 % du capital.",
+      "nl": "Belasting van 10 % op meerwaarden die natuurlijke personen realiseren op financiële activa, in werking sinds 1 januari 2026, met een jaarlijkse vrijstelling van 10 000 euro en een specifiek progressief tarief voor deelnemingen van meer dan 20 % van het kapitaal."
+    }
+  },
+  {
+    "id": "step-up",
+    "term": { "fr": "Cliquet (step-up)", "nl": "Step-up" },
+    "short": { "fr": "La valeur de référence au 31 décembre 2025", "nl": "De referentiewaarde op 31 december 2025" },
+    "definition": {
+      "fr": "Mécanisme qui fixe, pour les actifs acquis avant 2026, la valeur de référence au 31 décembre 2025 plutôt qu'au prix d'achat. Il évite de taxer des gains accumulés avant l'entrée en vigueur de la loi — mais ne permet pas de déduire les moins-values historiques.",
+      "nl": "Mechanisme dat voor activa verworven vóór 2026 de referentiewaarde vastlegt op 31 december 2025 in plaats van op de aankoopprijs. Het vermijdt belasting op winsten van vóór de inwerkingtreding — maar laat niet toe historische minderwaarden af te trekken."
+    }
+  },
+  {
+    "id": "centenindex",
+    "term": { "fr": "Indexation en centimes", "nl": "Centenindexering" },
+    "short": { "fr": "L'indexation plafonnée au-delà d'un seuil de revenu", "nl": "De indexering begrensd boven een inkomensdrempel" },
+    "definition": {
+      "fr": "Mécanisme qui applique l'indexation en montant fixe plutôt qu'en pourcentage au-delà d'un seuil de revenu, ce qui gèle de fait l'indexation de la fraction supérieure. Il évite le mot « saut d'index » tout en produisant un effet comparable sur les revenus élevés.",
+      "nl": "Mechanisme dat de indexering boven een inkomensdrempel toepast als vast bedrag in plaats van als percentage, waardoor het gedeelte erboven feitelijk bevroren wordt. Het vermijdt het woord « indexsprong » en heeft toch een vergelijkbaar effect op hoge inkomens."
+    }
+  },
+  {
+    "id": "malus",
+    "term": { "fr": "Malus pension", "nl": "Pensioenmalus" },
+    "short": { "fr": "La réduction de pension en cas de départ anticipé", "nl": "De pensioenvermindering bij vervroegd vertrek" },
+    "definition": {
+      "fr": "Réduction appliquée au montant de la pension pour chaque année de départ avant l'âge légal, assortie d'un bonus symétrique pour les carrières prolongées. Annoncé pour 2026, il a été reporté au 1er janvier 2027 pour des raisons d'exécution administrative.",
+      "nl": "Vermindering van het pensioenbedrag voor elk jaar vertrek vóór de wettelijke leeftijd, met een symmetrische bonus voor verlengde loopbanen. Aangekondigd voor 2026, maar om administratieve uitvoeringsredenen uitgesteld tot 1 januari 2027."
+    }
+  },
+  {
+    "id": "norme-croissance",
+    "term": { "fr": "Norme de croissance (soins de santé)", "nl": "Groeinorm (gezondheidszorg)" },
+    "short": { "fr": "Le plafond annuel de progression du budget des soins", "nl": "Het jaarlijkse plafond voor de groei van de zorgbegroting" },
+    "definition": {
+      "fr": "Pourcentage maximal d'augmentation annuelle du budget de l'assurance soins de santé, hors indexation. Quand l'indexation des prestataires dépasse la norme, l'écart doit être compensé par des économies internes : c'est l'origine des 638 millions programmés entre 2027 et 2029.",
+      "nl": "Maximaal jaarlijks stijgingspercentage van de begroting van de ziekteverzekering, buiten indexering. Wanneer de indexering van de zorgverstrekkers de norm overschrijdt, moet het verschil intern bespaard worden: daar komen de 638 miljoen tussen 2027 en 2029 vandaan."
+    }
+  },
+  {
+    "id": "douziemes",
+    "term": { "fr": "Douzièmes provisoires", "nl": "Voorlopige twaalfden" },
+    "short": { "fr": "Le régime de secours quand le budget n'est pas voté", "nl": "De noodregeling wanneer de begroting niet gestemd is" },
+    "definition": {
+      "fr": "Régime permettant à l'État de continuer à dépenser en l'absence de budget voté, en libérant chaque mois un douzième des crédits de l'année précédente. Il rend la paralysie budgétaire indolore à court terme — et donc politiquement tolérable plus longtemps qu'ailleurs.",
+      "nl": "Regeling die de staat toelaat te blijven uitgeven zonder gestemde begroting, door maandelijks een twaalfde van de kredieten van het vorige jaar vrij te geven. Ze maakt begrotingsverlamming op korte termijn pijnloos — en dus politiek langer houdbaar dan elders."
+    }
+  },
+  {
+    "id": "codeco",
+    "term": { "fr": "Comité de concertation", "nl": "Overlegcomité" },
+    "abbr": "Codeco",
+    "short": { "fr": "L'organe de coordination entre le fédéral et les entités fédérées", "nl": "Het coördinatieorgaan tussen federaal en deelstaten" },
+    "definition": {
+      "fr": "Organe où se règlent les conflits de compétence et se coordonnent les politiques entre l'État fédéral et les entités fédérées. Sa composition détermine qui pèse dans les arbitrages intergouvernementaux — d'où les débats sur sa réforme.",
+      "nl": "Orgaan waar bevoegdheidsconflicten worden beslecht en beleid wordt afgestemd tussen de federale staat en de deelstaten. Zijn samenstelling bepaalt wie weegt in intergouvernementele arbitrages — vandaar de discussies over de hervorming ervan."
+    }
+  },
+  {
+    "id": "confederalisme",
+    "term": { "fr": "Confédéralisme", "nl": "Confederalisme" },
+    "short": { "fr": "Un modèle où les entités fédérées détiennent la compétence de principe", "nl": "Een model waarin de deelstaten de principiële bevoegdheid hebben" },
+    "definition": {
+      "fr": "Modèle institutionnel dans lequel les entités fédérées détiennent la compétence de principe et délèguent au niveau central ce qu'elles choisissent de gérer ensemble — l'inverse du fédéralisme belge actuel. Le terme n'a pas de définition juridique unique : chaque parti qui l'emploie en propose une version différente.",
+      "nl": "Institutioneel model waarin de deelstaten de principiële bevoegdheid bezitten en aan het centrale niveau delegeren wat zij samen willen beheren — het omgekeerde van het huidige Belgische federalisme. De term heeft geen eenduidige juridische definitie: elke partij die hem gebruikt, vult hem anders in."
+    }
+  },
+  {
+    "id": "front-commun",
+    "term": { "fr": "Front commun syndical", "nl": "Gemeenschappelijk vakbondsfront" },
+    "short": { "fr": "L'action conjointe des trois syndicats interprofessionnels", "nl": "Het gezamenlijke optreden van de drie interprofessionele vakbonden" },
+    "definition": {
+      "fr": "Coordination d'action entre la FGTB, la CSC et SYNOVA, les trois syndicats interprofessionnels reconnus. Le front commun n'est pas une organisation : chaque syndicat garde sa décision propre sur les modalités, ce qui explique les écarts de ton sur la grève générale.",
+      "nl": "Actiecoördinatie tussen ABVV, ACV en SYNOVA, de drie erkende interprofessionele vakbonden. Het front is geen organisatie: elke vakbond beslist zelf over de actiemiddelen, wat de toonverschillen over de algemene staking verklaart."
+    }
+  },
+  {
+    "id": "voitures-societe",
+    "term": { "fr": "Voiture de société", "nl": "Bedrijfswagen" },
+    "short": { "fr": "Rémunération en nature au régime fiscal avantageux", "nl": "Verloning in natura met gunstig fiscaal regime" },
+    "definition": {
+      "fr": "Véhicule mis à disposition par l'employeur et utilisable à titre privé, taxé bien plus légèrement qu'un salaire équivalent. Environ 1,2 million de véhicules sont concernés, dont près de deux tiers en Flandre, pour environ 15 % des salariés.",
+      "nl": "Voertuig dat de werkgever ter beschikking stelt en dat ook privé gebruikt mag worden, veel lichter belast dan een gelijkwaardig loon. Het gaat om ongeveer 1,2 miljoen voertuigen, bijna twee derde daarvan in Vlaanderen, voor zowat 15 % van de werknemers."
+    }
+  }
+]
