@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ouaisfieu.github.io/actus-210926/sitemap.xml

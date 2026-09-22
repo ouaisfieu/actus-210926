@@ -1,0 +1,352 @@
+<!doctype html>
+<html lang="fr-BE">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Méthode, corrections et limites — 21.09.26</title>
+<meta name="description" content="Comment ce site a été fabriqué, ce qu’il a corrigé dans ses documents de départ, et ce qu’il ne prétend pas savoir.">
+<link rel="canonical" href="https://ouaisfieu.github.io/actus-210926/methode.html">
+<link rel="alternate" hreflang="fr-BE" href="https://ouaisfieu.github.io/actus-210926/methode.html"><link rel="alternate" hreflang="nl-BE" href="https://ouaisfieu.github.io/actus-210926/nl/methode.html"><link rel="alternate" hreflang="x-default" href="https://ouaisfieu.github.io/actus-210926/methode.html">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Méthode, corrections et limites — 21.09.26">
+<meta property="og:description" content="Comment ce site a été fabriqué, ce qu’il a corrigé dans ses documents de départ, et ce qu’il ne prétend pas savoir.">
+<meta property="og:url" content="https://ouaisfieu.github.io/actus-210926/methode.html">
+<meta property="og:site_name" content="21.09.26">
+<meta property="og:locale" content="fr_BE">
+<meta property="og:image" content="https://ouaisfieu.github.io/actus-210926/og/fr-defaut.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="manifest" href="assets/manifest.webmanifest">
+<link rel="alternate" type="application/atom+xml" title="21.09.26" href="feed.xml">
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://ouaisfieu.github.io/actus-210926/#site",
+   "url": "https://ouaisfieu.github.io/actus-210926/",
+   "name": "21.09.26",
+   "alternateName": "21.09.26 — la Belgique le jour où s'ouvre le conclave",
+   "description": "Un instantané daté et sourcé de la Belgique politique au 21 septembre 2026 : le conclave budgétaire fédéral, les dix milliards, les acteurs, les chiffres et ce qu'on ne sait pas encore.",
+   "inLanguage": [
+    "fr-BE",
+    "nl-BE"
+   ],
+   "publisher": {
+    "@id": "https://ouaisfieu.github.io/actus-210926/#editeur"
+   },
+   "license": "https://creativecommons.org/licenses/by/4.0/",
+   "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+     "@type": "EntryPoint",
+     "urlTemplate": "https://ouaisfieu.github.io/actus-210926/recherche.html?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+   }
+  },
+  {
+   "@type": "Person",
+   "@id": "https://ouaisfieu.github.io/actus-210926/#auteur",
+   "name": "Claude (Anthropic)",
+   "description": "Modèle de langage d'Anthropic, auteur des textes, de la vérification et de la mise en forme de ce site, sous supervision éditoriale humaine.",
+   "affiliation": {
+    "@type": "Organization",
+    "name": "Anthropic",
+    "url": "https://www.anthropic.com/"
+   }
+  },
+  {
+   "@type": "Organization",
+   "@id": "https://ouaisfieu.github.io/actus-210926/#editeur",
+   "name": "21.09.26",
+   "url": "https://ouaisfieu.github.io/actus-210926/"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://ouaisfieu.github.io/actus-210926/methode.html#page",
+   "url": "https://ouaisfieu.github.io/actus-210926/methode.html",
+   "name": "Méthode, corrections et limites",
+   "description": "Comment ce site a été fabriqué, ce qu'il a corrigé dans ses documents de départ, et ce qu'il ne prétend pas savoir.",
+   "inLanguage": "fr-BE",
+   "isPartOf": {
+    "@id": "https://ouaisfieu.github.io/actus-210926/#site"
+   },
+   "author": {
+    "@id": "https://ouaisfieu.github.io/actus-210926/#auteur"
+   },
+   "dateModified": "2026-09-21"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#wiki-elections-2024",
+   "name": "2024 Belgian federal election",
+   "url": "https://en.wikipedia.org/wiki/2024_Belgian_federal_election",
+   "publisher": {
+    "@type": "Organization",
+    "name": "Wikipedia"
+   }
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#wiki-gouv-dewever",
+   "name": "Gouvernement De Wever",
+   "url": "https://fr.wikipedia.org/wiki/Gouvernement_De_Wever",
+   "publisher": {
+    "@type": "Organization",
+    "name": "Wikipédia"
+   }
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#uvcw-suspension",
+   "name": "Réforme chômage — arrêt de la Cour constitutionnelle du 15 janvier 2026",
+   "url": "https://www.uvcw.be/aide-sociale/actus/art-9926",
+   "publisher": {
+    "@type": "Organization",
+    "name": "Union des Villes et Communes de Wallonie"
+   },
+   "datePublished": "2026-01-19"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#cc-96-2026",
+   "name": "Arrêt n° 96/2026 du 10 septembre 2026 (ECLI:BE:GHCC:2026:ARR.096)",
+   "url": "https://fr.const-court.be/a/96/2026",
+   "publisher": {
+    "@type": "Organization",
+    "name": "Cour constitutionnelle de Belgique"
+   },
+   "datePublished": "2026-09-10"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#lavenir-cpas50-1009",
+   "name": "Les CPAS ont 50 ans : du Minimex de 1976 aux exclusions massives de 2026",
+   "url": "https://www.lavenir.net/actu/belgique/politique/2026/09/10/les-cpas-ont-50-ans-du-minimex-de-1976-aux-exclusions-de-2026-SETJU7XDQZEMDIADUQYY56WQEM/",
+   "publisher": {
+    "@type": "Organization",
+    "name": "L'Avenir"
+   },
+   "datePublished": "2026-09-10"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#moustique-cpas-1203",
+   "name": "Chômage : seul un tiers des exclus devait s'adresser au CPAS, selon les calculs de l'Arizona",
+   "url": "https://www.moustique.be/notre-epoque/nos-explications/2026/03/12/exclusions-du-chomage-les-cpas-voient-ils-affluer-les-demandes-de-revenu-dintegration-B63TSFM4HJG4LBPMIWFKOC7C7A/",
+   "publisher": {
+    "@type": "Organization",
+    "name": "Moustique"
+   },
+   "datePublished": "2026-03-12"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#dh-kuleuven-1404",
+   "name": "Réforme du chômage : l'afflux vers les CPAS serait moins massif que prévu, selon une étude de la KU Leuven",
+   "url": "https://www.dhnet.be/dernieres-depeches/2026/04/14/reforme-du-chomage-lafflux-vers-les-cpas-serait-moins-massif-que-prevu-selon-une-etude-de-la-ku-leuven-EQ4MBU5NCZCVHJETS2J3CORA4I/",
+   "publisher": {
+    "@type": "Organization",
+    "name": "La DH / Les Sports+"
+   },
+   "datePublished": "2026-04-14"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#ll-10md-1007",
+   "name": "L'Arizona s'engage à réaliser 10 milliards d'euros d'effort budgétaire pour 2029",
+   "url": "https://www.lalibre.be/belgique/politique-belge/2026/07/10/larizona-sengage-a-realiser-10-milliards-deuros-deffort-budgetaire-pour-2029-G6Y4IT4PDVHCDKARKEUC4233W4/",
+   "publisher": {
+    "@type": "Organization",
+    "name": "La Libre Belgique"
+   },
+   "datePublished": "2026-07-10"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#rtbf-10md-1007",
+   "name": "Le gouvernement fédéral s'accorde sur un effort de 10 milliards d'euros d'ici 2029 et tiendra un conclave budgétaire fin septembre",
+   "url": "https://www.rtbf.be/article/le-gouvernement-federal-s-accorde-sur-un-effort-de-10-milliards-d-euros-d-ici-2029-et-tiendra-un-conclave-budgetaire-fin-septembre-11756074",
+   "publisher": {
+    "@type": "Organization",
+    "name": "RTBF"
+   },
+   "datePublished": "2026-07-10"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#rtbf-bxl-casting",
+   "name": "Casting du nouveau gouvernement bruxellois : qui sont les ministres et secrétaires d'État ?",
+   "url": "https://www.rtbf.be/article/casting-du-nouveau-gouvernement-bruxellois-qui-sont-les-ministres-et-secretaires-d-etat-11679616",
+   "publisher": {
+    "@type": "Organization",
+    "name": "RTBF"
+   },
+   "datePublished": "2026-02-14"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#ll-bxl-derapage-2306",
+   "name": "Budget bruxellois : un dérapage annoncé de 300 millions d'euros hypothèque l'ambition d'un retour à l'équilibre",
+   "url": "https://www.lalibre.be/belgique/societe/2026/06/23/budget-bruxellois-un-derapage-annonce-de-300-millions-deuros-hypotheque-lambition-dun-retour-a-lequilibre-UL25QO4RRBDKTFX5POH7GBL7VE/",
+   "publisher": {
+    "@type": "Organization",
+    "name": "La Libre Belgique"
+   },
+   "datePublished": "2026-06-23"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#ll-sante-1507",
+   "name": "Le plan de Frank Vandenbroucke pour économiser 638 millions dans les soins de santé",
+   "url": "https://www.lalibre.be/belgique/politique-belge/2026/07/15/le-plan-de-frank-vandenbroucke-pour-economiser-638-millions-dans-les-soins-de-sante-G73DXDLCCVGVTFJO4YYXU4ABEY/",
+   "publisher": {
+    "@type": "Organization",
+    "name": "La Libre Belgique"
+   },
+   "datePublished": "2026-07-15"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#rtbf-voitures-1709",
+   "name": "Budget fédéral : faut-il supprimer les voitures de société pour faire des économies ?",
+   "url": "https://www.rtbf.be/article/budget-federal-faut-il-supprimer-les-voitures-de-societe-pour-faire-des-economies-11786701",
+   "publisher": {
+    "@type": "Organization",
+    "name": "RTBF"
+   },
+   "datePublished": "2026-09-17"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#rtbf-malus-2511",
+   "name": "C'est confirmé, le malus pension n'entrera en vigueur qu'en 2027",
+   "url": "https://www.rtbf.be/article/reforme-des-pensions-le-malus-pension-n-entrera-en-vigueur-qu-en-2027-11637507",
+   "publisher": {
+    "@type": "Organization",
+    "name": "RTBF"
+   },
+   "datePublished": "2025-11-25"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#ll-synova-3005",
+   "name": "La CGSLB change de nom : le syndicat libéral devient SYNOVA",
+   "url": "https://www.lalibre.be/belgique/politique-belge/2026/05/30/la-cgslb-change-de-nom-le-syndicat-liberal-devient-synova-MUZWNEVL4FH7DBJFIF2XF2UOOA/",
+   "publisher": {
+    "@type": "Organization",
+    "name": "La Libre Belgique"
+   },
+   "datePublished": "2026-05-30"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#cessoc-2409",
+   "name": "Journée d'action syndicale le 24 septembre 2026",
+   "url": "https://cessoc.be/content/article/25356",
+   "publisher": {
+    "@type": "Organization",
+    "name": "CESSoC"
+   },
+   "datePublished": "2026-08-28"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#lavenir-charges-0107",
+   "name": "Budget fédéral : les charges d'intérêt de la dette ont dépassé les 10 milliards d'euros",
+   "url": "https://www.lavenir.net/actu/belgique/politique/2026/07/01/budget-federal-les-charges-dinteret-de-la-dette-ont-depasse-les-10-milliards-deuros-NAEUKMMZIRFNFPOUM2ONR6TUXE/",
+   "publisher": {
+    "@type": "Organization",
+    "name": "L'Avenir"
+   },
+   "datePublished": "2026-07-01"
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#bnb-t3",
+   "name": "La croissance économique belge devrait rebondir à 0,3 % au troisième trimestre de 2026",
+   "url": "https://www.nbb.be/fr/actualites-et-evenements/actualites/la-croissance-economique-belge-devrait-rebondir-03-au-troisieme",
+   "publisher": {
+    "@type": "Organization",
+    "name": "Banque nationale de Belgique"
+   }
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#spf-plusvalues",
+   "name": "Taxe sur les plus-values",
+   "url": "https://fin.belgium.be/fr/particuliers/declaration-impot/revenus/taxe-plus-values",
+   "publisher": {
+    "@type": "Organization",
+    "name": "SPF Finances"
+   }
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://ouaisfieu.github.io/actus-210926/sources.html#grantthornton-plusvalues",
+   "name": "La nouvelle taxe belge sur les plus-values",
+   "url": "https://www.grantthornton.be/fr/the-field/articles/Direct-tax/la-nouvelle-taxe-belge-sur-les-plus-values/",
+   "publisher": {
+    "@type": "Organization",
+    "name": "Grant Thornton Belgium"
+   }
+  }
+ ]
+}
+</script>
+</head>
+<body>
+<a class="saut" href="#contenu">Aller au contenu</a>
+<div class="bandeau"><div class="bandeau-i">
+  <span>Belgique · budget et institutions · arrêté au 21 septembre 2026</span>
+  <span class="bandeau-outils"><a class="bascule-langue" hreflang="nl-BE" lang="nl" href="nl/methode.html">Nederlands</a>
+  <button class="bascule-theme" data-theme-toggle type="button" aria-pressed="false">
+  <span data-theme-label>Mode sombre</span></button></span>
+</div></div>
+<header class="entete"><div class="entete-i">
+  <p class="marque"><a href="./">
+  <span class="marque-n">21</span><span class="marque-p">.09.</span><span class="marque-n">26</span></a></p>
+  <p class="accroche">L’état du pays à la date du 21 septembre 2026</p>
+  <nav class="principale" aria-label="Navigation principale">
+    <ul><li><a href="./">Accueil</a></li><li><a href="dossiers/">Dossiers</a></li><li><a href="acteurs/">Acteurs</a></li><li><a href="chronologie.html">Chronologie</a></li><li><a href="indicateurs.html">Indicateurs</a></li><li><a href="glossaire.html">Glossaire</a></li><li><a href="sources.html">Sources</a></li><li><a href="methode.html" aria-current="page">Méthode</a></li><li><a href="a-propos.html">À propos</a></li></ul>
+  </nav>
+  <form class="rech-rapide" role="search" action="recherche.html" method="get">
+    <label for="q-fr">Rechercher</label>
+    <input id="q-fr" name="q" type="search" autocomplete="off"
+      placeholder="conclave, CPAS, notation…">
+    <button type="submit">Chercher</button>
+  </form>
+</div></header>
+<main id="contenu">
+<h1>Méthode, corrections et limites</h1><p class="chapo">Un site écrit par un modèle de langage doit être plus explicite qu’un autre sur sa méthode, parce que le lecteur a de bonnes raisons de s’en méfier. Voici la procédure, sans enjolivement, et la liste des erreurs trouvées dans le matériau de départ.</p><div class="corps"><h2 id="d-ou-vient-le-materiau">D’où vient le matériau</h2><p>Le point de départ est un ensemble de notes de recherche produites par des modèles d’intelligence artificielle et rassemblées par l’éditeur du site : cinq documents longs sur la situation politique belge de 2026, plus les notes de fabrication de deux sites antérieurs du même éditeur.</p><p>Ces documents sont denses, bien organisés, et <strong>partiellement faux</strong>. C’est le comportement attendu : un modèle de langage produit un texte plausible, pas un texte vérifié. Les erreurs qu’on y trouve ne sont pas grossières — ce sont des dates décalées, des montants d’une version antérieure, des fonctions attribuées à la mauvaise personne, des décisions de justice fusionnées en une seule.</p><p>Ils ont donc été traités ici comme ce qu’ils sont : des <strong>pistes</strong>, pas des sources. Aucun de ces documents n’est cité dans la bibliographie, et aucune affirmation du site ne repose sur eux seuls.</p><h2 id="la-procedure-de-verification">La procédure de vérification</h2><ol><li>Lecture intégrale des documents de départ, extraction de chaque affirmation datée ou chiffrée.</li><li>Recherche indépendante pour chacune, en privilégiant dans cet ordre : la source primaire (arrêt, texte légal, communication de l’administration compétente), l’institution publique, la presse belge établie, la partie prenante identifiée comme telle.</li><li>Conservation d’une affirmation uniquement si elle a été retrouvée dans une source accessible et datable. En cas d’échec, deux options : abandon, ou publication accompagnée d’un encadré d’incertitude qui dit ce qui manque.</li><li>Consignation publique de chaque écart entre le document de départ et le résultat de la vérification — c’est le tableau ci-dessous.</li></ol><p>Chaque chiffre publié porte un appel de note. Chaque note renvoie à une source avec son éditeur, sa date de publication quand elle existe, et sa date de consultation. La bibliographie indique en outre, pour chaque source, combien de fois elle est citée dans le site.</p><h2 id="ce-que-le-site-refuse-de-faire">Ce que le site refuse de faire</h2><ul><li><strong>Publier un chiffre non retrouvé.</strong> Plusieurs montants présents dans les documents de départ ont été écartés faute de source. Le rendement réel de la taxe sur les plus-values en est l’exemple principal : il circule beaucoup, il n’existe pas.</li><li><strong>Attribuer une probabilité à un scénario politique.</strong> Aucun modèle publié ne permet de calculer qu’une chute de gouvernement serait probable à 35 %. Les trajectoires sont décrites par leurs conditions observables.</li><li><strong>Présenter une analyse comme un fait.</strong> Les encadrés rouges signalent une lecture assumée de l’auteur ; les encadrés bleus signalent un fait établi et sourcé. La distinction est maintenue page par page.</li><li><strong>Lisser une contradiction entre sources.</strong> Quand deux sources fiables divergent, les deux sont publiées avec un encadré qui le dit. C’est le cas du taux de report vers les CPAS et de l’ordre de tête des sondages flamands.</li></ul><h2 id="les-corrections">Les corrections</h2><p>Les écarts ci-dessous ont été trouvés entre les documents de départ et ce que la vérification a établi. Ils sont publiés parce qu’un lecteur qui aurait lu les mêmes documents doit pouvoir savoir où ils se trompent.</p><h2 id="ce-que-ce-site-ne-traite-pas">Ce que ce site ne traite pas</h2><p>Le périmètre est le conclave budgétaire fédéral de l’automne 2026 et ses effets directs. Sont volontairement absents : la politique migratoire, la justice et la politique pénale, la défense au-delà de son volet budgétaire, la politique énergétique au-delà du rachat du parc nucléaire, la mobilité, l’environnement, la politique étrangère, la politique communale hors CPAS.</p><p>Le dossier flamand est le plus mince du site. La raison est explicite : la documentation néerlandophone n’a été consultée que partiellement. Un lecteur qui cherche un suivi complet de la législature flamande ne le trouvera pas ici.</p><h2 id="ce-qui-perimera-et-quand">Ce qui périmera, et quand</h2><p>Ce site est daté du 21 septembre 2026 et il le revendique. Trois échéances le rendront partiellement faux :</p><ul><li><strong>13 octobre 2026</strong> — déclaration de politique générale et dépôt du budget. Les dossiers 01, 02, 03 et 13 devront être révisés ; le dossier 01 sera largement obsolète.</li><li><strong>Modalités de régularisation de l’ONEM</strong> — elles chiffreront l’effet réel de l’arrêt du 10 septembre sur le budget 2027. Dossiers 04 et 05.</li><li><strong>Semaine du 23 novembre 2026</strong> — décision syndicale. Dossier 12.</li></ul><h2 id="la-fabrication">La fabrication</h2><p>Le site est produit par un générateur écrit en Python, sans dépendance extérieure, à partir de fichiers de contenu et de données. Le code et les données sont dans le dépôt ; le résultat est du HTML statique. Aucune police distante, aucun script tiers, aucune requête sortante : une page de ce site ne communique avec personne.</p><p>Les jeux de données des graphiques sont publiés en CSV et en JSON, sous licence CC0. Chacun porte la liste de ses sources. Un lecteur qui conteste un graphique peut le refaire.</p><h2 id="la-signature">La signature</h2><p>Les textes sont écrits par Claude, modèle de langage d’Anthropic, sous supervision éditoriale humaine. Cette mention figure sur chaque page, dans le pied de page et dans les données structurées de chaque article.</p><p>Elle n’est pas une décharge de responsabilité. Un texte vérifié est un texte vérifié, quel que soit ce qui l’a écrit ; un texte non vérifié reste faux, quel que soit ce qui l’a écrit. La méthode décrite ci-dessus est ce qui distingue les deux, et elle est publiée pour pouvoir être contestée.</p></div><div class="table-wrap"><table class="corrections"><caption>Écarts entre les notes de départ et ce que la vérification a établi</caption><thead><tr><th scope="col">Point</th><th scope="col">Documents de départ</th><th scope="col">Après vérification</th></tr></thead><tbody><tr><th scope="row">Sièges de la majorité à la Chambre</th><td>81 sur 150</td><td><strong>82 sur 150</strong>. Le chiffre de 81 est celui des voix recueillies au vote de confiance du 3 février 2025 (81 pour, 66 contre, 3 abstentions), pas celui des sièges<sup class="fn"><a href="#note-1" id="renvoi-1" aria-describedby="notes-titre">1</a></sup><sup class="fn"><a href="#note-2" id="renvoi-2" aria-describedby="notes-titre">2</a></sup>.</td></tr><tr><th scope="row">L’arrêt de la Cour constitutionnelle sur le chômage</th><td>Une seule décision, datée tantôt du 15 janvier 2026, tantôt du 10 septembre 2026</td><td><strong>Deux décisions distinctes.</strong> Le 15 janvier 2026, la Cour rejette la demande de suspension introduite le 29 octobre 2025<sup class="fn"><a href="#note-3" id="renvoi-3" aria-describedby="notes-titre">3</a></sup>. Le 10 septembre 2026, l’arrêt n° 96/2026 statue au fond : annulation des points 4 à 6 de l’article 212, alinéa 2, de la loi-programme du 18 juillet 2025, rejet pour le surplus<sup class="fn"><a href="#note-4" id="renvoi-4" aria-describedby="notes-titre">4</a></sup>.</td></tr><tr><th scope="row">Nombre d’exclusions du chômage en 2026</th><td>« Près de 43 000 » au 1er juillet 2026</td><td><strong>99 144 personnes</strong> sur le seul premier semestre 2026, dont 49,2 % en Wallonie<sup class="fn"><a href="#note-5" id="renvoi-5" aria-describedby="notes-titre">5</a></sup>.</td></tr><tr><th scope="row">Part des exclus qui se tournent vers le CPAS</th><td>Non chiffrée</td><td>Aucun chiffre unique n’existe. Le gouvernement avait calibré ses compensations sur un tiers<sup class="fn"><a href="#note-6" id="renvoi-6" aria-describedby="notes-titre">6</a></sup> ; l’observation du premier semestre donne 44 % en moyenne belge et 48,7 % en Wallonie<sup class="fn"><a href="#note-5" aria-describedby="notes-titre">5</a></sup> ; la KU Leuven projette 27 à 42 % sur l’année<sup class="fn"><a href="#note-7" id="renvoi-7" aria-describedby="notes-titre">7</a></sup>. Le site publie les six estimations plutôt qu’une seule.</td></tr><tr><th scope="row">Montant de l’effort budgétaire fédéral</th><td>« Entre 7 et 11 milliards » selon les passages</td><td><strong>7,7 milliards</strong> d’ici 2029 selon le minimum du Comité de monitoring, <strong>10 milliards</strong> décidés par le gouvernement le 10 juillet 2026, soit la norme de 2031 atteinte deux ans plus tôt<sup class="fn"><a href="#note-8" id="renvoi-8" aria-describedby="notes-titre">8</a></sup><sup class="fn"><a href="#note-9" id="renvoi-9" aria-describedby="notes-titre">9</a></sup>.</td></tr><tr><th scope="row">Ministre bruxellois du Budget</th><td>Karine Lalieux (PS)</td><td><strong>Dirk De Smedt (Anders)</strong>. Karine Lalieux est secrétaire d’État, chargée notamment du logement, de la santé et des crèches<sup class="fn"><a href="#note-10" id="renvoi-10" aria-describedby="notes-titre">10</a></sup>.</td></tr><tr><th scope="row">Déficit bruxellois 2026</th><td>957 millions d’euros</td><td>957 millions au budget initial voté en mars, <strong>révisé à 1,254 milliard</strong> par le comité de monitoring dès juin 2026<sup class="fn"><a href="#note-11" id="renvoi-11" aria-describedby="notes-titre">11</a></sup>.</td></tr><tr><th scope="row">Norme de croissance des soins de santé</th><td>1 % par an</td><td><strong>2 % pour 2027</strong>, soit 844 millions d’euros, face à une indexation des prestataires de 2,9 % (1,142 milliard). C’est l’écart entre les deux qui impose les économies<sup class="fn"><a href="#note-12" id="renvoi-12" aria-describedby="notes-titre">12</a></sup>.</td></tr><tr><th scope="row">Régime des voitures de société</th><td>2,8 milliards de manque à gagner ; Sammy Mahdi exclut toute réforme le 8 septembre</td><td>Les estimations publiées vont de <strong>2 à 5 milliards</strong>, pour environ 1,2 million de véhicules et 15 % des salariés. L’épisode de septembre 2026 est un arbitrage interne au CD&amp;V : le ministre du Budget rouvre le dossier, la présidence du parti le referme<sup class="fn"><a href="#note-13" id="renvoi-13" aria-describedby="notes-titre">13</a></sup>.</td></tr><tr><th scope="row">Malus pension</th><td>En vigueur dès 2026</td><td><strong>Reporté au 1er janvier 2027</strong>, pour des raisons d’exécution administrative, décision confirmée le 25 novembre 2025<sup class="fn"><a href="#note-14" id="renvoi-14" aria-describedby="notes-titre">14</a></sup>.</td></tr><tr><th scope="row">Le troisième syndicat interprofessionnel</th><td>CGSLB</td><td><strong>SYNOVA</strong> depuis le 30 mai 2026. Les documents antérieurs à juin 2026 utilisent l’ancien nom ; il s’agit de la même organisation<sup class="fn"><a href="#note-15" id="renvoi-15" aria-describedby="notes-titre">15</a></sup>.</td></tr><tr><th scope="row">Objet de la journée d’action du 24 septembre</th><td>Journée contre l’austérité budgétaire fédérale</td><td>L’appel des trois syndicats vise d’abord le <strong>« 28e régime »</strong> proposé par la Commission européenne. Le lien avec le conclave existe dans le climat, pas dans le mot d’ordre<sup class="fn"><a href="#note-16" id="renvoi-16" aria-describedby="notes-titre">16</a></sup>.</td></tr><tr><th scope="row">Dette publique 2025</th><td>107,4 % dans un document, 107,9 % dans un autre</td><td><strong>107,9 %</strong>, chiffre du rapport annuel de l’Agence fédérale de la Dette présenté le 1er juillet 2026<sup class="fn"><a href="#note-17" id="renvoi-17" aria-describedby="notes-titre">17</a></sup>.</td></tr><tr><th scope="row">Croissance du PIB en 2026</th><td>1,1 %</td><td>Le chiffre de 1,1 % vient de projections antérieures. Les publications conjoncturelles de la Banque nationale situent l’année nettement plus bas : elle n’attend qu’un rebond de <strong>0,3 % au troisième trimestre</strong> après une quasi-stagnation<sup class="fn"><a href="#note-18" id="renvoi-18" aria-describedby="notes-titre">18</a></sup>. Le site s’abstient de publier un taux annuel qu’il n’a pas pu vérifier directement.</td></tr><tr><th scope="row">Taxe sur les plus-values : chronologie</th><td>Loi votée puis entrée en vigueur</td><td>L’inverse. La taxe s’applique depuis le <strong>1er janvier 2026</strong> ; la loi n’a été votée et publiée qu’en avril, d’où le régime transitoire d’opt-in et d’opt-out improvisé jusqu’à la fin de l’été<sup class="fn"><a href="#note-19" id="renvoi-19" aria-describedby="notes-titre">19</a></sup><sup class="fn"><a href="#note-20" id="renvoi-20" aria-describedby="notes-titre">20</a></sup>.</td></tr></tbody></table></div><section class="notes" aria-labelledby="notes-titre"><h2 id="notes-titre">Notes et sources</h2><ol class="liste-notes"><li id="note-1"><a href="https://en.wikipedia.org/wiki/2024_Belgian_federal_election" rel="nofollow noopener" target="_blank">2024 Belgian federal election</a> — Wikipedia · recherche <a class="retour" href="#renvoi-1" aria-label="Retour au texte">↩</a></li><li id="note-2"><a href="https://fr.wikipedia.org/wiki/Gouvernement_De_Wever" rel="nofollow noopener" target="_blank">Gouvernement De Wever</a> — Wikipédia · recherche <a class="retour" href="#renvoi-2" aria-label="Retour au texte">↩</a></li><li id="note-3"><a href="https://www.uvcw.be/aide-sociale/actus/art-9926" rel="nofollow noopener" target="_blank">Réforme chômage — arrêt de la Cour constitutionnelle du 15 janvier 2026</a> — Union des Villes et Communes de Wallonie · <time datetime="2026-01-19">19 janvier 2026</time> · partie prenante <a class="retour" href="#renvoi-3" aria-label="Retour au texte">↩</a></li><li id="note-4"><a href="https://fr.const-court.be/a/96/2026" rel="nofollow noopener" target="_blank">Arrêt n° 96/2026 du 10 septembre 2026 (ECLI:BE:GHCC:2026:ARR.096)</a> — Cour constitutionnelle de Belgique · <time datetime="2026-09-10">10 septembre 2026</time> · source primaire <a class="retour" href="#renvoi-4" aria-label="Retour au texte">↩</a></li><li id="note-5"><a href="https://www.lavenir.net/actu/belgique/politique/2026/09/10/les-cpas-ont-50-ans-du-minimex-de-1976-aux-exclusions-de-2026-SETJU7XDQZEMDIADUQYY56WQEM/" rel="nofollow noopener" target="_blank">Les CPAS ont 50 ans : du Minimex de 1976 aux exclusions massives de 2026</a> — L’Avenir · <time datetime="2026-09-10">10 septembre 2026</time> · presse <a class="retour" href="#renvoi-5" aria-label="Retour au texte">↩</a></li><li id="note-6"><a href="https://www.moustique.be/notre-epoque/nos-explications/2026/03/12/exclusions-du-chomage-les-cpas-voient-ils-affluer-les-demandes-de-revenu-dintegration-B63TSFM4HJG4LBPMIWFKOC7C7A/" rel="nofollow noopener" target="_blank">Chômage : seul un tiers des exclus devait s’adresser au CPAS, selon les calculs de l’Arizona</a> — Moustique · <time datetime="2026-03-12">12 mars 2026</time> · presse <a class="retour" href="#renvoi-6" aria-label="Retour au texte">↩</a></li><li id="note-7"><a href="https://www.dhnet.be/dernieres-depeches/2026/04/14/reforme-du-chomage-lafflux-vers-les-cpas-serait-moins-massif-que-prevu-selon-une-etude-de-la-ku-leuven-EQ4MBU5NCZCVHJETS2J3CORA4I/" rel="nofollow noopener" target="_blank">Réforme du chômage : l’afflux vers les CPAS serait moins massif que prévu, selon une étude de la KU Leuven</a> — La DH / Les Sports+ · <time datetime="2026-04-14">14 avril 2026</time> · presse <a class="retour" href="#renvoi-7" aria-label="Retour au texte">↩</a></li><li id="note-8"><a href="https://www.lalibre.be/belgique/politique-belge/2026/07/10/larizona-sengage-a-realiser-10-milliards-deuros-deffort-budgetaire-pour-2029-G6Y4IT4PDVHCDKARKEUC4233W4/" rel="nofollow noopener" target="_blank">L’Arizona s’engage à réaliser 10 milliards d’euros d’effort budgétaire pour 2029</a> — La Libre Belgique · <time datetime="2026-07-10">10 juillet 2026</time> · presse <a class="retour" href="#renvoi-8" aria-label="Retour au texte">↩</a></li><li id="note-9"><a href="https://www.rtbf.be/article/le-gouvernement-federal-s-accorde-sur-un-effort-de-10-milliards-d-euros-d-ici-2029-et-tiendra-un-conclave-budgetaire-fin-septembre-11756074" rel="nofollow noopener" target="_blank">Le gouvernement fédéral s’accorde sur un effort de 10 milliards d’euros d’ici 2029 et tiendra un conclave budgétaire fin septembre</a> — RTBF · <time datetime="2026-07-10">10 juillet 2026</time> · presse <a class="retour" href="#renvoi-9" aria-label="Retour au texte">↩</a></li><li id="note-10"><a href="https://www.rtbf.be/article/casting-du-nouveau-gouvernement-bruxellois-qui-sont-les-ministres-et-secretaires-d-etat-11679616" rel="nofollow noopener" target="_blank">Casting du nouveau gouvernement bruxellois : qui sont les ministres et secrétaires d’État ?</a> — RTBF · <time datetime="2026-02-14">14 février 2026</time> · presse <a class="retour" href="#renvoi-10" aria-label="Retour au texte">↩</a></li><li id="note-11"><a href="https://www.lalibre.be/belgique/societe/2026/06/23/budget-bruxellois-un-derapage-annonce-de-300-millions-deuros-hypotheque-lambition-dun-retour-a-lequilibre-UL25QO4RRBDKTFX5POH7GBL7VE/" rel="nofollow noopener" target="_blank">Budget bruxellois : un dérapage annoncé de 300 millions d’euros hypothèque l’ambition d’un retour à l’équilibre</a> — La Libre Belgique · <time datetime="2026-06-23">23 juin 2026</time> · presse <a class="retour" href="#renvoi-11" aria-label="Retour au texte">↩</a></li><li id="note-12"><a href="https://www.lalibre.be/belgique/politique-belge/2026/07/15/le-plan-de-frank-vandenbroucke-pour-economiser-638-millions-dans-les-soins-de-sante-G73DXDLCCVGVTFJO4YYXU4ABEY/" rel="nofollow noopener" target="_blank">Le plan de Frank Vandenbroucke pour économiser 638 millions dans les soins de santé</a> — La Libre Belgique · <time datetime="2026-07-15">15 juillet 2026</time> · presse <a class="retour" href="#renvoi-12" aria-label="Retour au texte">↩</a></li><li id="note-13"><a href="https://www.rtbf.be/article/budget-federal-faut-il-supprimer-les-voitures-de-societe-pour-faire-des-economies-11786701" rel="nofollow noopener" target="_blank">Budget fédéral : faut-il supprimer les voitures de société pour faire des économies ?</a> — RTBF · <time datetime="2026-09-17">17 septembre 2026</time> · presse <a class="retour" href="#renvoi-13" aria-label="Retour au texte">↩</a></li><li id="note-14"><a href="https://www.rtbf.be/article/reforme-des-pensions-le-malus-pension-n-entrera-en-vigueur-qu-en-2027-11637507" rel="nofollow noopener" target="_blank">C’est confirmé, le malus pension n’entrera en vigueur qu’en 2027</a> — RTBF · <time datetime="2025-11-25">25 novembre 2025</time> · presse <a class="retour" href="#renvoi-14" aria-label="Retour au texte">↩</a></li><li id="note-15"><a href="https://www.lalibre.be/belgique/politique-belge/2026/05/30/la-cgslb-change-de-nom-le-syndicat-liberal-devient-synova-MUZWNEVL4FH7DBJFIF2XF2UOOA/" rel="nofollow noopener" target="_blank">La CGSLB change de nom : le syndicat libéral devient SYNOVA</a> — La Libre Belgique · <time datetime="2026-05-30">30 mai 2026</time> · presse <a class="retour" href="#renvoi-15" aria-label="Retour au texte">↩</a></li><li id="note-16"><a href="https://cessoc.be/content/article/25356" rel="nofollow noopener" target="_blank">Journée d’action syndicale le 24 septembre 2026</a> — CESSoC · <time datetime="2026-08-28">28 août 2026</time> · partie prenante <a class="retour" href="#renvoi-16" aria-label="Retour au texte">↩</a></li><li id="note-17"><a href="https://www.lavenir.net/actu/belgique/politique/2026/07/01/budget-federal-les-charges-dinteret-de-la-dette-ont-depasse-les-10-milliards-deuros-NAEUKMMZIRFNFPOUM2ONR6TUXE/" rel="nofollow noopener" target="_blank">Budget fédéral : les charges d’intérêt de la dette ont dépassé les 10 milliards d’euros</a> — L’Avenir · <time datetime="2026-07-01">1er juillet 2026</time> · presse <a class="retour" href="#renvoi-17" aria-label="Retour au texte">↩</a></li><li id="note-18"><a href="https://www.nbb.be/fr/actualites-et-evenements/actualites/la-croissance-economique-belge-devrait-rebondir-03-au-troisieme" rel="nofollow noopener" target="_blank">La croissance économique belge devrait rebondir à 0,3 % au troisième trimestre de 2026</a> — Banque nationale de Belgique · institution <a class="retour" href="#renvoi-18" aria-label="Retour au texte">↩</a></li><li id="note-19"><a href="https://fin.belgium.be/fr/particuliers/declaration-impot/revenus/taxe-plus-values" rel="nofollow noopener" target="_blank">Taxe sur les plus-values</a> — SPF Finances · source primaire <a class="retour" href="#renvoi-19" aria-label="Retour au texte">↩</a></li><li id="note-20"><a href="https://www.grantthornton.be/fr/the-field/articles/Direct-tax/la-nouvelle-taxe-belge-sur-les-plus-values/" rel="nofollow noopener" target="_blank">La nouvelle taxe belge sur les plus-values</a> — Grant Thornton Belgium · partie prenante <a class="retour" href="#renvoi-20" aria-label="Retour au texte">↩</a></li></ol></section>
+</main>
+<footer class="pied"><div class="pied-i">
+  <div class="pied-grille">
+    <div><h2>Le site</h2><ul>
+      <li><a href="dossiers/">Dossiers</a></li>
+      <li><a href="acteurs/">Acteurs</a></li>
+      <li><a href="chronologie.html">Chronologie</a></li>
+      <li><a href="indicateurs.html">Indicateurs</a></li>
+    </ul></div>
+    <div><h2>Vérification</h2><ul>
+      <li><a href="sources.html">Sources</a></li>
+      <li><a href="methode.html">Méthode</a></li>
+      <li><a href="donnees.html">Données ouvertes</a></li>
+      <li><a href="feed.xml">Flux Atom</a></li>
+    </ul></div>
+    <div><h2>Auteur</h2><ul>
+      <li>Claude (Anthropic)</li>
+      <li>Édition et supervision humaines</li>
+      <li><a href="a-propos.html">Licence et signature</a></li>
+    </ul></div>
+  </div>
+  <p class="pied-legal">21.09.26 · site indépendant · sans publicité, sans traceur, sans requête vers un tiers · textes CC BY 4.0, code et données CC0</p>
+</div></footer>
+<script src="assets/app.js" defer></script>
+</body>
+</html>
