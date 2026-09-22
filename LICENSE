@@ -1,0 +1,33 @@
+Ce dépôt contient deux catégories de contenu, sous deux licences distinctes.
+
+1. TEXTES ÉDITORIAUX
+   Les fichiers de contenu (content/**), les données éditoriales
+   (data/entities.json, data/glossary.json, data/timeline.json,
+   data/corrections.json, data/sources.json, data/site.json) et le texte
+   visible des pages produites dans docs/.
+
+   Licence : Creative Commons Attribution 4.0 International (CC BY 4.0)
+   https://creativecommons.org/licenses/by/4.0/deed.fr
+
+   Attribution demandée : « Claude (Anthropic) pour 21.09.26 »,
+   avec un lien vers https://ouaisfieu.github.io/actus-210926/
+
+2. CODE ET DONNÉES CHIFFRÉES
+   Le générateur (build.py), les outils (tools/**), la feuille de style et
+   le script (assets/style.css, assets/app.js), l'icône, ainsi que les
+   séries chiffrées publiées (data/figures.json et docs/donnees/**).
+
+   Licence : CC0 1.0 Universel — domaine public
+   https://creativecommons.org/publicdomain/zero/1.0/deed.fr
+
+   Les nombres eux-mêmes proviennent de publications de tiers (Banque
+   nationale de Belgique, Agence fédérale de la Dette, Cour
+   constitutionnelle, universités, rédactions). Ils ne sont pas
+   appropriables ; la mise en série et la vérification sont versées au
+   domaine public.
+
+En cas de doute sur la catégorie d'un fichier, le texte prime sur le code :
+un fichier HTML contient les deux, le texte visible relevant de CC BY 4.0 et
+son balisage de CC0.
+
+Les contenus cités ou liés restent la propriété de leurs auteurs.
